@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <path id="c" d="M0 3.333V0h5.333v3.333c0 2-2.666 3.334-2.666 3.334S0 5.333 0 3.333z"/>
+        <linearGradient id="e" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#E20B0C"/>
+            <stop offset="100%" stop-color="#D40001"/>
+        </linearGradient>
+        <path id="f" d="M.667 4L-4 0h.667l4.666 3.333h1.334L8 0v.333a.716.716 0 0 1-.278.532L3.333 4v1.333L7.75 9.118c.139.119.096.215-.082.215-.184 0-.449-.082-.612-.198L2.667 6H1.333L-4 9.333v-.666L.667 5.333V4z"/>
+        <linearGradient id="g" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DB1E36"/>
+            <stop offset="100%" stop-color="#D51931"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#DC1F37" d="M-4 0h28v20H-4z" mask="url(#b)"/>
+        <path fill="#042C90" d="M-4 0H8v9.333H-4z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <g transform="translate(13.333 6.667)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#FFF" xlink:href="#c"/>
+                <circle cx="2.667" cy="4" r="1.333" fill="#65B5D2" mask="url(#d)"/>
+                <path fill="url(#e)" d="M2.667 2.667a.667.667 0 1 1 0-1.334.667.667 0 0 1 0 1.334zM1.333 4a.667.667 0 1 1 0-1.333.667.667 0 0 1 0 1.333zM4 4a.667.667 0 1 1 0-1.333A.667.667 0 0 1 4 4z" mask="url(#d)"/>
+                <path fill="#2F8F22" d="M0 5.333h5.333v1.333H0z" mask="url(#d)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <use fill="#DB1E36" xlink:href="#f"/>
+            <path stroke="#FFF" stroke-width=".667" d="M.333 4.153L-4.9-.333h1.568l.193.062L1.44 3h1.131L8.333-.601v.934c0 .296-.17.627-.417.803l-4.25 3.036V5.18l4.3 3.685c.377.323.185.802-.3.802-.257 0-.588-.107-.804-.261L2.56 6.333H1.429l-5.762 3.602v-1.44L.333 5.162V4.153z"/>
+        </g>
+        <path fill="#FFF" d="M-4 3.333V6H.667v3.34c0 .364.306.66.673.66h1.32a.67.67 0 0 0 .673-.66V6h4.658a.677.677 0 0 0 .676-.673v-1.32a.674.674 0 0 0-.676-.674H3.333V0H.667v3.333H-4z" mask="url(#b)"/>
+        <path fill="url(#g)" d="M-4 4h5.333V0h1.334v4H8v1.333H2.667v4H1.333v-4H-4z" mask="url(#b)"/>
+    </g>
+</svg>

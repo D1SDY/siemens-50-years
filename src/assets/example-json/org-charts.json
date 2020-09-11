@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "title": "section1",
+      "children": [
+        {
+          "title": "",
+          "tiles": [
+            {
+              "active": "true",
+              "orgCode": "",
+              "orgName": "Managing Board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "section2",
+      "children": [
+        {
+          "title":"Operating Companies",
+          "tiles": [
+            {
+              "orgCode": "GP",
+              "orgName": "Gas and Power",
+              "expanded": "true",
+              "countries": [
+                {
+                  "code": "RC-MA",
+                  "name": "Marocco"
+                },
+                {
+                  "code": "RC-NG",
+                  "name": "Nigeria"
+                },
+                {
+                  "code": "RC-ZA",
+                  "name": "South Africa"
+                }
+              ]
+            },
+            {
+              "orgCode": "SI",
+              "orgName": "Smart Infrastucture",
+              "expanded": "true",
+              "countries": [
+                {
+                  "code": "RC-AE",
+                  "name": "United Arab Emirates"
+                },
+                {
+                  "code": "RC-AU",
+                  "name": "Australia"
+                },
+                {
+                  "code": "RC-CA",
+                  "name": "Canada"
+                },
+                {
+                  "code": "RC-CH",
+                  "name": "Switzerland"
+                },
+                {
+                  "code": "RC-FR",
+                  "name": "France"
+                },
+                {
+                  "code": "RC-MX",
+                  "name": "Mexico"
+                },
+                {
+                  "code": "RC-SA",
+                  "name": "Saudi Arabia"
+                },
+                {
+                  "code": "RC-SG",
+                  "name": "Singapore"
+                },
+                {
+                  "code": "RC-TR",
+                  "name": "Turkey"
+                },
+                {
+                  "code": "RC-GB",
+                  "name": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "orgCode": "DI",
+              "orgName": "Digital Industries",
+              "expanded": "true",
+              "countries": [
+                {
+                  "code": "RC-AR",
+                  "name": "Argentina"
+                },
+                {
+                  "code": "RC-AT",
+                  "name": "Austria"
+                },
+                {
+                  "code": "RC-BR",
+                  "name": "Brazil"
+                },
+                {
+                  "code": "RC-ES",
+                  "name": "Spain"
+                },
+                {
+                  "code": "RC-IT",
+                  "name": "Italy"
+                },
+                {
+                  "code": "RC-JP",
+                  "name": "Japan"
+                },
+                {
+                  "code": "RC-NL",
+                  "name": "Netherlands"
+                },
+                {
+                  "code": "RC-KR",
+                  "name": "Republic of Korea"
+                },
+                {
+                  "code": "RC-RU",
+                  "name": "Russian Federation"
+                },
+                {
+                  "code": "RC-SE",
+                  "name": "Sweden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title":"Strategic Companies",
+          "tiles": [
+            {
+              "orgCode": "MO",
+              "orgName": "Mobility"
+            },
+            {
+              "orgCode": "SGRE",
+              "orgName": "Siemens Gamesa Renewable Energy"
+            },
+            {
+              "orgCode": "SH",
+              "orgName": "Siemens Healthineers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title":"section3",
+      "children": [
+        {
+          "title": "Corporate Countries",
+          "tiles":[
+            {
+              "orgCode": "RC-CN",
+              "orgName": "China"
+            },
+            {
+              "orgCode": "RC-DE",
+              "orgName": "Germany"
+            },
+            {
+              "orgCode": "RC-IN",
+              "orgName": "India"
+            },
+            {
+              "orgCode": "RC-US",
+              "orgName": "United States"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title":"section4",
+      "children": [
+        {
+          "title": "Service Companies",
+          "tiles":[
+            {
+              "orgCode": "SFS",
+              "orgName": "Financial Services"
+            },
+            {
+              "orgCode": "GBS",
+              "orgName": "Global Buisness Services"
+            },
+            {
+              "orgCode": "RE",
+              "orgName": "Real Estate Services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title":"section5",
+      "children": [
+        {
+          "title": "Corporate Development",
+          "tiles":[
+            {
+              "orgCode": "CT",
+              "orgName": "Corporate Technology"
+            },
+            {
+              "orgCode": "IOT",
+              "orgName": "Internet of Things"
+            },
+            {
+              "orgCode": "N47",
+              "orgName": "Next 47"
+            },
+            {
+              "orgCode": "SOP",
+              "orgName": "Siemens Operations"
+            },
+            {
+              "orgCode": "ST",
+              "orgName": "Strategy"
+            },
+            {
+              "orgCode": "POC",
+              "orgName": "Portfolio "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title":"section6",
+      "children": [
+        {
+          "title": "Governance",
+          "tiles":[
+            {
+              "orgCode": "CF",
+              "orgName": "Controlling and Finance"
+            },
+            {
+              "orgCode": "LC",
+              "orgName": "Legal and Compliance"
+            },
+            {
+              "orgCode": "HR",
+              "orgName": "Human Resources"
+            },
+            {
+              "orgCode": "CM",
+              "orgName": "Communications"
+            },
+            {
+              "orgCode": "GM",
+              "orgName": "Governance & Markets"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

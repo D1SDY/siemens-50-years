@@ -1,0 +1,366 @@
+$orgchart:(
+    width: 260px,
+    widthExtended: 840px,
+    widthManagingBoard: 540px,
+    heightBox: 140px,
+    heightHead: 36px,
+    heightContent: 76px,
+    heightFooter: 22px,
+    fontSizeSmall: 14px,
+    fontSize: 18px,
+    lineHeight: 16px,
+    textColor: getColor(text, text1),
+    colorHighlight: getColor(interactive, standard-link),
+    textColorHighlight: getColor(interactive, standard-link),
+    item: (
+        backgroundColor: getColor(text, white)
+    ),
+    mainColor: getColor(interactive, active),
+    lineThickness: 0.08rem,
+    lineColor: darken(getColor(background, standard), 15%),
+    shadowDrop: 0 1px 5px rgba(0, 0, 0, 0.1),
+    toolbar:(
+        backgroundColor: rgba(0,70,105,0.95),
+        color: getColor(secondary-styleguide, blue-light),
+        colorHover: getColor(blue, 11),
+        colorActive: getColor(blue, 11),
+        dropdownBackgroundColor: getColor(secondary-styleguide, blue-light)
+    ),
+    breadcrumbs: (
+        color: getColor(primary-styleguide, stone-light-35),
+        colorActive: getColor(text, inact)
+    ),
+    employees: (
+        backgroundColor: rgba(0,70,105,0.95),
+        colorHighlight: getColor(secondary-styleguide, blue-light),
+        colorNoHighlight: getColor(interactive, active),
+        colorHovered: getColor(blue,9),
+        listitemBorderColor: getColor(blue,4)
+    ),
+    jobs: (
+        color:getColor(secondary-styleguide, green-light)
+    ),
+    sidebar: (
+        iconColor: getColor(text, inact),
+        hoverColor: getColor(interactive, hover-link),
+        activeColorProfile: getColor(secondary-styleguide, blue-light),
+        activeColorJob: getColor(secondary-styleguide, green-light),
+        activeColorInformation:  getColor(yellow,6),
+        activeColorReportinglines: getColor(secondary-styleguide, red-light)
+    ),
+    mediaQuerys:(
+        small: "(max-width: 612px) and (orientation: portrait)",
+        small-l: "(max-width: 799px) and (orientation: landscape)",
+        medium: "(min-width: 613px) and (max-width: 1208px) and (orientation: portrait)",
+        medium-l: "(max-width: 1208px) and (orientation: landscape)",
+        large: "(min-width: 1209px) and (max-width: 1799px) and (orientation: landscape)",
+        xtralarge: "(min-width: 1800px) and (max-width: 2200px) and (orientation: landscape)"
+    )
+);
+$orgchartPlanning:(
+    width: 260px,
+    widthExtended: 840px,
+    heightBox: 140px,
+    heightHead: 36px,
+    heightContent: 76px,
+    heightFooter: 22px,
+    fontSizeSmall: 14px,
+    fontSize: 18px,
+    linkColor: getColor(interactive, standard-link),
+    lineHeight: 16px,
+    textColor: getColor(text, text2),
+    colorHighlight: getColor(blue,4),
+    textColorHighlight: getColor(secondary-styleguide, teal-dark),
+    item: (
+        backgroundColor: rgb(235,240,245),
+        backgroundColorHover: getColor(primary-styleguide, stone-light),
+        borderColor: getColor(primary-styleguide, stone-light-35),
+    ),
+    reportingLines: (
+        color: getColor(text, text2)
+    ),
+    mainColor: getColor(interactive, active),
+    lineThickness: 0.08rem,
+    lineColor: darken(getColor(background, standard), 15%),
+    shadowDrop: 0 1px 5px rgba(0, 0, 0, 0.1),
+    toolbar:(
+        backgroundColor: getColor(background, standard),
+        color: getColor(primary-styleguide, stone-light),
+        colorHover: getColor(secondary-styleguide, teal-dark),
+        colorActive: getColor(secondary-styleguide, teal-dark),
+        dropdownBackgroundColor: getColor(secondary-styleguide, blue-light)
+    ),
+    breadcrumbs: (
+        color: getColor(text, text2),
+        colorActive: getColor(text, text2)
+    ),
+    employees: (
+        backgroundColor: getColor(secondary-styleguide, teal-dark),
+        colorEmployeesCount:getColor(secondary-styleguide, teal-dark),
+        colorEmployeesCountHover:getColor(secondary-styleguide, teal-light),
+        colorEmployeesCountActive: getColor(text, white),
+        colorEmployeesCountTotal:getColor(text, text2),
+        colorEmployeesCountTotalActive:getColor(primary-styleguide, stone-light-35),
+        listitembackgroundColorHover:getColor(text, white),
+        listitemColorHover:getColor(secondary-styleguide, teal-dark),
+        listitembackgroundColorHighlight:getColor(text, white),
+        listitemBorderColor: getColor(secondary-styleguide, teal-dark)
+    ),
+    jobs: (
+        color:getColor(secondary-styleguide, green-light)
+    ),
+    sidebar: (
+        iconColor: getColor(text, inact),
+        activeColorProfile: getColor(secondary-styleguide, blue-light),
+        activeColorJob: getColor(secondary-styleguide, green-light),
+        activeColorInformation:  getColor(yellow,6),
+        activeColorReportinglines: getColor(secondary-styleguide, red-light)
+    ),
+    mediaQuerys:(
+        small: "(max-width: 612px) and (orientation: portrait)",
+        small-l: "(max-width: 799px) and (orientation: landscape)",
+        medium: "(min-width: 613px) and (max-width: 1208px) and (orientation: portrait)",
+        medium-l: "(max-width: 1208px) and (orientation: landscape)",
+        large: "(min-width: 1209px) and (max-width: 1799px) and (orientation: landscape)",
+        xtralarge: "(min-width: 1800px) and (max-width: 2200px) and (orientation: landscape)"
+    )
+);
+$scvchart:(
+    width: 180px,
+    widthExtended: 720px,
+    heightBox: 260px,
+    childrenHeightBox:220px,
+    heightHead: 40px,
+    heightContent: 170px,
+    heightFooter: 71px,
+    fontSizeSmall: 10px,
+    fontSizeMedium: 14px,
+    fontSize: 18px,
+    lineHeight: 14.4px,
+    textColor: getColor(text, text1),
+    colorHighlight: getColor(blue,4),
+    textColorHighlight: #50bed7,
+    mainColor: getColor(interactive, active),
+    lineThickness: 0.08rem,
+    lineColor: darken(getColor(background, standard), 15%),
+    shadowDrop: 0 1px 5px rgba(0, 0, 0, 0.1),
+    toolbar:(
+        backgroundColor: rgba(0,70,105,0.95),
+        dropdownBackgroundColor: getColor(secondary-styleguide, blue-light)
+    ),
+    employees: (
+        backgroundColor: rgba(0,70,105,0.95),
+        colorHighlight: getColor(secondary-styleguide, blue-light),
+        colorNoHighlight: getColor(interactive, active),
+        colorHovered: getColor(blue,9),
+        listitemBorderColor: getColor(blue,4)
+    ),
+    jobs: (
+        color:getColor(secondary-styleguide, green-light)
+    ),
+    sidebar: (
+        iconColor: getColor(text, inact),
+        activeColorProfile: getColor(secondary-styleguide, blue-light),
+        activeColorJob: getColor(secondary-styleguide, green-light),
+        activeColorInformation:  getColor(yellow,6),
+        activeColorReportinglines: getColor(secondary-styleguide, red-light)
+    ),
+    mediaQuerys:(
+        small: "(max-width: 612px) and (orientation: portrait)",
+        small-l: "(max-width: 799px) and (orientation: landscape)",
+        medium: "(min-width: 613px) and (max-width: 1208px) and (orientation: portrait)",
+        medium-l: "(max-width: 1208px) and (orientation: landscape)",
+        large: "(min-width: 1209px) and (max-width: 1799px) and (orientation: landscape)",
+        xtralarge: "(min-width: 1800px) and (max-width: 2200px) and (orientation: landscape)"
+    )
+);
+
+$orgchart-print:(
+    width: 170px,
+    widthExtended: 600px,
+    heightBox: 90px,
+    heightHead: 20px,
+    heightContent: 48px,
+    heightFooter: 15px,
+    fontSizeSmall: 10px,
+    fontSize: 11px,
+    lineHeight: 12px,
+    textColor: getColor(text, text1),
+    colorHighlight: getColor(text, text1),
+    textColorHighlight: #000000,
+    mainColor: getColor(text, text1),
+    secondaryColor: getColor(text, text2),
+    lineThickness: 1px,
+    lineColor: getColor(primary-styleguide, stone-light),
+    employees: (
+        backgroundColor: rgba(0,70,105,0.95),
+        colorHighlight: getColor(text, text3),
+        colorNoHighlight:#000000,
+        colorHovered: getColor(text, text1),
+        listitemBorderColor: getColor(text, text1)
+    ),
+    item: (
+        backgroundColor: rgb(235,240,245),
+        backgroundColorHover: getColor(text, text1),
+        borderColor: getColor(primary-styleguide, stone-light),
+    ),
+    toolbar:(
+        backgroundColor: rgba(0,70,105,0.95),
+        color: getColor(secondary-styleguide, blue-light),
+        colorHover: getColor(blue, 11),
+        colorActive: getColor(blue, 11),
+        dropdownBackgroundColor: getColor(secondary-styleguide, blue-light)
+    ),
+    breadcrumbs: (
+        color: getColor(primary-styleguide, stone-light-35),
+        colorActive: getColor(text, inact)
+    ),
+    jobs: (
+        color:getColor(secondary-styleguide, green-light)
+    ),
+    sidebar: (
+        iconColor: getColor(text, inact),
+        activeColorProfile: getColor(secondary-styleguide, blue-light),
+        activeColorJob: getColor(secondary-styleguide, green-light),
+        activeColorInformation:  getColor(yellow,6),
+        activeColorReportinglines: getColor(secondary-styleguide, red-light)
+    ),
+    mediaQuerys:(
+        small: "(max-width: 612px) and (orientation: portrait)",
+        small-l: "(max-width: 799px) and (orientation: landscape)",
+        medium: "(min-width: 613px) and (max-width: 1208px) and (orientation: portrait)",
+        medium-l: "(max-width: 1208px) and (orientation: landscape)",
+        large: "(min-width: 1209px) and (max-width: 1799px) and (orientation: landscape)",
+        xtralarge: "(min-width: 1800px) and (max-width: 2200px) and (orientation: landscape)"
+    )
+);
+
+
+$organizationChart:(
+    screen:(
+        // [organizationChart.screen]
+        colorLink: getColor(interactive, standard-link),
+        colorLinkActive: getColor(blue,2),
+
+        organizationItem:(
+            backgroundColor: getColor(text, white),
+            backgroundColorActive: getColor(blue,2),
+            colorContent: getColor(text, text1),
+            colorContentActive: getColor(text, white),
+            colorContentHovered: getColor(text, white),
+            colorTitle: getColor(blue,2),
+            colorTitleActive: getColor(text, white),
+            colorTitleHovered: getColor(text, white),
+            fontSizeContent: 14px,
+            fontSizeTitle: 18px,
+            lineHeightContent: 16px,
+            lineHeightTitle: 18px,
+            paddingInside: 0 12px,
+            paddingOutside: 20px 0 10px 20px,
+            width: 260px,
+            widthManagingBoard: 540px,
+        ),
+
+        employees:(
+            backgroundColor: getColor(blue,1),
+            backgroundColorActive: getColor(secondary-styleguide, blue-light),
+            backgroundColorHovered: getColor(interactive, standard-link),
+            borderColorImage: getColor(secondary-styleguide, blue-light),
+            borderColorListItem: rgba(15,120,155,.5),
+            colorContent: getColor(text, white),
+            colorContentActive: getColor(text, white),
+            colorContentHovered: getColor(text, white),
+            colorDropdownToggle: getColor(secondary-styleguide, blue-light),
+            colorDropdownToggleActive: getColor(secondary-styleguide, blue-light),
+            colorDropdownToggleHovered: getColor(blue,9)
+        ),
+
+        jobs: (
+            colorContent: getColor(secondary-styleguide, green-light)
+        ),
+
+        toolbar:(
+            backgroundColor: rgba(0,70,105,.95),
+            colorContent: getColor(secondary-styleguide, blue-light),
+            colorContentActive: getColor(blue,9),
+            colorContentHovered: getColor(blue,9)
+        ),
+
+        sidebar: (
+            colorButton: getColor(text, inact),
+            colorButtonHovered: getColor(text, inact),
+            colorButtonProfileActive: getColor(secondary-styleguide, blue-light),
+            colorButtonJobActive: getColor(secondary-styleguide, green-light),
+            colorButtonInformationActive: getColor(yellow,6),
+        )
+        // [/organizationChart.screen]
+    ),
+    mobile:(
+        // [organizationChart.mobile]
+        mediaQuerys:(
+            small: "(max-width: 612px) and (orientation: portrait)",
+            small-l: "(max-width: 799px) and (orientation: landscape)",
+            medium: "(min-width: 613px) and (max-width: 1208px) and (orientation: portrait)",
+            medium-l: "(max-width: 1208px) and (orientation: landscape)",
+            large: "(min-width: 1209px) and (max-width: 1799px) and (orientation: landscape)",
+            xtralarge: "(min-width: 1800px) and (max-width: 2200px) and (orientation: landscape)"
+        )
+        // [/organizationChart.mobile]
+    ),
+    print:(
+        // [organizationChart.print]
+        // [/organizationChart.print]
+    )
+);
+
+$listView:(
+    table: (
+        backgroundColor: getColor(text, white),
+        table-head: (
+            height: 40px,
+            heightOnScroll: 40px,
+            backgroundColor: getColor(blue,1),
+            color: getColor(blue,7),
+            fontSize: 12px
+        ),
+        table-row: (
+            first-row: (
+                height: 40px,
+                backgroundColor: getColor(background, standard),
+                color: getColor(text, text1),
+                fontSize: 14px,
+                arrowColor: getColor(interactive, standard-link)
+            ),
+            other-rows: (
+                height: 48px,
+                backgroundColorActive: getColor(secondary-styleguide, blue-light),
+                colorActive: getColor(text, white),
+                color: #333,
+                fontSize: 12px,
+                lineHeight: 15px,
+                padding: 0 15px,
+                border: 1px solid getColor(text, inact)
+            )
+        )
+    )
+);
+
+$cosmos: (
+    body:(
+        fontFamily: SiemensSans,
+        fontSize: 14px,
+        color: #000
+    ),
+    links: (
+        color: #000,
+        colorHover: #000,
+        colorActive: #000,
+        textDecoration: #000
+    )
+);
+$scrollbar: (
+    width: 8px,
+    paddingTopBottom: 8px,
+    paddingLeft: 6px,
+    paddingRight: 6px
+);

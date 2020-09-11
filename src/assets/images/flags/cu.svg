@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <rect width="19.5" height="19.5" x=".25" y=".25" stroke="#F5F5F5" stroke-width=".5" rx="9.75"/>
+        <path fill="#0B389F" d="M0 0h28v4H0zM0 8h28v4H0zM0 16h28v4H0z" mask="url(#b)"/>
+        <path fill="#E12A43" d="M0 0l13.333 10L0 20z" mask="url(#b)"/>
+        <path fill="#FFF" d="M4.667 11.023l-1.568 1.134.595-1.841-1.563-1.14 1.935-.003.6-1.84.602 1.84 1.935.003-1.564 1.14.595 1.841z" mask="url(#b)"/>
+    </g>
+</svg>

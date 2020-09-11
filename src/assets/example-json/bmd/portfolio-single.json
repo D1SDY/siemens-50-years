@@ -1,0 +1,213 @@
+{
+    "panels": [
+        "Digitalization",
+        "Automation",
+        "Electrification",
+        "Financial Services"
+    ],
+    "Digitalization": {
+        "name": "Digitalization",
+        "areas": [
+            {
+                "name": "Conventional",
+                "parent": {
+                    "name": "Power Generation",
+                    "hide": "false",
+                    "size": "double"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Edge Devices and Software"
+                    },
+                    {
+                        "name": "Software Control Systems"
+                    },
+                    {
+                        "name": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+                    }
+                ]
+            },
+            {
+                "name": "Alternative",
+                "parent": {
+                    "name": "Power Generation",
+                    "hide": "true"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Control Products"
+                    },
+                    {
+                        "name": "Edge Devices and Software"
+                    },
+                    {
+                        "name": "Software Control Systems"
+                    },
+                    {
+                        "name": "Virtual Power Plant"
+                    }
+                ]
+            },
+            {
+                "name": "Power Transmission",
+                "parent": {
+                    "name": "Power Supply",
+                    "hide": "false",
+                    "size": "double"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Smart Grid offerings"
+                    },
+                    {
+                        "name": "Energy Consulting Services"
+                    },
+                    {
+                        "name": "Grid Control Center"
+                    },
+                    {
+                        "name": "Virtual Power Plant"
+                    },
+                    {
+                        "name": "Substation"
+                    },
+                    {
+                        "name": "Transformers"
+                    },
+                    {
+                        "name": "Solution Business"
+                    },
+                    {
+                        "name": "High Voltage Products"
+                    }
+                ]
+            },
+            {
+                "name": "Power Distribution",
+                "parent": {
+                    "name": "Power Supply",
+                    "hide": "true"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Control Products"
+                    },
+                    {
+                        "name": "Smart Grid offerings"
+                    },
+                    {
+                        "name": "Energy Consulting Services"
+                    },
+                    {
+                        "name": "Grid Control Center"
+                    },
+                    {
+                        "name": "Virtual Power Plant"
+                    }
+                ]
+            },
+            {
+                "name": "Buildings",
+                "parent": {
+                    "name": "Power Consumption",
+                    "hide": "false",
+                    "size": "five"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Building Software"
+                    },
+                    {
+                        "name": "Digital Services"
+                    }
+                ]
+            },
+            {
+                "name": "Mobility",
+                "parent": {
+                    "name": "Power Consumption",
+                    "hide": "true"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Control Products"
+                    },
+                    {
+                        "name": "Edge Device and Software"
+                    },
+                    {
+                        "name": "Mobility Software"
+                    },
+                    {
+                        "name": "Digital Services"
+                    },
+                    {
+                        "name": "Crane Solutions"
+                    },
+                    {
+                        "name": "Rail Automation"
+                    }
+                ]
+            },
+            {
+                "name": "Discrete Industries",
+                "parent": {
+                    "name": "Power Consumption",
+                    "hide": "true"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Control Products"
+                    },
+                    {
+                        "name": "Edge Device and Software"
+                    },
+                    {
+                        "name": "Crane Solutions"
+                    }
+                ]
+            },
+            {
+                "name": "Process Industries",
+                "parent": {
+                    "name": "Power Consumption",
+                    "hide": "true"
+                },
+                "portfolioAreas": [
+                    {
+                        "name": "Control Products"
+                    },
+                    {
+                        "name": "Edge Device and Software"
+                    },
+                    {
+                        "name": "Distributed Control System"
+                    },
+                    {
+                        "name": "Process-/ Plant Engineering Software"
+                    },
+                    {
+                        "name": "Crane Solutions"
+                    },
+                    {
+                        "name": "Solutions for Verticals"
+                    },
+                    {
+                        "name": "Oil & Gas Digital Solutions"
+                    },
+                    {
+                        "name": "Fiber/Marine/Minerals Digital Solutions"
+                    }
+                ]
+            },
+            {
+                "name": "Healthcare",
+                "parent": {
+                    "name": "Power Consumption",
+                    "hide": "true"
+                }
+            }
+        ],
+        "portfolioAreas": []
+    }
+}

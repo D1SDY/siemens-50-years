@@ -1,0 +1,26 @@
+.hide-s {
+  @media #{getDevice(small)} {
+      display: none !important;
+  }
+}
+
+.hide-s-l {
+  @media #{getDevice(small-l)} {
+      display: none !important;
+  }
+}
+
+.hide-m {
+  @media #{getDevice(medium)} {
+      display: none !important;
+  }
+}
+
+.hide-m-l {
+  @media #{getDevice(medium-l)} {
+      display: none !important;
+  }
+  @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1.5) {
+      display: none !important;
+  }
+}

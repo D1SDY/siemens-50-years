@@ -1,0 +1,286 @@
+.mat-checkbox-layout {
+  white-space: normal !important;
+}
+
+.mat-checkbox-ripple.mat-ripple {
+  display: none;
+}
+
+.soc-checkbox-container {
+  column-count: 3;
+  padding: 15px 20px;
+  column-gap: 80px;
+}
+
+.soc-checkbox {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 14px;
+  &.chbx-light {
+    color: getColor(text, white);
+  }
+  &.chbx-dark {
+    color: getColor(text, text1);
+  }
+  &.mat-checkbox-checked {
+    .mat-checkbox-inner-container {
+      border-color: getColor(interactive, hover-link) !important;
+    }
+  }
+  &.chbx-long {
+    width: 100% !important;
+    .mat-checkbox-layout .mat-checkbox-label {
+      width: inherit !important;
+      line-height: 18px;
+      user-select: none;
+    }
+  }
+  &:hover {
+    .mat-checkbox-inner-container {
+      border-color: getColor(interactive, hover-link) !important;
+    }
+    .mat-checkbox-label {
+      color: getColor(interactive, hover-link) !important;
+    }
+  }
+  > label {
+    padding-left: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .mat-checkbox-layout {
+    .mat-checkbox-inner-container {
+      height: 18px;
+      width: 18px;
+      margin: 0 7px 0 0 !important;
+      border-width: 1px;
+      border-style: solid;
+      margin-bottom: 4px;
+      border-color: getColor(primary-styleguide, stone-light);
+      .mat-checkbox-frame {
+        border-width: 0px;
+        border-radius: 0;
+        border-color: transparent;
+      }
+      .mat-checkbox-background {
+        background-color: transparent !important;
+        .mat-checkbox-checkmark-path {
+          stroke: getColor(blue, 2) !important;
+          stroke-width: 4px !important;
+        }
+      }
+    }
+    .mat-checkbox-label {
+      color: getColor(text, text1);
+    }
+  }
+  &.treeview-checkbox {
+    &.active {
+      .mat-checkbox-inner-container {
+        border-color: getColor(blue, 2) !important;
+      }
+      .mat-checkbox-label {
+        color: getColor(blue, 2) !important;
+        font-weight: 500;
+        line-height: 21px;
+      }
+    }
+    .mat-checkbox-layout {
+      overflow: hidden;
+      word-break: break-all;
+      &:hover {
+        .mat-checkbox-inner-container {
+          border-color: getColor(blue, 2) !important;
+        }
+        .mat-checkbox-label {
+          color: getColor(blue, 2) !important;
+        }
+      }
+      .mat-checkbox-inner-container {
+        height: 12px;
+        width: 12px;
+        margin-top: 4px;
+        margin-right: 5px;
+        margin-bottom: 0;
+        border-width: 1px;
+        border-style: solid;
+        border-color: getColor(blue, 2);
+        top: 1px;
+      }
+    }
+    .mat-checkbox-label {
+      height: 22px;
+      width: auto;
+      padding-right: 20px;
+    }
+  }
+  &.disabled {
+    .mat-checkbox-inner-container {
+      border-color: getColor(text, inact) !important;
+      background-color: getColor(interactive, active);
+      .mat-checkbox-background {
+        .mat-checkbox-checkmark-path {
+          stroke: getColor(stone, 6) !important;
+        }
+      }
+    }
+    .mat-checkbox-label {
+      color: getColor(text, text1);
+    }
+  }
+}
+.treeview-checkbox {
+  .soc-checkbox {
+  &.active {
+    .mat-checkbox-inner-container {
+      border-color: getColor(blue, 2) !important;
+    }
+    .mat-checkbox-label {
+      color: getColor(blue, 2) !important;
+      font-weight: 500;
+      line-height: 21px;
+    }
+  }
+  .mat-checkbox-layout {
+    overflow: hidden;
+    word-break: break-all;
+    &:hover {
+      .mat-checkbox-inner-container {
+        border-color: getColor(blue, 2) !important;
+      }
+      .mat-checkbox-label {
+        color: getColor(blue, 2) !important;
+      }
+    }
+    .mat-checkbox-inner-container {
+      height: 12px;
+      width: 12px;
+      margin-top: 4px;
+      margin-right: 5px;
+      margin-bottom: 0;
+      border-width: 1px;
+      border-style: solid;
+      border-color: getColor(blue, 2);
+      top: 1px;
+    }
+  }
+  .mat-checkbox-label {
+    height: 22px;
+    width: auto;
+    padding-right: 20px;
+  }
+}
+}
+.profile-export-checkbox {
+  .soc-checkbox {
+    font-size: 16px;
+    .mat-checkbox-inner-container {
+      height: 16px;
+      width: 16px;
+      margin-top: 0px;
+      border-width: 1px;
+      border-style: solid;
+      border-color: getColor(primary-styleguide, stone-light-35);
+    }
+    .mat-checkbox-label {
+      color: getColor(text, text2);
+    }
+    &.active {
+      span {
+        font-weight: 500;
+      }
+
+      .mat-checkbox-inner-container {
+        border-color: getColor(blue, 2) !important;
+      }
+      .mat-checkbox-label {
+        color: getColor(blue, 2) !important;
+      }
+    }
+  }
+}
+.position-checkbox {
+  .soc-checkbox {
+    font-size: 14px;
+    .mat-checkbox-inner-container {
+      height: 16px;
+      width: 16px;
+      margin-top: 0px;
+      border-width: 1px;
+      border-style: solid;
+      border-color: getColor(primary-styleguide, stone-light-35);
+    }
+    .mat-checkbox-label {
+      color: getColor(text, text1);
+    }
+    &.active {
+      .mat-checkbox-inner-container {
+        border-color: getColor(blue, 2) !important;
+      }
+      /* .mat-checkbox-label {
+                color: getColor(blue, 2) !important;
+            } */
+    }
+  }
+}
+
+.linkedin-checkbox {
+  &.chbx-light {
+    .soc-checkbox {
+      .mat-checkbox-label {
+        color: getColor(text, white);
+      }
+    }
+  }
+  &.chbx-dark {
+    .soc-checkbox {
+      .mat-checkbox-label {
+        color: getColor(text, text1);
+      }
+    }
+  }
+  &:not(:first-child) {
+    margin-left: 20px;
+  }
+  .soc-checkbox {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 12px;
+    .mat-checkbox-label {
+      height: 22px;
+    }
+    .mat-checkbox-layout {
+      padding-left: 0px;
+      .mat-checkbox-inner-container {
+        height: 14px;
+        width: 14px;
+        margin-top: 4px;
+        margin-right: 7px;
+        margin-bottom: 0;
+        border-width: 1px;
+        border-style: solid;
+        border: 1px solid getColor(text, white);
+        top: 2px;
+        .mat-checkbox-frame {
+          border-width: 0px;
+          border-radius: 0;
+          border-color: getColor(text, white);
+        }
+        .mat-checkbox-background {
+          background-color: #283e4a !important;
+          .mat-checkbox-checkmark-path {
+            stroke: getColor(text, white) !important;
+          }
+        }
+      }
+      .mat-checkbox-label {
+        cursor: pointer;
+        display: block;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}
