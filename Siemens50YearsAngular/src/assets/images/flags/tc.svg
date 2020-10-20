@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <path id="c" d="M0 4.667V1.332A1.33 1.33 0 0 1 1.333 0h4c.737 0 1.334.588 1.334 1.332v3.335c0 3.333-3.334 4.666-3.334 4.666S0 8 0 4.667z"/>
+        <path id="e" d="M.667 4L-4 0h.667l4.666 3.333h1.334L8 0v.333a.716.716 0 0 1-.278.532L3.333 4v1.333L7.75 9.118c.139.119.096.215-.082.215-.184 0-.449-.082-.612-.198L2.667 6H1.333L-4 9.333v-.666L.667 5.333V4z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#07319C" d="M-4 0h28v20H-4z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <g transform="translate(13.333 5.333)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#FFD033" xlink:href="#c"/>
+                <path stroke="#FFF" stroke-width=".667" d="M3.333 8.97a6.195 6.195 0 0 0 1.444-.967c.976-.88 1.556-1.981 1.556-3.336V1.332c0-.557-.444-.999-1-.999h-4c-.555 0-1 .446-1 1v3.334c0 1.355.58 2.457 1.557 3.335a6.195 6.195 0 0 0 1.443.967z"/>
+                <ellipse cx="4.667" cy="2.667" fill="#BA5B1F" mask="url(#d)" rx="1" ry="1.333"/>
+                <ellipse cx="1.749" cy="2.707" fill="#FF9F3E" mask="url(#d)" rx="1" ry="1.333" transform="rotate(-20 1.75 2.707)"/>
+                <ellipse cx="2.282" cy="2.729" fill="#FF937F" mask="url(#d)" rx="1" ry="1.333" transform="rotate(25 2.282 2.73)"/>
+                <path fill="#01A827" d="M2.667 5.333L3.333 4 4 5.333v1.334H2.667z" mask="url(#d)"/>
+            </g>
+        </g>
+        <g mask="url(#b)">
+            <use fill="#DB1E36" xlink:href="#e"/>
+            <path stroke="#FFF" stroke-width=".667" d="M.333 4.153L-4.9-.333h1.568l.193.062L1.44 3h1.131L8.333-.601v.934c0 .296-.17.627-.417.803l-4.25 3.036V5.18l4.3 3.685c.377.323.185.802-.3.802-.257 0-.588-.107-.804-.261L2.56 6.333H1.429l-5.762 3.602v-1.44L.333 5.162V4.153z"/>
+        </g>
+        <path fill="#FFF" d="M-4 3.333V6H.667v3.34c0 .364.306.66.673.66h1.32a.67.67 0 0 0 .673-.66V6h4.658a.677.677 0 0 0 .676-.673v-1.32a.674.674 0 0 0-.676-.674H3.333V0H.667v3.333H-4z" mask="url(#b)"/>
+        <path fill="#DB1E36" d="M-4 4h5.333V0h1.334v4H8v1.333H2.667v4H1.333v-4H-4z" mask="url(#b)"/>
+    </g>
+</svg>

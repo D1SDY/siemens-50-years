@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <path id="d" d="M11.111 8.337a1.667 1.667 0 1 0 0 3.326 2 2 0 1 1 0-3.326zm.222 2.33a.667.667 0 1 1 0-1.334.667.667 0 0 1 0 1.334z"/>
+        <filter id="c" width="125%" height="150%" x="-12.5%" y="-12.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#24AAD5" d="M-4 0h28v6.667H-4z" mask="url(#b)"/>
+        <path fill="#21BF75" d="M-4 13.333h28V20H-4z" mask="url(#b)"/>
+        <path fill="#ED1845" d="M-4 6.667h28v6.667H-4z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="#FFF" xlink:href="#d"/>
+        </g>
+    </g>
+</svg>

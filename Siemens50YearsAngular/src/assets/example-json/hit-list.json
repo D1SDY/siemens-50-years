@@ -1,0 +1,2125 @@
+{
+  "data": [
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Centrifugal and axial turbo compressors",
+   "description": "New unit business (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for turbo compressors and gas expanders, complete compressor trains including drives (all types of drives and drive systems), auxiliary systems, facility control systems (excluding process controls), machinery and associated equipment  for the oil&gas industry as well as other industrial applications, regardless of the client or end user. Gas turbine drives for 3rd party compression manufacturers (oOEM). Tendering and project management of extended scope offerings for the equipment above in compression applications, onshore or offshore, for the markets served. Extended scope includes: associated process equipment skids (e.g., process coolers, separators, recycle loops, pipe and valve skids, fuel and seal gas conditioning skids, etc.); EPC (engineering, procurement, construction) services for compression facilities for the O&G market, and compression modules. ",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Process Equipment"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Pump Trains in Oil&Gas",
+   "description": "New unit business for GT-driven pump trains in Oil&Gas. ",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Process Equipment"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Reciprocating compressors",
+   "description": "Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for reciprocating compressors, high and low speed, complete compressor trains including drives (all types of drives and drive systems), auxiliary systems, facility control systems (excluding process controls), machinery and associated equipment  for the oil&gas industry as well as other industrial applications, regardless of the client or end user including installation and commissioning.  Tendering and project management of extended scope offerings for the compression equipment above, onshore or offshore, for the markets served. Extended scope includes: associated process equipment skids (e.g., process coolers, separators, recycle loops, pipe and valve skids, fuel and gas conditioning skids, etc.)",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Process Equipment"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Gas Turbines",
+   "description": "Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for re-rated KG industrial gas turbines incl. packaging, package engineering and design including installation and commissioning.  Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for re-rated power turbines for aero-derivative gas generators (VECTRA product family and DR-61) for the O&G market incl. packaging, package engineering and design including installation and commissioning.  New unit business (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for Gas Turbines for Power generation in Oil & Gas offshore and major parts of onshore as described in attached agreement between D-R and PG *  Tendering and project management of extended scope offerings for the gas turbine equipment above, onshore or offshore, for the markets served. Extended scope includes: associated process equipment skids (e.g., coolers, separators, pipe and valve skids, fuel gas and liquid conditioning/treatment skids, inlet cooling systems, etc.); EPC (engineering, procurement, construction) services for power generation facilities for the O&G market, and Power generation modules.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Oil & Gas Power Generation Equipment"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Engines",
+   "description": "Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for gas, diesel, biogas or syngas fueled internal combustion engines for mechanical drive and power generation in industrial, marine and O&G applications including installation and commissioning.  Tendering and project management of extended scope offerings for the equipment above, onshore or offshore, for the markets served. Extended scope includes: associated process equipment skids (e.g., process coolers, chillers, separators, pipe and valve skids, fuel conditioning skids, etc.)",
+   "businessArea": "Conventional",
+   "portfolioArea": "Engines"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "E-houses and modules",
+   "description": "Entire value chain for Offshore & Onshore projects in Oil&Gas covering following: a) E-house (containerized / skid based/ single lift/ split type) along with all electrical equipments, transformer, power management system and any other extended scope required by client for Offshore & Onshore projects in Oil&Gas b) Power Generation Modules (single lift/ barge mounted) including all electrical equipments, transformer, power management system, fuel gas conditioning skid and any other extended scope required by client c) Compression Solution (as single lift modules/ skid based) including all DR/ Siemens compressors with mechanical / electrical drivers, required electrical equipments, transformer, power management system, process equipment for all Offshore & Onshore projects in Oil&Gas",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Integrated Solutions"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "ECHOGEN",
+   "description": "Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for complete facilities utilizing the ECHOGEN Supercritical CO2 Waste Recovery systems for all markets",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Integrated Solutions"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "LNGo",
+   "description": "Entire value chain (FEED-Consulting, Sales, Project Management, Engineering, Manufacturing, Erection & Commissioning) for complete small-scale, portable LNGo facilities (natural gas liquefaction systems) ",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Integrated Solutions"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "Spare Parts for Engines",
+   "description": "Spare parts for above mentioned engines",
+   "businessArea": "Conventional",
+   "portfolioArea": "Engines"
+ },
+ {
+   "businessMandate": "PG DR",
+   "portfolioElement": "E-house & modules Services",
+   "description": "Services for above mentioned E-house & modules portfolio",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Oil & Gas Integrated Solutions"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Large gas turbines, Generators and related auxiliaries and services",
+   "description": "Gas turbines and gas turbo sets >= 60 MW.  Services in connection with the original business statement (Advice, planning, commissioning, putting into operation, etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Turbine-driven generators",
+   "description": "Turbine-driven 2-pole generators > 28 MVA for retail.  Services in connection with the original business statement (Advice, planning, commissioning, putting into operation, services etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Generators"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Industrial Gas Turbines",
+   "description": "New apparatus value chain for Gas Turbines < 60MW and Aeroderivative Gas Turbines <85MW including extended scope '+' and Installation and Commissioning Services including hydrogen turbines. New unit business incl. Sales to Third Party Packagers and Third Party OEMs (exception: 3rd party compression business). ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small Gas Turbine, Medium Gas Turbine incl. Aeroderivative"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Large steam turbines, related auxiliaries and services",
+   "description": "- Steam turbines and steam turbo sets with and without reheating, incl. extended scope (Steam Turbine Island) - Steam turbines for CCPP and CCPP extensions if GT >= 60 MW - Steam turbines and steam turbo sets >= 250 MW per unit - Steam turbines and steam turbo sets for CSP >= 200 MW per unit - Services in connection with the original business statement (Advice, planning, commissioning, putting into operation, etc.) - Modernization and Upgrades for fossil OOEM Steam Turbines (excluding License Steam Turbines) >200MW in the regions REU, RAS, RME, RSP (PS regional setup) ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Industrial Steam Turbines",
+   "description": "Steam turbines < 250 MW for all applications excluding Geothermal PP, including extended scope and installation and commissioning services. Steam turbines (legacy Dresser Rand) for Industrial Power Generation and 3rd party business to OEMs. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small, Medium Steam Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Organic Rankine Cycle",
+   "description": "Component and System supply for Organic Rankine Cycle modules consisting of Gen-Set, heat exchanger, condenser, evaporator. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Waste Heat Recovery, Heat Exchanger"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Gas turbine power plant solutions",
+   "description": "Simple Cycle (SC) and Combined Cycle (CC) Gas Turbine Power Plant (PP) Solutions including non-turnkey EPC scopes (i.e. extended power train, power island and power block) for all applications and all power plant output sizes including Repowering, Combined Heat and Power (CHP), Integrated Gasification Combined Cycle (IGCC), Integrated Solar Combined Cycle (ISCC) and digital products and excluding pure product business scopes (e.g. core components and GT & ST packages) if not planned, offered or delivered in conjunction with complete installation or other components. Retrofits of Simple Cycle Gas Turbine Power Plants (SCPP) to Combined Cycle Gas Turbine Power Plants (CCPP) (steam tailing, open cycle conversion or combined cycle extension), Combined Heat and Power (CHP), Integrated Gasification Combined Cycle (IGCC) power plants and Integrated Solar Combined Cycle (ISCC) power plants, excluding pure product business scopes (i.e. core components and GT & ST packages) if not planned, offered or delivered in conjunction with complete installation or other components. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Steam power plant solutions",
+   "description": "Steam power plant (SPP) solutions including teaming up with selected boiler suppliers, non-turnkey EPC scopes  (limited scope, i.e. STG with extended scope, turbine island and power island) for all applications and all power plant output sizes excluding pure product business scopes (e.g. core components and STG packages) if not planned, offered or delivered in conjunction with complete installation or other components.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Heat recovery steam generators",
+   "description": "Heat recovery steam generators (HRSG) incl. horizontal HRSGs (forced circulation), vertical HRSGs (natural or forced circulation), BENSON HRSGs,  modular HRSGs, enhanced oil recovery HRSGs, peaker HRSGs and spare parts. Fired boilers incl. utility boilers (oil, gas or coal fired), industrial boilers, low BTU and blast furnace gas boilers, waste-to-energy boilers, process and CO boilers and spare parts. Diverters and Dampers incl. spare parts. Engineering and maintenance services for HRSG applications. BENSON technology. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Waste Heat Recovery, Heat Exchanger"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Carbon capture & sequestration",
+   "description": "Carbon Capture solutions, based on Siemens Post-combustion carbon capture technology (Siemens PostCap) and respective turbo machinery solutions.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Carbon Capture"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Instrumentation & Controls new build",
+   "description": "Sales and project execution for automation, I&C and information management if included in all non-nuclear types of new build power plants, including their auxiliary plants and including extensions.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Software Control Systems"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Operational I&C and electrical systems for nuclear power plants",
+   "description": "I&C, turbine I&C and dedicated electrical systems for nuclear power plants (incl. power reactors, research and prototype reactors) whether in construction, commercial operation or in de-commissioning phase - Exception: Automation of energy technology installations of plants for uranium enrichment, manufacturing and reprocessing of nuclear fuel or heavy water - Comprehensive DCS systems for  non- / low- and medium safety classified control and monitoring functions of new built NPP's and Mods of existing I&C  - Training simulators for NPPs (part for AS Emulation and stimulated HMI) and training on I&C for ''nuclear'' customers  - Excitation systems & Gen protection systems for new built NPP's and Mods of existing systems (main generator and emergency diesel generator systems) and related Life Time Service - I&C and turbine I&C Life Time Service for NPP's (field Service / Service contracts / updates / upgrades) - Product responsibility (complete PLM) for SPPA-T2000 / OM690 / OM650 / S2000 /  S3000 incl. all dedicated tools independent of use in NPP or non nuclear power plants ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Software Control Systems"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Small Hydro and Hydro Services / project development",
+   "description": "Electrical & mechanical systems and components (including turbines, generators, transformers, switchgear and the integrated control and monitoring systems, excitation systems, auxiliary systems and connection to the electrical grid) and project execution in new build and replacement projects as well as modernization business for Small Hydro power plants up to 30 MW per power train. Excludes civil construction.  Service (including spare parts, repairs, service and maintenance contracts) and  project development (including performing site survey, resource assessment, pre-engineering, obtaining licenses and permits, preparing investor plans for IPPs, financial investors, private and industrial customers) for small hydro power plants up to 30 MW per power train, salinity gradient, thermal gradient, and in-river power plants. ",
+   "businessArea": "Alternative",
+   "portfolioArea": "Hydro"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "LNG Solutions",
+   "description": "Solutions for mid-scale and large-scale LNG production.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Decommissioning of Nuclear Power Plant",
+   "description": "Scope: Still open (allocation of activities to be agreed with RWE).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Decommissioning of Nuclear Plant"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Heat Pumps and High Temperature Heat Pumps",
+   "description": "Heat Pumps and High Temperature Heat Pumps solutions on a turnkey basis.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Waste Heat Recovery, Heat Exchanger"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Solutions for Waste to Energy Plants",
+   "description": "Waste and biomass inceration plants. Turnkey scope or limited scope 'steam to grid' (steam turbine island and water steam cycle) and 'fuel to grid' (steam turbine island and water steam cycle including boiler).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Waste Heat Recovery, Heat Exchanger"
+ },
+ {
+   "businessMandate": "PG *",
+   "portfolioElement": "Products and solutions for fuel pre-treatment plants",
+   "description": "Supply of fuel treatment equipment as standalone solution or as part of a turnkey power plant supply (e. g. treatment of crude oil to remove vanadium, treatment of sour gas to remove sulphur). ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Fuel Pre-treatment"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Mainline Rail Automation",
+   "description": "Systems and solutions for automation and optimization of rail business processes in the Railway Infrastructure domain to serve customers in Mainline markets.  Main portfolioElements include - Rail Safety Systems (Interlocking, Train Control Systems, products, Track Vacancy Detection, Level Crossing) - Rail IT products and applications (Operational Control Centers incl. Dispatching + Timetable, Passenger Information Systems, Telecom for Railways) and integrated Ticketing & Fare management and Intermodal Applications   MO MM ML standalone product business is executed by MO MM FP.  Customer groups include rail infrastructure companies, rail operators, train manufacturers, integrators & EPCs as well as transport authorities within the Mainline segment.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Rail Automation"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Mass Transit Rail Automation",
+   "description": "Systems and solutions for automation and optimization of rail business processes in the Railway Infrastructure domain to serve customers in Mass Transit markets (Light Rail, Commuter & Metro).  Main portfolioElements include - Rail Safety Systems (Interlocking, Train Control Systems, products, Track Vacancy Detection) - Rail IT products and applications (Operational Control Centers incl. Dispatching + Timetable, Passenger Information Systems, Telecom for Railways) and integrated Ticketing & Fare management and Intermodal Applications   MO MM MT standalone product business is executed by MO MM FP.  Customer groups include rail infrastructure companies, rail operators, train manufacturers, integrators & EPC's as well as transport authorities within Mass Transit segment.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Rail Automation"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Freight & Products Rail Automation",
+   "description": "Products, systems and solutions for automation and optimization of rail business processes in the Railway Infrastructure domain to serve customers in Freight markets (Heavy Rail, Industrial Rail, Commuters on Freight lines) as well as standalone product business for Mainline and Mass Transit customers.  Main portfolioElements include - Rail Safety Systems (Interlocking, Train Control Systems, products, Track Vacancy Detection, Level Crossing), - Rail IT products and applications (Operational Control Centers incl. Dispatching + Timetable, Telecom for Railways) and integrated Intermodal Applications, - Products and Components (e.g. Point machines, Track circuits, Axle counters, Signals, Train control components, Relays, Sensors etc.)  Customer groups include rail infrastructure companies, rail operators, train manufacturers, industrial and mining companies, integrators & EPCs, competitors of MO MM, as well as related transport authorities.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Rail Automation"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Intelligent Trafic Systems (ITS)",
+   "description": "1. Urban Traffic Management - Traffic Management Systems incl. Traffic Management as a Service - Urban Traffic Control incl. UTC as a Service concepts like SmartGuard - Traffic controllers and traffic signals for junctions - Field equipment, e.g. detectors and communication devices  - Solutions based on detection technology, e.g enforcement solutions, travel time information, section speed control, access control, gate control, weigh in motion - Priority for public transport and emergency vehicles  - Customer Services for all installations of urban traffic control systems, traffic technology installations, intelligent streetlighting solutions, incl. energy saving contracts (financing component supported by SFS) and light management systems, communication devices (wired and wireless). - Customer Services for overall Traffic Management Systems and Traffic Control Centers as well as related systems.  2. Interurban Traffic Management 2. a) Highway Management - Highway Management Control Centers - Roadside control units  - Field equipment, e.g. variable message signs, traffic and environmental detection systems, communication network - Ramp metering, hard shoulder use  -  Customer Services for all related Highway Management solutions and systems. It also includes services for related solutions and systems in highway tunnels and railway/ metro tunnels.  2. b) Tunnel Management  Operating control technology ('Betriebsleittechnik') for road and -in particular cases upon agreement with rail automation segments- in rail tunnels incl. Ventilation, Scada, Lighting, CCTV, emergency exits; Traffic control technology ('Verkehrsleittechnik') only for road tunnels. Systems therein: - Tunnel Management Systems  - Tunnel Control center, SCADA systems, PLCs - Outstations (controllers) - Field equipment, e.g. ANPR, CCTV, security, smoke and fire detection, communication network  - Power supply and distribution, lighting, pumps & ventilation control - Automatic incident detection - Dangerous goods detection based on ANPR technology  - Customer Services for all related systems and installations of Tunnel Control (e.g. Tunnel Control Center, Communication networks, CCTV).  3. Advanced Parking Solutions  - Parking Management and guidance centers incl. information displays - Vehicle parking solutions, e.g. trucks, passenger vehicles in urban and interurban areas - (Inhouse) parking solutions incl. single space detection, guided enforcement, dynamic pricing  - Customer Services for all related installations, systems and devices for Parking Guidance.  4. Sluices Control - Hinterland traffic control for harbors and traffic control within the harbor - Control (remote), SCADA, PLCs for sluices and water barriers - Power supply and distribution, communication systems/network, Radar, CCTV, security  - Customer Services for all related systems and installations of Sluices Control (e.g. Communication systems, CCTV, Radar).  5. Intelligent Street Lighting (ISL) -Solutions, systems and products for Intelligent Street lighting, light management, lighting related communication, energy saving contracts (financing component supported by SFS) and light management systems for urban, interurban and other businesses.   6. Integrated Traffic Solutions and others  - City Tolling, electronic Tolling and Low Emission Zone concepts - Enforcement solutions, e.g. for tolled road networks, priority and bus lanes, various traffic violations   - Dynamic road fee solutions (HOT lanes): e.g. Fast Lange Israel - Technical Operation companies - Small SCADA control systems for small level crossings  - Traffic planning, simulation and consulting incl. software  - Car2X and further value added services  - Advanced Traffic Management Solutions for integrated City Control Center  7. Integrated Logistics Solutions (ILS) Development and implementation of integrated traffic concepts/ solutions for logistics hubs (e.g. harbors, airports), industrial sites, city-logistics and freight traffic ba",
+   "businessArea": "Mobility",
+   "portfolioArea": "Traffic Management"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Innovative Technologies (ITE)",
+   "description": "1. Automated Fare Collection (AFC) AFC, starting as a public transport solution, plays a major role given the relevance of the payment function as integration lever across different mobility application fields. Offerings incorporate a comprehensive system and service architecture from ticket sales, along access via Check-In/Check-Out (CiCo) or Be-In/Be-Out (BiBo) systems and control to backoffice systems.   2. Integrated Mobility Platform (IMP) ITE provides systems and services to support, organize and optimize multi modal mobility processes end-to-end for the transport of people within cities. A Multi-modal mobility platform is core element to support a door-to-door transportation value chain. The platform supports and organizes the access to various mobility domains, other Siemens business units and partners (e.g. Public Transport, Parking, Car Sharing). Core functions include single sign-on, provision of information, route planning, enabling of sales process, navigation during travel, clearing + billing of complete process.  3. Fleet, Crew & Asset Management (Focus: Operations) for Rail & Road industry domain - Standalone Fleet & Crew Management Software products or solutions (e.g. as on-promise installation or SW as a Service) - Sub-Supply into other MM business segments for integrated offerings - Asset Management (Focus: Operations) und Maintenance Management (for Road only)  4. ITCS - Intermodal Transport Control Systems (ITCS) for buses & trams to complete the Rail and Road powerhouse  5. Customer Services for all related Systems and Installations of Road and City Mobility IT.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO MM",
+   "portfolioElement": "Hacon door-2-door multimodal Journey planning, information and Train planning system incl. Ticketing",
+   "description": "1 HAFAS  - HAFAS is operated as a door-to-door intermodal/multimodal Journey planning & information system, that displays delays in real time  - by means of intermodal approach for public transport by bus, train, tram, ferry and even air travel. Travel planning with HAFAS links public transport and private transport by car, foot or bicycle. 2. TPS (Train planning system) - Offline rail network capacity management & timetable planning for Infrastructure managers and Train operating companies(ToCs)  - Online timetabling incl. schedule forecasting, conflict detection and conflict resolution.  3. Ticketing Covering all variants Ticketing : online or offline, printout or digitally on screen. - Distribution Ticket - Paper Ticket - Subscription - Student Ticket  - Combo Ticket  Covering Ticket Sales as well as inspection in all modes of public transport.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail Turnkey Projects",
+   "description": "Turnkey solution for Full-Rail and Rail Infrastructure projects.  Responsible for projects business, if Rail turnkey solution scope or more then one Mobility Business Unit is concerned and there is a need for coordination.  Consulting, overall project management, project planning and scheduling, management and coordination of internal / external interfaces, integration engineering of overall system / solution, 3rd party sourcing, operations- and maintenance planning, management of erection, installation and commissioning and extensions. Electrical and electromechanical equipment, depots for railway systems, rail automation products / systems, security systems, energy supply and distribution, information systems, communication networks, parking and building automation, IT solutions and service offerings - as system integrator of the overall turnkey solution.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Turnkey Solutions"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Road&City Turnkey Projects",
+   "description": "Turnkey solution projects for complex Road&City Mobility projects.  Responsible for projects business, if Road&City turnkey solution scope or more then one Mobility Business Unit is concerned and there is a need for coordination.  Consulting, overall project management, project planning and scheduling, management and coordination of internal / external interfaces, integration engineering of overall system / solution, 3rd party sourcing, operations- and maintenance planning, management of erection, installation and commissioning and extensions.  Safety and security systems, energy supply and distribution, event systems, information systems, communication networks, traffic management systems, detection products and systems, parking solutions, IT solutions and service offerings - as system integrator of the overall turnkey solution.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Turnkey Solutions"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail traction power supply products",
+   "description": "Rail-specific traction power supply products focussing on 1-pole and 2-pole gas-insulated and air-insulated AC switchgears (<52 kV; e.g. ASG15/25, 8DA11/12), DC switchgears (<52 kV), protection & control relays (e.g. catenary protection & control, DC protection & control, AC protection & control)",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail traction power supply solutions",
+   "description": "In Rail Infrastructure domain: Design, engineering, supply and commissioning of power supply solutions and connection to the public grid (including but not limited to static frequency converters, reactive power compensation, active balancers, medium voltage substations that include 1-pole, 2-pole and 3-pole switchgears, high voltage substations to rail customers via direct tender or through EPCs). This may include monitoring, protection, control and communication as well as tunnel ventilation, energy storage systems, charging systems, energy recovery products and systems (e.g. AC/DC inverters), auxiliary transformers, cable connections for interconnection to defined / existing grid environments.",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail network control systems",
+   "description": "In Rail Infrastructure domain: Network Control Center solutions including hardware, software, technical consulting and training. portfolioElements include Remote Terminal Units (RTU), Station Control Systems, Substation Automation and SCADA.",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail contact line components",
+   "description": "Overhead contact line components and third rail components",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail contact line solutions",
+   "description": "Design, engineering, supply and installation of contact line solutions",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Road transportation products and solutions",
+   "description": "In Road Infrastructure domain: Traction power supply and contact line products and solutions for road transportation, including but not limited to trolley (truck trolley, trolley buses, etc.), eHighway and eBus/ eBRT",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "Rail and Road energy storage and recovery products and systems",
+   "description": "In Rail Infrastructure domain and Road Infrastructure domain: Mobile, stationary and hybrid energy storage products, systems and solutions for applications such as 'contactline free operation (NVC)', based on sourced batteries, ultra capacitors, etc. including charging and discharging equipment, and control equipment. Energy recovery systems, e.g. AC/DC inverters.",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO TPE",
+   "portfolioElement": "E-Bus charging infrastructure",
+   "description": "Electric charging products/systems (i.e. charging infrastructure) for eBuses - i.e. power supply and contact system, for both, static and in-motion charging (e.g. depot charging). Products and systems include (but not limited to) charging equipment (on-/off-board), vehicle to grid communication (V2G), power supply, grid connection and energy storage as well as intelligent, software-based charging & eBus-grid management solutions (e.g. load balancing, differentiated charging, Energy management etc.) for operators and cities. ",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "High Speed, Intercity trains, System Business",
+   "description": "Complete trains or traction components to OEM for (Very) High Speed, Intercity trains",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "Commuter and Regional trains, System Business",
+   "description": "Complete trains or traction components to OEM for Commuter and Regional Trains (EMU - Electrical Multiple Units, DMU - Diesel Multiple Units; Single and Double Deck)",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "Locomotives",
+   "description": "Locomotives or traction components to OEM for shunting, freight and passenger operation",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "Bogies",
+   "description": "Bogies and Pantographs",
+   "businessArea": "Mobility",
+   "portfolioArea": "Components e.g. Brakes, Bogies, Tractions"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "Hyperloop",
+   "description": "Global Business lead/Sales rights for all supply scope to Hyperloop",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO MLT",
+   "portfolioElement": "Digital Passenger experience",
+   "description": "New Unit* solutions for digital passenger experience independent of integration with TrainIT (e.g., TrainIT.PCS, TrainIT.PI+ or stand-alone passenger counting system)  New Unit* connectivity solutions to transmit diagnostic and operational data between vehicle and landside  TrainIT OEM sale of components & SW licenses  Retrofit solutions for digital passenger experience if integrating with TrainIT / TrainIT.smart backbone  (e.g., TrainIT.PCS, TrainIT.PI+, TrainIT.CCTV)    *New Unit: New rolling stock manufactured by Siemens or JVs",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "Metros, System Business",
+   "description": "Metros and Underground Railways or components to OEM",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "Light Rail vehicles, System Business",
+   "description": "Trams and Light Rail vehicles or components to OEM ",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "Light Rail vehicles (US), System Business",
+   "description": "Trams and Light Rail vehicles or components to OEM. ",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "People Mover systems (VAL), System Business",
+   "description": "Automated People Mover Systems (incl. Val/NeoVal turnkey) or components to OEM  ",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "Push-Pull-Trains, System Business",
+   "description": "Push-Pull-Trains (except. Locos) or components to OEM",
+   "businessArea": "Mobility",
+   "portfolioArea": "Components e.g. Brakes, Bogies, Tractions"
+ },
+ {
+   "businessMandate": "MO UT",
+   "portfolioElement": "Coaches",
+   "description": "Passenger coaches (single deck and double deck) including cab cars, sleeping cars, dining cars and other types of cars, incl. subsystems and components of passenger coaches and double-decker cars ",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services Rail Automation",
+   "description": "Customer Services for Mainline, Mass Transit, Freight and Products Rail Automation consists of Operation & Maintenance, Asset Management (Focus Availability), Spare Parts excluding components, Field Service, Repair Workshops, Maintenance Contracts, Services for Software, Diagnostic Data Services, Recycling, Service Consulting, Service Trainings for automation and optimization products, systems and solutions for the domain Railway Infrastructure to serve customers in Mainline, Freight and Mass Transit market.   In this respect, maintenance includes predominantly the preventive/ corrective maintenance including all types of overhauls. Mobile field services as well as a variety of value added services like predictive maintenance, condition based maintenance and remote diagnostics, in coordination with product roadmap of MO MM MMF. Therefore documentation and training for service is also included in the portfolio. Consultative services regarding maintenance, i. e. evaluation of improvement potentials, deduction and implementation of measures to optimize maintenance will be offered. Also the operation of infrastructure systems is part of the portfolio.  Beside the maintenance a comprehensive spare part services portfolio is offered, that consists of single parts, and parts supply after warranty as well as customized spare part packages (strategic, preventive, corrective, for revision), repair and management of returns. A variety of value added services like proactive obsolescence management, logistic solutions (express logistics, swap-stock), e-business (Rail Mall, EDI) and various contract types (flatrate, custodian warehouse) completes the portfolio. As service business is people business an Experts House for shared services is part of the portfolio. The supply of qualified personnel with worldwide experience in infrastructure maintenance-projects for planning, engineering, execution, project management and training in the areas of e-assembling, putting into operation, inspection, warranty, system integration and general services is offered to the respective BU as well as to customers.  ‘Connectivity retrofit (=after PM700 milestone for Siemens installed base or  without any internal time constraints for 3rd party systems) solutions to transmit maintenance relevant data between wayside infrastructure and landside server / cloud’",
+   "businessArea": "Mobility",
+   "portfolioArea": "Rail Automation"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services - Integrated Mobility Platform",
+   "description": "Customer Services for all related systems and installations of Integrated Mobility Platform.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services - eTicketing/ Automatic Fare Collection (AFC)",
+   "description": "Customer Services for all related systems and installations of eTicketing and AFC solutions.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services - eMobility Management & Clearing Systems",
+   "description": "Customer Services for all related systems and installations of eMobility Management & Clearing Systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services Mobility Turnkey Solutions",
+   "description": "Customer Services for Mobility Turnkey Solutions consists of Operation & Maintenance, Asset Management (Focus Availability), Spare Parts excluding components, Field Service, Repair Workshops, Maintenance Contracts, Software Services,  Diagnostic Data Services, Recycling, Service Consulting, Training for all turnkey installations.  In this respect, maintenance includes predominantly the preventive/ corrective maintenance including all types of overhauls. Mobile field services as well as a variety of value added services like predictive maintenance, condition based maintenance and remote diagnostics. Therefore documentation and training is also included in the portfolio. Completed with consulting services regarding maintenance, i. e. evaluation of improvement potentials, deduction and implementation of measures to optimize maintenance an overall maintenance portfolio will be offered. Also the operation of infrastructure systems is part of the portfolio.   Beside the maintenance a comprehensive spare part services portfolio is offered, that consists of single parts, and parts supply after warranty as well as customized spare part packages (strategic, preventive, corrective, for revision), repair and management of returns. A variety of value added services like proactive obsolescence management, logistic solutions (express logistics, swap-stock), e-business (Rail Mall, EDI) and various contract types (flatrate, custodian warehouse) completes the portfolio. Also the supply of all kinds of initial spare part packages is part of the customer services activities.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Turnkey Solutions"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services Rail Electrification - Maintenance",
+   "description": "Services as preventive/ corrective maintenance including all types of overhauls. Mobile field services. Variety of value added services like predictive maintenance, condition based maintenance and remote diagnostics as well as Diagnostic Data Services and Asset Management (Focus Availability) for Rail electrification. Service and spare parts for eBus charging stations   Retrofit connectivity solutions to transmit data between system and landside server / cloud (=after PM700 milestone for Siemens installed base or without any internal time constraints for 3rd party Systems).  Documentation and training for all systems of rail electrification.   Consulting regarding maintenance concepts, i. e. evaluation of improvement potentials, deduction and implementation of measures to optimize maintenance. Operation of electrification installations regarding track-bound systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Services Rail Electrification - Spare Parts",
+   "description": "Services as single and spare parts, components and parts supply after warranty as well as customized spare part packages (strategic, preventive, corrective, for revision), repair and management of returns. Variety of value added services like proactive obsolescence management, logistic solutions (express logistics, swap-stock), e-business (Rail Mall, EDI) and various contract types (flatrate, custodian warehouse). ",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Rail Customer Services",
+   "description": "Services based on Siemens Service Categories: Technical Operation&Maintenance, Asset Management (Focus availability), Spare Parts, Field Service, Repair Workshops, Maintenance Contracts, Software Services, Recycling, Service Consulting, Training, Refurbishment and Rail Remote Service - i.e. Ownership for rolling stock remote diagnostic data services - Digital & Data Services such as remote asset monitoring, diagnosis, trouble shooting support and cyber security assessment & monitoring as well as analysis and visualization of operational data - Retrofit* connectivity solutions to transmit diagnostic data between vehicle and landside. Responsible to provide services to maintain and operate connectivity solutions  - Retrofit* solutions for passenger digital experience (e.g. stand-alone internet on board, passenger information); if such a solution is based on TrainIT / TrainIT.smart, then the sales lead and a product license will be agreed with MLT - Responsible to provide customers services for PIS+ systems (spare part business, maintenance, remote support etc.)  *Retrofit phase applies to Siemens installed base after warranty(PM700) and to 3rd party fleets without time constraint ",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Maintenance Rolling Stock",
+   "description": "Services as preventive/ corrective maintenance including all types of overhauls, depot based and mobile field services. Variety of value added services like predictive maintenance, condition based maintenance and remote diagnostics and data services. Documentation, Training and Support Center. Rail Support Center: Ownership for rolling stock knowledge hub/ helpdesk. For all kinds of vehicles and components, including bogies and pantographs.   Consulting regarding maintenance, i. e. evaluation of improvement potentials, deduction and implementation of measures to optimize maintenance.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Spare Parts Rolling Stock",
+   "description": "Services as single and spare parts, components and parts supply after warranty as well as customized spare part packages (strategic, preventive, corrective, for revision), repair and management of returns. Variety of value added services like proactive obsolescence management, logistic solutions (express logistics, swap-stock), e-business (Rail Mall, EDI) and various contract types (flatrate, custodian warehouse). For all kinds of vehicles and components of track-bound transportation systems, including bogies and pantographs.  Supply of all kinds of initial spare part packages.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Refurbishment and Accident Repair",
+   "description": "Refurbishment and Repair for rail vehicles  Services as accident repair and/ or upgrades. Variety of value added services like Rail Life Support and repair/ refurbishment services. For all kinds of vehicles and components, including bogies and pantographs.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vehicles"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Experts",
+   "description": "Experts pool for rail systems and rail infrastructure  Supply of qualified personnel with worldwide experience in rolling stock and rail infrastructure systems and projects for planning, engineering, execution, project management and training in the area of e-assembling, putting into operation, inspection, warranty, system integration and general services.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Test and Validation",
+   "description": "Test and Validation for rail vehicles and infrastructure. Accredited and certified test center for all rail related testings including homologation services. Constant development of new test methods, techniques and concepts. Conventional product related services as documentation of requirements fulfillment for international approval and licensing authorities for rolling stock, components and rail. Variety of value added services as logistics (EVU), complete solutions, independent commercialization of track infrastructure to competitors.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "IT Security consulting service",
+   "description": "IT Security consulting service(standalone business) for all systems and installations of Mobility management Business unit.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Vertical Mobility IT"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Drone service for Rail Infrastructure data acquisition",
+   "description": "Drone services for mobility management. - this contains flight services, provision of drones, sensors and supply of data according to requirements of the relevant department or customer",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "MO CS",
+   "portfolioElement": "Wayside and track monitoring (MRX)",
+   "description": "Services for wayside monitoring of rail vehicles (like automated vehicle inspection) and track monitoring (like broken rail detection and surface crack monitoring)",
+   "businessArea": "Mobility",
+   "portfolioArea": "E-Mobility & Rail Infrastructure"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "LV  Low voltage systems",
+   "description": "Low voltage systems, e.g. air insulated low voltage switchgear, motor control center (MCC) including TIASTAR for the UL/NEMA market, distribution boards, busbar trunking systems and E-Houses.  Switchgear- / breaker systems (engineered systems) may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, cable connections for interconnection to defined / existing network environment. Systems may be installed in an E-House. Supply of spare modules outside of main contract.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Low Voltage Systems"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "AIS MV  Air insulated medium voltage systems",
+   "description": "MV AIS primary Air insulated medium voltage systems up to 52kV <=50kA Switchgear- / breaker systems (engineered systems) may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, cable connections for interconnection to defined / existing network environment. Systems may be installed in an E-House.  MV Generator Circuit Breaker Systems (GBS) Generator breaker systems in the 25 to 600 MW range as well as medium voltage high-current special breaker products & systems for indoor, outdoor and E-House applications. These may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, connections for interconnection to defined / existing network environment as well as related engineering services.  MV Outdoor Systems Outdoor medium voltage systems and products for the primary and secondary power distribution level up to 52kV , e.g. Live tank and dead tank outdoor breaker (OCB, OVCB), pole mounted and substation mounted live tank and dead tank switchgear (recloser, fusesaver, sectionalizers, capacitor switches and other similar products.), switches, fuse, cutouts  - outdoor switchgear- / breaker systems (engineered systems) may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, cable connections for interconnection to defined / existing network environment",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Medium Voltage Systems"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "MV GIS primary - Gas-insulated medium voltage systems for primary distribution",
+   "description": "Gas-insulated medium voltage systems for the primary power distribution level, e.g. gas-insulated circuit-breaker switchgear. Switchgear- / breaker systems (engineered systems) may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, cable connections for interconnection to defined / existing network environment. Systems may be installed in an E-House.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Medium Voltage Systems"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "MV secondary - Gas-, air- and solid-insulated medium voltage systems for secondary distribution",
+   "description": "Medium voltage systems for the secondary power distribution level, e.g. ring main units, gas-insulated load-break switchgear, air-insulated load-break switchgear, solid-insulated load-break switchgear. Compact substations. Switchgear- / breaker systems (engineered systems) may include monitoring, protection, control and communication and as well accessories like battery systems, battery chargers, auxiliary transformers, cable connections for interconnection to defined / existing network environment. Systems may be installed in an E-House or compact substation.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Medium Voltage Systems"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "Power supply solutions",
+   "description": "Solutions (up to turn key) may include any combination of low and medium voltage switchgear, transformers, high voltage switchgear, protection and control, SCADA system, cables, bus duct systems, auxiliary systems, pre-manufactured packaged substations (E-Houses), etc. Solutions include fossil power plants and renewable energy sources. Applications incl.: - data center power supply solutions - UPS for industry and data center solutions - solutions concepts 'Main electrical vendor' (MEV) related to MV distribution for industries",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Medium Voltage Systems"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "PV Systems & Solutions",
+   "description": "Utility scale/ large commercial scale (>=1MVA) PV Solutions (up to turn key) may include any combination of low and medium voltage switchgear, transformers, high voltage switchgear, protection and control, SCADA system, cables, bus duct systems, auxiliary systems etc. for electrical Balance of Plants (eBoP), electrical energy storage systems   Utility scale/ large commercial scale ( >=1MVA) PV Systems: inverter (central/decentral >100kVA) or inverter skids (incl. Transformer, Ring main unit, control equipment, etc.) intended for use in utility scale/ large commercial scale applications",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Inverters"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "Active Power Systems & Solutions",
+   "description": "- Electrical energy storage systems and solutions (>=100kVA) may include any combination of low and medium voltage switchgear, transformers, protection and control, SCADA system, cables, bus duct systems, auxiliary systems etc., incl. batteries with charging and discharging. - Medium & low voltage direct current grid coupling solutions (SIPLINK) and on-shore power supply solutions (SIHARBOR), up to 25 MVAr (individual unit size) Critical power solutions - FACDS < 25 MVAr equipment, control equipment for transmission, distribution and generation for e.g. utilities, municipalities, industry and infrastructure - power supply solutions for e-car charging infrastructure",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Storage"
+ },
+ {
+   "businessMandate": "EM MS",
+   "portfolioElement": "Subsea",
+   "description": "All subsea products and components with a focus on drives, switchgears, transformers, sensors, instrumentation and connectors.  System and solutions (PLM, SCM, CRM) and Life Cycle Management (LCM) for Subsea Power Grid. ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Medium Voltage Systems"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Power Distribution Products",
+   "description": "Power Distribution Products (up to 1 kV AC/1,5 kV DC)  with and without communication   - Air Circuit Breakers (ACB),       Complete portfolio of air circuit breaker or non-automatic circuit breaker for      worldwide usage in power distribution.    - Molded Case Circuit Breakers (MCCB),      Complete portfolio of Molded Case Circuit breaker for power distribution for     system and motor protection, for starter combinations or as     non- automatic circuit breaker.    - Control switches, master switches    - Load Break Switches (LBS) & Fuse Combination Units (Complete portfolio of Load Break Switches)       - Switch Disconnectors, Load Interrupter Switches       - Disconnectors       - Busbar adapters   Products and systems for circuit protection management   - Measuring equipment (e.g. digital multimeters and counters, analog measuring instruments)      for determining the required electrical parameters such as current, voltage, electric energy,      electric power, energy quality, system analysis but not limited to these parameters     - Measuring instruments (e.g. multimeter, also for front-panel mounting)    - Transformers    - Alarm and monitoring modules (e.g. GSM module) for increasing plant availability    - Devices for communication interfacing of products and systems to relevant bus systems   - Arc sensing and arc quenching in Switchgear",
+   "businessArea": "Buildings",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "E-Power",
+   "description": "E-Power -Management / -Monitoring / -Integration of Decentral Generation / -Quality devices with and without communication for Distribution, OEM and Panel Builder customers in infrastructure- and building markets (focused on commercial and residential)  Power monitoring and management:   - Power Monitoring Devices and Software   - E-Power management Controller and Software   - Product related services  Related decentralized Generation Application products with/without E-Storage   - P2P (Power-to-Power) Inverter for residential and commercial applications (e.g. Solar Inverter)   - E-Storage behind the meter  UPS-Systems and Power Quality Devices for distribution channel and panel builders",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Control Products"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Medium Voltage Products (MVP)",
+   "description": "Medium-voltage switching components and products for indoor applications.    - Vacuum Circuit Breakers, incl. standard generator circuit breakers   - Disconnect and grounding switches for indoor applications   - Vacuum Contactors       - Switching tubes for high-, medium- and low voltage       - Medium-voltage instrument transformers       - Surge arresters and limiters for special applications within medium voltage       (machine arresters, limiters with plug-type connection according to DIN)   - High voltage high rupting fuses (up to 52 kV)   - Post insulators and bushing insulators   - Voltage Regulators   - Fault Current Limiters   - Vacuum Interrupters   - Capacitors",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Switchboard-Franchise",
+   "description": "Switchboards for Low- and Medium Voltage Partner-Business e.g. SIVACON Switch gear assemblies IEC for all applications in infrastructure and industry to cover the world wide demand driven by partner-business-model and licenses for franchise",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Wiring Accessories",
+   "description": "Wiring Accessories - switches and socket systems in different standards as follows:   - Wiring devices based on local-standards include products of installation technology like      switches, pushbuttons, socket-outlets and communication outlets for surface and flush      mounting and installation accessories.   - Electronic wiring devices based on local-standards include products of installation      technology like dimmers, electronic switches, shutter/blind control systems for surface     and flush mounting as well as smoke detectors.   - Wiring devices based on MODULAR/MONOBLOCK-standards include products of     installation technology like switches, pushbuttons, socket-outlets and communication outlets      as well as electronic products like dimmers, electronic switches and shutter/blind control      systems for surface and flush mounting.",
+   "businessArea": "Buildings",
+   "portfolioArea": "Wiring Accessory / Cable System"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Circuit Protection Products",
+   "description": "Circuit protection products:   - Residual-current-operated protective devices    - Residual Current operated Circuit-Breakers (RCBO and RCCB) and residual-current     releases     - Miniature circuit breakers    - Combination units (e.g. combination of the above basic units; r.c.c.b. blocks, r.c.c.b. pockets,     r.c.c.b. devices, circuit breaker/r.c.c.b. devices)    - Circuit breakers for special applications (e.g. selective circuit breakers such as the SH)    - Arc Fault Detection Devices (AFDD)   - Overvoltage protection devices",
+   "businessArea": "Buildings",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Switching Control Devices",
+   "description": "Switching and control devices with supplementary functions and accessories:   - Built-in installation devices    - Switches, switch disconnectors, indicator lights    - Earth leakage monitors, Residual current monitors (RCM)    - Insulation monitoring devices (IMD) and Insulation Fault Location Systems (IFLS)   - Switches for electrical equipment with and without overload protection, also on      electronic basis    - Time switches    - Dimmers for installation in distribution boards    - Remote control switches, switching relays, Insta contactors    - Monitoring devices in installation equipment design     (e.g. voltage and current relays, motor protection relays, soft starters)    - Power supply units (e.g. bell transformers, power packs)   - E-mobility AC, DC charging w/wo communication (Wall Boxes and Charging cords) for all standards (IEC, UL, BS)   - DIN Rail E-Meters and Branch Circuit Monitoring (w/wo Communication and Software)",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Automation"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Delivery Business Distribution Boards",
+   "description": "Distribution Boards, Terminal Blocks   - Switchboard Deliver Business (e.g. SIVACON S4)   - Molded Case Distribution Boards   - ALPHA Distribution Boards    - Terminal Blocks for a structured electrical installation in different international standards   - Clima units for Distribution Boards and Switchboard Deliver Business   - Lighting Busbar Trunking System   - Small Distribution Boards",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Fuses & Fusesystems",
+   "description": "Fuses, Fusesystems incl. Busbars   - Low Voltage fuse systems including fuse-bases, fuse-holders and accessories   - Busbar systems (40 mm/60 mm), incl. busbars   - Fuse switch-disconnectors   - Semiconductor protection fuses (SITOR)   - Fuse monitoring devices",
+   "businessArea": "Buildings",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "UL/ CSA Products",
+   "description": "UL/CSA products   - Same products as MV_Components, PowDisProducts, SWB_Franchise, WA,      Circuit_Protection_Products, Switching_Control_Devices, Deliver Business      Distribution_Boards and Fuses_Fusesystems according UL/CSA Standards e.g. Metering,       Load Centers, AFCI/GFCI, Enclosed Switches, Low Voltage Breakers, MCCB's - BQD,      Miniature Circuit Breakers (Resi)    - Load Centers   - Transformers   - Group Metering   - Meter Sockets   - Standby Generators   - Temporary Power Outlet Panels   - Power Monitoring    - Lighting Controls   - Transient Voltage Surge Suppression",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "UL/CSA Systems",
+   "description": "UL/CSA Systems   - Lighting PanelBoards    - PanelBoards/Switchboards   - Low Voltage Switchgear    - Busway Systems   - UPS-Systems and Power Quality devices for distribution channel and panel builders",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Low Voltage Systems"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Industrial Plugs & Sockets",
+   "description": "Industrial connections and modular enclosures   - Industrial plugs and socket-outlets (e.g. according IEC 60309 standards)   - Multiple socket-couplers and adapter, industrial and domestic, protected and watertight   - Interlocked socket-outlets (e.g. according IEC 60309 standards)   - Distribution boards with industrial plugs and socket outlets (e.g. according IEC 60309 standards)   - Energy and services distribution pedestals   - Distribution board systems for construction sites",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Power Distribution & Switching"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Cable Management",
+   "description": "Products to carry cabling and wiring   - Cable trunking systems   - Conduit system   - Cable duct and access chamber systems   - Accessories for cable management   - Cable trays   - Cable trays support systems   - Floor boxes, floor cabling systems",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Wiring Accessory / Cable System"
+ },
+ {
+   "businessMandate": "EM LP",
+   "portfolioElement": "Door Bell and Intercom Systems",
+   "description": "- Entryphones, video entryphones, door bell system, intercom system",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Automation"
+ },
+ {
+   "businessMandate": "EM TR",
+   "portfolioElement": "Large Power Transformer",
+   "description": "Transformers with voltages >300 kV (> 250 MVA), all HVDC Transformers, Reactors and Phase Shifters, including connectivity to data storage and analytical platforms (e.g. cloud)  Data analytical applications to enhance the operation of (a fleet of) transformers",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Transformers"
+ },
+ {
+   "businessMandate": "EM TR",
+   "portfolioElement": "Medium Power Transformer",
+   "description": "Transformers with voltages >72,5 kV; <=300 kV (>30 MVA; <=250 MVA) and all Special Transformers, including connectivity to data storage and analytical platforms (e.g. cloud)  Data analytical applications to enhance the operation of (a fleet of) transformers",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Transformers"
+ },
+ {
+   "businessMandate": "EM TR",
+   "portfolioElement": "Distribution Transformer",
+   "description": "Distribution Transformers with voltages <=72,5 kV (<=30 MVA): incl. Liquid-immersed Distribution Transformers, Dry Type Transformers (e.g. cast resin), Voltage Regulators, traction transformers, including connectivity to data storage and analytical platforms (e.g. cloud)  Data analytical applications to enhance the operation of (a fleet of) transformers ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Transformers"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Gas-Insulated Switchgear",
+   "description": "Gas-insulated switchgear with associated controlgear (ILCC/ LCC).",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Circuit breakers",
+   "description": "High-voltage / high current circuit breakers, for any application and design (e.g. live-tank, dead-tank, SF6, vacuum) and components (e.g. vacuum interrupters). These include supporting structures, HV terminals, additional control cabinets, diagnostic and monitoring systems including the associated sensor/actuator systems, reserve components, installation and commissioning.  Systems: High voltage AIS circuit breakers (circuit breakers live tank, dead-tank), GIS circuit breakers, circuit breaker systems (e.g. Dead Tank Compact, transfer switches for HVDC applications), switching device components for other manufacturing locations. ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Surge arresters",
+   "description": "Surge arresters, limiters and long rod and post insulators for high, medium, and low voltage for any application and design, incl. diagnostic and monitoring systems with the associated sensor/actuator systems",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Disconnectors",
+   "description": "HV AIS Disconnectors and earthing switches ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Bushings",
+   "description": "Bushings",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Instrument transformers",
+   "description": "Instrument transformers, power voltage transformers, capacitors and high-voltage test systems",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM HP",
+   "portfolioElement": "Coil Products",
+   "description": "Air core reactors, Arc Suppression Coils, Line Traps,  Variable Shunt Reactor (VSR), Super-conducting fault current limiters (SFCL)",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "LTS (Grid Access / HVDC / PTL)",
+   "description": "Grid access (GA) turnkey solutions for cross-linking and connection to the high voltage network of all kind of renewable power generation (which requires  network consulting (PTI), grid stabilization) as well as solutions for power supply of remote infrastructure projects, e.g. offshore installations, planning, delivery, installation, commissioning, upgrading as well as support in the logistic operation of systems for cross linking and connection to the network of renewable power generation.  High Voltage Direct Current transmission systems (HVDC). Network consulting, planning, delivery, installation, commissioning, retrofit and upgrades respectively provision of functional as well as of operational business in the overall field of HVDC transmission for all applications and all designs. - LCC, VSC, DC Switchyards e.g. within HVDC projects (based on EM HP DC Compact Switchgear)  Power transmission lines (PTL) consisting of: Compact transmission lines (Gas-insulated lines in all technologies incl. all insulation media, supra conducting transmission lines) and HV power cable systems (only non-OEM HV power cable systems market).",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Direct Current"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "Power Electronic Converters and Associated Equipment",
+   "description": "Converter Valves, Power Converter Systems, Power Capacitors, Power Electronic Products: Development, design, engineering, planning, manufacturing and delivery of converter valves and power electronic systems (using semiconductors e.g. thyristors, IGBT) for all applications and solutions (HVDC, HVDC PLUS, SVC, SVC PLUS, TPSC, TCSC etc.) in energy transmission for all customers worldwide  - Converters (high voltage): Power electric converters or converter systems including corresponding control and protection system for AC/DC conversion, reactive power compensation, harmonic filtering, frequency conversion and coupling to/from electric energy storage in high voltage AC or DC applications  - Power capacitors (oil filled): AC or DC Power capacitor bank or units with oil-immersed, fused or unfused film capacitor elments for reactive power generation, power factor correction, harmonic filters and energy storage in special applications",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Power Electronics"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "Substation and FACTS solutions",
+   "description": "Sales, tender- and order execution for high voltage substations (AIS, GIS, hybrid) and FACTS / reactive power compensation (SVC, Statcom, MSC, MSCDN, MSR, Synchronous Condenser, FSC, TCSC, TPSC, SCCL). This includes mobile stations, containerized-solutions, electrical balance of plant systems, other electrical systems to connect any kind of power plant and renewable energy sources (e.g. wind parks, hydro & photovoltaic plants) to the transmission grid, all applications (incl. grid stabilization and power quality applications for industrial applications) and all designs >=25MVA (individual unit size) of FACTS / reactive power compensation.  Scope of supply may include: Network consulting and studies, planning (overall PM/ Engineering/ Interface design), delivery, installation, commissioning of Power Electronics (Converters and Power capacitors), Power Transformers, MV switchgear, HV/MV substation cables within BoP, Substation control/protection/automation, HV switchgear AIS or GIS, Civil work, Erection, Substation Commissioning, Telecommunication, Earthing grid, Auxiliary supply For FACTS / reactive power compensation: modernization/retrofits on a case by case base in alignment with EM TS CS TS",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Substation"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TS-related Services: Product/System Related and Value Added Services -  Grid Access",
+   "description": "Warranty and after sales services for Grid access (GA) turnkey solutions Services include network consulting, installation and commissioning, warranty extensions, operation & maintenance, customer qualification & trainings, spare part delivery, technical support and repairs, health checks, modernization/retrofits, upgrades/uprates, obsolescence management and cyber security / patch management.",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Solution Business"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TS-related Services: Product/System Related and Value Added Services -  FACTS and HVDC",
+   "description": "Warranty and after sales services for High Voltage Direct Current transmission systems (HVDC) and Flexible Alternating Current Transmission Solutions (FACTS) systems. FACTS systems include also Industry SVC and Synchronous Condenser. Services include network consulting, installation and commissioning, warranty extensions, operation & maintenance, customer qualification & trainings, spare part delivery, technical support and repairs, health checks, upgrades/uprates, obsolescence management, cyber security / patch management and Human Machine Interface (HMI)/Remote Control Interface (RCI) modernization/retrofits. For FACTS services also include Control & Protection /C&P) modernization/retrofits on a case by case base in alignment with EM TS EA/AS/LA/ME",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Solution Business"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TS-related Services: Product/System Related and Value Added Services - AC Substations",
+   "description": "Warranty and after-sales services for AC Substations. Services include network consulting, installation and commissioning, warranty extensions, operation & maintenance, customer qualification & trainings, spare part delivery, technical support and repairs, modernization/retrofits, upgrades/uprates, obsolescence management and patch management. Services include also field extensions if mixed voltage levels and/or civil are in scope. ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Substation"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TS-related Services: Value Added and Product Related Services -  Cable and Line Services",
+   "description": "Services for underground cables (incl. subsea cables), overhead transmission and distribution lines and gas-insulated lines (GIL). Services include network consulting, installation and commissioning, warranty extensions, operation & maintenance, customer qualification & trainings, spare part delivery, technical support and repairs, modernization/retrofits, upgrades/uprates, obsolescence management,   audits and assessments (e.g. footprinting, fault detection,etc.)",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Solution Business"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TS-related Services: Product/System Related and Value Added Services -  Overhead Line Inspection",
+   "description": "Inspection of overhead transmission lines via helicopter or unmanned aerial vehicles; automated processing and analysis of recorded data with artificial intelligence/algorithms",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "HP related Services:  Value Added and Product Related Services - Substation Modernization",
+   "description": "HP primary equipment Substation Modernization Projects, Green Substations",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Substation"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "HP-related Services:  Value Added and Product Related Services -  Switchgear Services",
+   "description": "After Warranty Services for High Voltage Products: modernization/retrofits, refurbishment, modification and upratings, bay extensions, planned maintenance and inspections, reactive maintenance & repairs, long term maintenance contracts, spare parts - accessories, audits and assessments, customer qualifications & trainings, installation & commissioning, obsolescence management, warranty extensions",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "High Voltage Products"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "MS related Services:  Value Added and Product Related Services - Substation Modernization",
+   "description": "MV primary equipment Substation Modernization Projects, Green Substations",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Substation"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "MS-related Services:  Value Added and Product Related Services -  Switchgear Services",
+   "description": "Switchgear Retrofit, Refurbishment, Modifications & Upratings, Extensions, Planned Maintenance and Inspection, Reactive Maintenance & Repairs, Spare Parts - Accessories, Audits and Assessments, Installation & Commissioning, other Field Service Activities",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Substation"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "TR-related Services:  Transformer Lifecycle Mgmt. (Value Added and Product Related Services)",
+   "description": "Transformer Lifecycle Management - the service concept from Siemens for all transformers, regardless of age, manufacturer, or power (incl. Condition Assessment & Diagnostics, Online Monitoring, Consulting & Expertise, Maintenance & Lifecycle Extension, Spare Parts & Accessories, Repair & Retrofit for after Warranty Phase*)  *) Workshop scope and execution for Repair and Retrofit remain in the responsibility of New Business based on a subcontract from EM TS CS TR. ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Transformers"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "Cross-EM related Services:  Value Added Services - Operation & Maintenance, Advisory Services, Asset Management Services and Software",
+   "description": "Operation & Maintenance, Long Term Maintenance Contracts, Asset management & Advisory Services and Software (e.g. Asset performance data analytics and management) for primary equipment of power transmission and distribution grids  ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "Cross-EM related Services:  Product Related Services -  Monitoring & Diagnostics",
+   "description": "Remote Operational Support including Customer Support Centre, Monitoring & Diagnostics systems and related services for primary equipment of power transmission and distribution grids.",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "Cross-EM related Services:  Power Academy -  training and education",
+   "description": "Training and education in any topics related to primary and secondary equipment of power transmission, distribution and smart grid as well as business process support. Sustainable and systematic employee competence management (curricula)",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM TS",
+   "portfolioElement": "DES related Services",
+   "description": "All types of services for Distributed Energy Systems: Consulting, planning, maintenance, modernization, refurbishment, other services, condition monitoring / remote / data driven services (unless part of overall PS CD center solution / use case as of PS CD businessMandates), operation, performance based contracts",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Grid Automation Products",
+   "description": "Provide hard- and software products and service for protection, automation, control and power quality in the field of transmission, distribution, generation incl. substation automation in power plants, renewables, multi-utilities, municipalities, industry and other related infrastructure customers, e.g. protection and bay controller, substation automation and communication, distribution-/ feeder-automation, remote terminal units, power quality and measurement, condition monitoring, fault monitoring.  ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid Automation"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Grid Automation Systems",
+   "description": "Provide customer- and project-specific systems and solutions incl. services (consulting, planning, R&D, design, engineering, procurement, sales, panel building, parameterization and commissioning incl. 3rd party products/services along the complete value chain, delivery and services addressing the overall lifecycle like consultancy, operational services, retrofit, migrations and cloud based services for protection, automation, control and power quality in the field of transmission, distribution, generation (incl. power plants, renewables, existing EM DG hydro automation customers), multi-utilities, municipalities, industry and infrastructure customers (e.g. rail, airports, Data center). Such systems and solutions may include substation automation, all kinds of protection systems incl. generator protection, remote terminal units, phasor measurement units, fault monitoring, power quality, distribution/feeder automation, condition monitoring, station based communication solutions, substation based applications e.g. load shedding, generation control, grid connection of bulk and distributed generation and small control center solutions incl. cyber security solutions for industry, infrastructure and wind power customers.    Specifically this also includes systems, solutions and selected services for microgrids, island grids, distribution grid stability, integration of renewables and distributed generation. ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid Automation"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Microgrids / Renewable Integration",
+   "description": "Provide control solutions, automation solutions and storage integration for Decentralized Energy Systems including Microgrids, hybrid power plants, industry sites, campus and distribution grids. Use cases include performance (incl. power quality)  monitoring, autarky, asset scheduling and optimization, asset management, marketing of energy / capacity at energy and reserve markets, monitoring and control. The mandates includes all relevant value chain steps, incl. consulting, performance calculation, managed services, SaaS / cloud services, etc.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Distribution Control System"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Grid Automation Control Center",
+   "description": "Control Center (CC) software and solutions including grid and IT integration and related services (like software service level and subscription agreements, technical consulting, CC training) for market operators/traders and all infrastructure grids of utilities (transmission, distribution, generation, multi-utilities), municipalities (solutions for non utility customers and wind power (incl. microgrids) with Spectrum Power 5 are served by EM DG SYS). portfolioElements include e.g. SCADA, Energy Mgmt Systems, traditional & Advanced Distribution Mgmt System, energy trading and risk management, business analytics, Grid Integration of generation, storage and loads, energy market management or operation of controllable loads (e.g. street lighting).",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Grid Control Solutions"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Grid Automation Solutions / Turn key Projects",
+   "description": "Provide large grid automation and integration solutions / turn key projects for ready-to-use grid infrastructure automation and control. The scope of supply usually comprises Energy management and information systems and/or infrastructure components (e.g. adaptation works in substations, power supplies, auxiliary equipment, grid communication equipment etc.), this also includes selected services (service & maintenance agreements, upgrades and enhancements) for the complete project scope. Large projects with major share of contracting are considered as turn key projects (with or without control center content).",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Grid Control Solutions"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Automated Meter Infrastructure / Automated Meter Reading Hardware Digital Meters) and Software (Head-end System)",
+   "description": "AMR / AMI including hardware and software -products, -systems, -solution and -services from Load Switching Devices, Smart Meters to the Data Concentrators and Head-End Systems for infrastructure grids of power transmission and distribution utilities, muliti-utilities, municipalities, industry and other related infrastructure customers.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Smart-Metering / Meter Data Management Solutions",
+   "description": "Smart Metering - products, systems and solutions, IT integration, business analytics and operation & maintenance for 'Meter Data Management', 'Head-End', 'High Accuracy Metering'/'Grid-Metering', 'Prepayment Metering Solutions' and 'Specialist Consultancy Services' for infrastructure grids of power transmission and distribution utilities, muliti-utilities, municipalities, industry and other related infrastructure customers. Smart metering / meter data management, communication systems, products, solution integration and services along the full meter to bill value chain. Smart meter hardware is only included in turnkey offerings.  ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Industrial & Commercial Metering Software, Systems and Solutions",
+   "description": "Industrial and Commercial Metering (incl. Submetering, Energy Management) Software, Systems and Solutions for infrastructure grids of industry and other related infrastructure customers. I&C metering is provided to customers who exceed a regulatory defined demand level and who trade in a market where energy usage is mandated to be measured on a defined interval basis. Typical customers include: Wholesale customers with direct grid connectivity; Major single-site high energy consumers; Chained customers who need to manage and compare many different sites.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "VPP/DR & Economic Fleet Dispatch",
+   "description": "Provide pooling and management of loads, storage and generation fleets including any type of renewable power generation (third party wind, PV, hydro, Biogas, etc.) and any type of pooled generation (conventional power plants, CHP, hybrid power plants, hydro power plants, Microgrids, industry plants, etc.): Fleet marketing and trading, including market related forecasting, short/mid/long term portfolio optimization and scenario management Definition and communication of control signals to generation management by grid / market partner Fleet control & commands for grid operation: Load Frequency control, volt / var control, ramp-up / ramp-down, synchronization Demand Management (= Load & Storage Management) Use cases include forecasting, scheduling / optimization of pools, economic optimized schedules and dispatch, marketing of energy / capacity at energy and reserve markets, monitoring, controlling and reporting of pools, asset performance management and condition monitoring (unless part of overall PS CD center solution / use case as of PS CD businessMandates). The mandate includes all relevant value chain steps, including services as IT-integration, managed services, SaaS, cloud services, etc. ",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Software Control Systems"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Smart Grid Application Solutions",
+   "description": "Smart Grid Applications (e.g. Smart Grid Analytics applications, Distributed Energy Management Systems (DEMS), Market Management applications), providing respective hard- and software products, systems, solutions, IT integration, engineering, consulting and services, including selected services (site enablement, aggregation, operation) for e.g. public or commercial buildings, public infrastructures (like street lighting, e-car). Served Customer groups are utilities (power transmission, distribution, generation, multi-utilities), municipalities, energy market operators/traders, industry and other related infrastructure customers. eCar Operation Center solutions including consulting, design, software, IT hosting, software support services, Software as a Service, value added services, commissioning and training. Solutions may include charging hardware sourced from certified suppliers.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Software Control Systems"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Smart Grid Analytics Solutions",
+   "description": "Consulting, system integration including cloud/value based customer offerings in the area of Smart Grid Analytics. Served Customer groups are utilities (power transmission, distribution, generation, multi-utilities), municipalities, energy market operators/traders, meter service providers, industry and other related infrastructure customers.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Smart Grid Communications",
+   "description": "Products, systems, solutions, services, operation and maintenance related to communication for infrastructure grids of power transmission and distribution utilities, multi-utilities, municipalities, industry and other related infrastructure customers.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Grid specific IT e.g. Meter Demand Management, Demand Response"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Managed Services",
+   "description": "The provision of a service lifecycle (Consult, Design, Build, Operate & Maintain) for Grid Control and Grid Applications (including smart metering) for Utilities, their Agents, Industrial & Commercial businesses and Municipalities. The Operate & Maintain summary portfolio comprises: Device & Software Management (including SaaS), Back Office Services, Field Services, Communications Management and Data Management & Analytics.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Energy Business Advisory",
+   "description": "Strategic Consulting for key stakeholders in energy, such as utilities, regulators, ministries and government / non-government organizations. Market advisory services for energy, infrastructure development. Strategy and core business process consulting for energy-related business (including 'Smart Grid Compass' methodology). Business Model Consulting for energy providers and related service providers. Consulting for energy infrastructure asset development including generation, T&D and consumption. Due diligence review, technology selection, performance evaluation, risk assessment and transaction planning. Energy sourcing strategy, fuel hedging and risk management consulting. Grid Cyber Security consulting for utilities.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Power System Consulting",
+   "description": "System studies and consulting services for the analysis, design, calculation, planning and operation of primary and secondary equipment of power systems. Masterplanning for energy systems (infrastructure grids for public, commercial and industrial energy supply. including electricity, gas, water, district heating or cooling needs and combinations of these media).  Consulting on operational integration of planning systems with related operational systems including Grid Data Consulting and defining/delivering a harmonized customer grid model ('Digital Twin'). Representing Siemens in committee & standardization activities, which belong to the described scope. Consulting and support for elaboration of Siemens One approaches. ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "EM DG",
+   "portfolioElement": "Grid Planning and Simulation Software",
+   "description": "Software for the planning and analysis of energy and media supply networks (electricity, gas, water, district heating, steam, cooling, ...). Market analysis and simulation software, design tools for On-/Off Grid solutions including microgrids and rural electrification. Solution engineering of SW solutions including grid data models/management and 'Digital Twin' framework. SaaS and other on-demand Solutions for energy planning and required integration. ",
+   "businessArea": "Power Transmission",
+   "portfolioArea": "Software Control Systems"
+ },
+ {
+   "businessMandate": "EM DES",
+   "portfolioElement": "Distributed Energy Systems",
+   "description": "Hybrid power generation solutions featuring renewable generation, diesel / gas fired power generation, storage, control, electrical / mechanical balance of plant and corresponding IT solutions. Storage integration with renewable or Conventional including consulting, planning, design, engineering, supply, installation, commissioning, turnkey EPC solutions.",
+   "businessArea": "Power Distribution",
+   "portfolioArea": "Solution Business"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Long Term Program",
+   "description": "LGT / ST / GEN, large gas turbine power plants (> 60 MW), OEM services for long term programs offering enhanced warranties.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Operation and Maintenance",
+   "description": "LGT / ST / GEN / BOP, large gas turbine power plants (> 60 MW), OEM full fossil power plant operations and maintenance",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Steam Turbine Modernization",
+   "description": "ST >= 200MW, OEM modernization and upgrade services focusing on performance improvements and/or life time extensions.  Modernizations and Upgrades for OEM Steam Turbines and all license fleet Steam Turbines (MHI, BHEL, SEC, Harbin, Franco Tosi, Mapna, Fuji)  > 200MW globally  Modernizations and Upgrades for nuclear Steam Turbines (OEM, license fleet and OOEM) globally  Modernizations and Upgrades for fossil OOEM Steam Turbines > 200MW in RNA and RLA  ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Gas Turbine Modernization",
+   "description": "LGT, large gas turbines (> 60 MW), OEM modernization and upgrade services focusing on thermal performance improvements and/or life time extensions.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Generator Modernization",
+   "description": "GEN, OEM rewinds and engineered spare components (rotor, exciter, stator, stator bars) as well as factory inspections/repairs of major components, generator replacements, stator swaps and engineered projects that are complex in nature.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Generators"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Gas Turbine Parts / Components",
+   "description": "LGT, large gas turbines (> 60 MW), OEM services for parts and components which generate no performance increase and are not warranted by any kind of performance guarantee.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Steam Turbine Parts / Components",
+   "description": "ST >= 200MW, OEM services for parts and components not warranted by any kind of performance guarantee.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Generator Parts / Components",
+   "description": "GEN, OEM services for parts and components that are not part of a Generator Modernization Project.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Generators"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Gas Turbine Field Service",
+   "description": "LGT, large gas turbines (> 60 MW), OEM services for all activities performed at site.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Steam Turbine Field Service",
+   "description": "ST >= 200MW, OEM services for all activities performed at site.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Generator Field Service",
+   "description": "GEN, OEM services for all activities performed at site that are not part of a Generator Modernization Project (e.g. standard service).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Generators"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Gas Turbine Repair",
+   "description": "LGT, large gas turbines (> 60 MW), factory based repairs for OEM gas turbines.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Steam Turbine Repair",
+   "description": "ST >= 200MW, factory based repairs for OEM steam turbines.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Steam Turbines"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Generator Repair",
+   "description": "GEN, Factory based repairs for parts that are not part of a Generator Modernization Project (e.g. standard service).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Generators"
+ },
+ {
+   "businessMandate": "PS PG",
+   "portfolioElement": "Digital Service",
+   "description": "All digital software / apps, services, and solutions for the Power Generation serviced fleet. May include optimization solutions, analytics, documentation services, Platform as a Service, or any other digital offerings for the serviced fleet.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Performance Optimization",
+   "description": "Diagnostics & Optimization on asset and plant level (Alarm Management, Archive Analysis, Security Health Analysis, eMaintenance, KPI based performance analytics). portfolioElement includes:  (1) Machine & Process Diagnostics; Solutions (at customer site) & related value-added services (e.g. training, consulting, operation) covering condition monitoring, fault analysis and diagnostics on Plant level (e.g. Vibration Monitoring for Turbosets & Auxiliaries; Anomaly Detection).  (2) Performance & Process optimization; Solutions (at customer site) & related Value-added services (e.g. pre-studies, training, consulting, operation) covering flexibility, efficiency, availability and emission improvements on Plant level (e.g. Combustion Optimization, Minimum Load, Fast Start).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Fleet Center Solutions",
+   "description": "Fleet center solutions are modular and customizable center solutions / operation centers installed (on or off customer site) incl. infrastructure, applications & related value-added services   (1) Allowing Improved operation across customer fleet (e.g. Fuel Management & Planning, shift planning, economic dispatch, centralized control)  (2) Diagnostic Centers start with Reliability Consulting, all tasks of Machine & Process Diagnostics, Asset Performance Management on Plant and Fleet level.  (3) Performance Monitoring for all connected assets (e.g. operational and thermodynamic monitoring).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Cyber Security Solutions",
+   "description": "PS CD owns and delivers a holistic Cyber portfolio on behalf PS and PG in the power generation and Oil&Gas verticals, from Go-to-Market to Implementation. portfolioElement includes: (1) Strategy and implementation consulting; (2) Professional security design services; (3) Standalone security products; (4) Managed security services.   Further explanation: (1) Addresses the vertical specific regulatory and customer requirements, at the corporate, programmatic and plant levels through risk assessments, policy and process design, and technology selection advisory. (2) Covers the full digital technology stack, with a focus on the DCS and network layers through architecture design, technology deployments, and post-implementation servicing, such as hardening and incident response.  (3) Includes vertical and functional software, such as scanning tools, network and DCS management, SIEM and platform level applications; security appliances, such as next gen firewalls, IDS and IPS  via the PD PA CI, and security solutions, such as cyber asset management. (4) Covers on and off-prem security management and outsourcing, including life cycle, detection, threat intelligence, monitoring and event management.  The PS CD portfolio also incorporates the cross-divisional capabilities and corporate back bone from CT and GS IT ISEC as internal delivery partners. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Digital Lifecycle Services",
+   "description": "(1) Cloud and or MindSphere based Services: Performance Analytics & Benchmarks (asset, plant, fleet level), Digital Lifecycle Services, Cloud Services (e.g. storage, data management, APP services).  (2) Consultancy services (Healthcheck, Lifecycle Studies, Reliability and availability studies, Security studies, Plant studies, Obsolescence studies, etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small Gas Turbine, Medium Gas Turbine incl. Aeroderivative"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Instrumentation & Edge Services",
+   "description": "PS CD owns and delivers a holistic Edge Services portfolio as part of digital portfolio on behalf PS and PG in the power generation and Oil&Gas verticals, from Go-to-Market to Implementation. portfolioElement includes:  (1) Solutions (at customer site and/or off-site) which include Pre-integrated solutions (as a combination of products, software applications and services) and Customer-made applications solutions (e.g. combination of sensors, network devices, analytical device and cloud infrastructure).   (2) Value-added services (e.g. Consulting, Training, Operation).   (3) Go-to-Market channel for PS and PG customers for Standalone products provided by Siemens industries & third party when suitable, which include Sensors (e.g. Temperature sensor, Pressure sensor, etc.), Network devices (e.g Routers, Network card, Gateways, etc.), Analytical devices including hardware and software (e.g. Virtual infrastructure or On-premise device/infrastructure with integrated advanced analytics, etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small Gas Turbine, Medium Gas Turbine incl. Aeroderivative"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Time & Material based Services",
+   "description": "Time & Material based Services (Spare Parts, Parts & Repairs, Field Service, Temporary hiring of personnel THOP, etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small, Medium Steam Turbines"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Services Contracts",
+   "description": "Service Contracts (annual or multi-year).  Service Contracts can include the following scope of supply: Remote Expert Center, Hotline, UIS, On-Call Services, On-Site Services, HW/SW-Maintenance Services, IT-Security Services (see Cyber Security Services), Training tuitions, on-site training or OJT, Life-Time Extension, electrical services.",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Compressors"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Training",
+   "description": "Training (classroom, remote, onsite) for available PS CD portfolioElements hosted via Power Academy.",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Compressors"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Updates / Upgrades",
+   "description": "Updates / Upgrades of existing Distributed Control System (DCS) Hardware and Software (server replacement, software maintenance, functional extensions, etc.).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Control Products"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "DCS migrations / modernizations",
+   "description": "Replacement, Modernization, Partial / Full Migration & Extension  of existing Distributed Control System (DCS). portfolioElement includes services for Power Plant Simulator (S3000).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Control Products"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Turbine Control migrations / modernizations (in non-nuclear power plants)",
+   "description": "Replacement, Modernization / Full-Migration / Upgrade & Extension of existing Turbine Control (TC), incl. Compact Control Solutions.  Sales & GtM  for nuclear power plants in the US and Canada (Country of Installation) for modernization and service with SPPA-T3000 and successor products for I&C incl. Turbine I&C and for dedicated electrical systems with PS CD, but sales & GtM for new builds in the US and Canada with PG ES IC. ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Control Products"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Electrical excitation solutions (in non-nuclear power plants)",
+   "description": "Replacement, Modernization / Upgrade & Extension of existing Electrical Excitation Systems (Electrical Excitation / Start-up Frequency Converter), Frequency Converters, Synchronization and Protection if part of Power Train Package incl. turbine control and/or excitation system modernization.  Excluding Small Hydro Power Plant modernization.  New Built 'Customized' Generator Excitation system if not included in Siemens Turbo-Gen-Set and Small Hydro Power Plants (which is part of PG), or internal supplier to PG GT and PG SU.  Sales & GtM  for nuclear power plants in the US and Canada (Country of Installation) for modernization and service with SPPA-T3000 and successor products for I&C incl. Turbine I&C and for dedicated electrical systems with PS CD, but sales & GtM for new builds in the US and Canada with PG ES IC.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Control Products"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Energy Saving Solutions",
+   "description": "Energy Saving Solutions (speed-controlled drives, frequency converter controlled drives, new energy savings large drives). Replacement, Modernization of existing Frequency Converters or drives.",
+   "businessArea": "Conventional",
+   "portfolioArea": "Consulting / Other Services"
+ },
+ {
+   "businessMandate": "PS CD",
+   "portfolioElement": "Black Start Solutions",
+   "description": "Extension, replacement, modernization or upgrade and services in OEM fleet for all applications and all customers, additionally New built for OOEM installed fleet.  Including Black start solutions for back grid restoration (technically similar concept).",
+   "businessArea": "Conventional",
+   "portfolioArea": "Large Gas Turbines"
+ },
+ {
+   "businessMandate": "PS DO",
+   "portfolioElement": "Industrial Gas Turbine Service",
+   "description": "IGT, industrial gas turbines (<60 MW); Full OEM-Service Portfolio: A. Performance Maintenance (Preventative & Corrective); B. Performance Enhancement Programs; C. Training & Consulting; D. Service Programs (Solutions); E. Footprint units; H. Data and IT related service offerings ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small Gas Turbine, Medium Gas Turbine incl. Aeroderivative"
+ },
+ {
+   "businessMandate": "PS DO",
+   "portfolioElement": "Aero Derivative Gas Turbine Service",
+   "description": "AGT, Aero derivative gas turbines ( 4MW-85MW) ; Full OEM-Service Portfolio: A Performance Service (Preventative & Corrective); B. Performance Enhancement Programs; C. Training & Consulting; D. Service Programs (Solutions); E. Footprint units; H. Data and IT related service offerings  Equivalent to Esprit TGL: SPG5208E ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small Gas Turbine, Medium Gas Turbine incl. Aeroderivative"
+ },
+ {
+   "businessMandate": "PS DO",
+   "portfolioElement": "Industrial Steam Turbine Service",
+   "description": "IST; Steam Turbines (<=250 MW), Electrical Machines (Generators / Motors), complete turbosets (steam turbine incl. generator), Pump-sets (with ST, GT or E-motor drive), Electrical machines (Generators / Motors), Pump-sets (with ST, GT or E-motor drive). Full OEM-Service Portfolio: A. Performance Maintenance (Preventative & Corrective); B. Performance Enhancement Programs; C. Training & Consulting; D. Service Programs (Solutions); E. Footprint units; F. Relocations; G. Surplus equipment; H. Data and IT related service offerings Equivalent to Esprit TGL: SPG5208C ",
+   "businessArea": "Conventional",
+   "portfolioArea": "Small, Medium Steam Turbines"
+ },
+ {
+   "businessMandate": "PS DO",
+   "portfolioElement": "Turbo Compressors Service",
+   "description": "TCP, centrifugal, axial, and geared compressors, compressor trains and auxiliaries. Full OEM-Service Portfolio: A. Performance Maintenance (Preventative & Corrective); B. Performance Enhancement Programs; C. Training & Consulting; D. Service Programs (Solutions); E. Footprint units; H. Data and IT related service offerings ",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Compressors"
+ },
+ {
+   "businessMandate": "PS DO",
+   "portfolioElement": "Reciprocating Compressors and Gas Engines Service",
+   "description": "RCE, reciprocating compressors (<34 MW)  and gas engines (1.5-9 MW)  Full OEM-Service Portfolio: A. Performance Maintenance (Preventative & Corrective); B. Performance Enhancement Programs; C. Training & Consulting; D. Service Programs (Solutions); E. Footprint units; H. Data and IT related service offerings  ",
+   "businessArea": "Process Industries",
+   "portfolioArea": "Compressors"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Building Automation Solutions",
+   "description": "Building Automation Solutions to improve energy efficiency and comfort in non-residential buildings: New Solutions & New Green Buildings; Extensions; Tendered Migrations",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Automation"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Fire Safety Solutions",
+   "description": "Consulting and / or designing and / or engineering and / or building and / or commissioning of new or tendered extensions of engineered Fire Detection, Fire Extinguishing; Voice systems, Danger Management Systems",
+   "businessArea": "Buildings",
+   "portfolioArea": "Fire Safety"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Security Solutions",
+   "description": "Security Solutions delivers integrated security solutions (with BA and / or FS) as well as Corporate Access Control and Video Management.  The Integrated Security Solutions Market is a part of the electronic security solutions market covering new integrated security solutions as well as tendered extensions and migrations. Security solutions include products, systems and project related services such as consulting, design, engineering, installation, commissioning, and integration to other disciplines.  Enterprise Security:  Customized integrated safety and security solutions (Consulting and / or designing and / or engineering and / or installing and / or commissioning of new or tendered projects) based on software and managed security services with focus on selected markets (corporate enterprises, critical infrastructure) offering also intelligent response (situational awareness, incident response and evacuation efficiency).",
+   "businessArea": "Buildings",
+   "portfolioArea": "Security"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Building Automation Services",
+   "description": "Service Agreements and contracts for the installed Building Automation Control Solutions; Migration of BA Systems (Unigyr, Visonik, Integral, Apogee - Desigo) and non-Siemens Systems, On call Service & Product Related Services / and Service Projects and Training Support, other VAS",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Automation"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Fire Safety Services",
+   "description": "Manage the lifecycle of the installed base with maintenance services as well as with system upgrades, extensions, migrations: Service Agreements / Contracts; On call Service; Service Projects (Extension, Retrofit, Migration); Additional Services (Training , Support, other VAS).",
+   "businessArea": "Buildings",
+   "portfolioArea": "Fire Safety"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Security Services",
+   "description": "The Security Service & Maintenance Market consists of the following services related to integrated electronic security solutions (with BA and / or FS) and non-tendered extensions and migrations: Service contacts / agreements, on call service, service projects, and additional services.  Enterprise Security: - Operational services (BOOM & Infrastructure as a Service) and Account based Services (project related services including upgrades and for Critical Infrastructure and Corporate customers) - Alarm Management - Managed Video and Managed Access Control - Hosted Video (VaaS) and Hosted Access Control (ACaaS) ",
+   "businessArea": "Buildings",
+   "portfolioArea": "Security"
+ },
+ {
+   "businessMandate": "BT *",
+   "portfolioElement": "Building Performance and Sustainability (BPS)",
+   "description": "Energy efficiency improvement projects and services incl. Distributed Energy Systems (DES) applications.  DES applications include: Hybrid power generation solutions featuring renewable generation, diesel / gas fired power generation, storage, control, electrical / mechanical balance of plant and corresponding IT solutions. Storage integration with renewable or Conventional including consulting, planning, design, engineering, supply, installation, commissioning, turnkey EPC solutions, O&M. Digital and remote services supporting the defined DES scope, e.g. remote operation and maintenance, condition monitoring, data analytics, system performance optimization and assurance, and integration of cross-divisional and BU portfolio into an overall structure and customer offering.   Enterprise Sustainability, Consulting / Supply Side Energy Procurement Offering (Gas, Thermal, Electricity etc.), SW Platforms and Partnering; Energy and Carbon Mgt; Consulting (Business type consulting)  Services to buildings customers including: Strategy & Planning:  Energy & water master planning, energy benchmarking, energy budgeting, greenhouse gas reduction strategies; Evaluation & Assessment:  preliminary energy & water audits, existing building commissioning study & plan, energy supply analysis; Implementation:  Energy procurement & Supply services Ongoing Services:  Monitoring Based Commissioning, Energy Optimization Services, Sustainability and other Program Management Measurement & Reporting:  Data Monitoring, Archiving & Reporting, Measurement & Verification, Budgeting & Forecasting, Utility Bill Management. Notes:  1.) For energy efficiency and sustainability projects of industrial customers, a regulation with DF CS is in place 2.) For energy efficiency projects including 'street lighting', a regulation with MO MM ITS is in place",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Efficiency"
+ },
+ {
+   "businessMandate": "BT CPS",
+   "portfolioElement": "Fire Safety Products (FS)",
+   "description": "Fire Detection:  Smoke & Fire Detectors and Peripherals (incl. gas, flame, heat, ultraviolet), Special detectors (e.g. for tunnels); Control Panels, Voice Panels; Communication Systems (Danger Management Station); Notification Devices (Signals, horns, Voice Evacuation), Call Points; Release Controls for dry extinguishing; Automatic extinguishing; Aspiration systems; Linear heat detection; Gas detection; Manufacturing Components  Respond: Danger management System (SW), Voice Evacuation (Voice Panels), Fire Extinguishing Products (Natural and chemical agents; Sector & Control Valves, Water Mist; Bottles; Hoses; Racks; Manifolds; Nozzles)",
+   "businessArea": "Buildings",
+   "portfolioArea": "Fire Safety"
+ },
+ {
+   "businessMandate": "BT CPS",
+   "portfolioElement": "Systems, Room Automation & Controls (SRA)",
+   "description": "Systems: - Building Automation and Control Systems (Desigo, Apogee/Talon): Controllers for Primary Energy Plants and Room Automation (HVAC, lighting, sun protection and others); Room Controllers; Laboratory Control Systems; I/O modules; Web servers, HMI and Room Units; Engineering Tools and Application Libraries, Legacy Systems; locally sourced products (3rd party); Room Controls, I/O Modules;Talon Products: - Sensors; Installer Controls & Systems (Synco); Home Automation Systems (Synco Living); Thermostats (stand alone, connected, smart); Room Units & Displays; GAMMA Building Controls (Lighting, Sun Protection, Load Management, HVAC, ...); Energy Management Systems addressing Retail and Light Commercial Markets, Hest Meters and Energy Cost Allocation; locally sourced products (3rd party);  Software: - Management Software: HVAC- Energy- Power-, and Lighting Management; Platform for integration of further disciplines (e.g. fire, security, 3rd party)  - Cloud Software",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Software"
+ },
+ {
+   "businessMandate": "BT CPS",
+   "portfolioElement": "Field Devices & OEM (FDO)",
+   "description": "Field Devices: Valves & Actuators; Damper Actuators; Variable Speed Drives,  locally sourced products; PCB for Sale; Miscellaneous CPS  OEM: Controllers, Management Systems, HMI, Room Devices, Sensors, Actuators and remote monitoring and service software for Original Equipment Manufacturers (OEMs): a) Air-Conditioning Systems (ACR) and  b) Heat Control Systems (HCS) and  c) Combustion Control Systems (CCS), locally sourced products (3rd party)",
+   "businessArea": "Buildings",
+   "portfolioArea": "Building Automation"
+ },
+ {
+   "businessMandate": "SFS *",
+   "portfolioElement": "Finance Advisory (FA)",
+   "description": "PEF (Project & Export Finance): Exclusive, unbiased Siemens in-house financial advisory, structuring and arranging services for the industrial Siemens Divisions in all matters related to project and sales financing and certain aspects of financial asset and risk management and exclusive interface for the industrial Siemens Divisions to the members of the international financing community (e.g. banks, lessors, export credit agencies, private credit risk insurers, project investors - except IFIs) as mandated by CF.  TFA (Trade Finance Advisory): Facilitates sales related bank guarantees (bid, advance payments, performance) as precondition to obtain orders. Ensures availability of sufficient guarantee lines to best possible pricing in order to allow execution of customer contracts. Issues Corporate Guarantees as alternative to bank guarantees. Acts as the 'advising bank' for all export letters of credit in favor of Siemens entities.",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS COF",
+   "portfolioElement": "Asset & receivables finance",
+   "description": "Financing in areas directly or indirectly related to Siemens business, typically with standardized process for documentation and obligor risk assessment",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS COF",
+   "portfolioElement": "Vendor Finance",
+   "description": "Customized financing programs for manufacturers, vendors and sales channel partners, in areas directly or indirectly related to Siemens business",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS INS",
+   "portfolioElement": "Insurance Consulting",
+   "description": "Advice in all matters concerning insurability of risk identified at Siemens; consultation on averting or mitigating insurable Group risks; processing and handling of all damages insured under the global insurance programs",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Insurance"
+ },
+ {
+   "businessMandate": "SFS INS",
+   "portfolioElement": "Insurance Broking",
+   "description": "Supporting all Siemens units and functions with the technical design and implementation of insurance solutions for their particular area of responsibility (e.g. global insurance programs, Group-financed employee insurance / employee benefits, motor fleet insurance); design, implementation and marketing of employee-financed insurance solutions for Siemens and third parties",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Insurance"
+ },
+ {
+   "businessMandate": "SFS INS",
+   "portfolioElement": "Risk Financing",
+   "description": "Management of Siemens AGs corporate retention through RISICOM Rückversicherung AG",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS INS",
+   "portfolioElement": "International Insurance Consulting",
+   "description": "International insurance consulting and coordination; management and quality control of service providers; insurance consulting in M&A transactions",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Insurance"
+ },
+ {
+   "businessMandate": "SFS TRE",
+   "portfolioElement": "Group financing and financial risk management",
+   "description": "Market price risk management (finance and commodity risks), Group funding program (money and capital market), bank relationship management (banking partner and bank account management)",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Treasury"
+ },
+ {
+   "businessMandate": "SFS TRE",
+   "portfolioElement": "Inhouse Treasury activities",
+   "description": "Intercompany short term financing (money market), Group-internal risk consulting (finance risks), consulting on payment transactions, supporting M&A activities (finance matters)",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Treasury"
+ },
+ {
+   "businessMandate": "SFS TRE",
+   "portfolioElement": "Payment transactions",
+   "description": "Processing of internal and external payment transactions, overview of bank accounts and bank account statements for Siemens AG and affiliated companies",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Treasury"
+ },
+ {
+   "businessMandate": "SFS TRE",
+   "portfolioElement": "Supply Chain Finance",
+   "description": "Supply Chain Finance Program for Siemens suppliers to refinance their Siemens receivables",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Treasury"
+ },
+ {
+   "businessMandate": "SFS TRE",
+   "portfolioElement": "Credit Warehouse",
+   "description": "Revolving purchase of short-term trade receivables from Siemens operating units (in-house Factoring). Bundling and active credit risk management of Siemens trade receivables portfolio. Advisory services for Siemens operating units on credit risk management.",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Treasury"
+ },
+ {
+   "businessMandate": "SFS EF",
+   "portfolioElement": "Project & Structured Finance Debt - EMEA & AA",
+   "description": "Debt financing at market terms in varying seniorities (e.g. from senior secured to mezzanine) primarily for complex transactions and projects, for Europe and Asia/Australia ",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS EF",
+   "portfolioElement": "Project & Structured Finance Debt - Americas",
+   "description": "Debt financing at market terms in varying seniorities (e.g. from senior secured to mezzanine) primarily for complex transactions and projects, for Americas",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS EF",
+   "portfolioElement": "Project & Structured Finance Equity",
+   "description": "Equity investments at market terms in projects which are directly or indirectly related to Siemens business",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS IHF",
+   "portfolioElement": "Project & Structured Finance Debt - EMEA",
+   "description": "Debt financing at market terms in varying seniorities (e.g. from senior secured to mezzanine) primarily for complex transactions and projects, for Europe and Asia/Australia",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS IHF",
+   "portfolioElement": "Project & Structured Finance Debt - Americas",
+   "description": "Debt financing at market terms in varying seniorities (e.g. from senior secured to mezzanine) primarily for complex transactions and projects, for Americas",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS IHF",
+   "portfolioElement": "Project & Structured Finance Equity",
+   "description": "Equity investments at market terms in projects which are directly or indirectly related to Siemens business",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "SFS IHF",
+   "portfolioElement": "Corporate Lending",
+   "description": "Debt financing at market terms in varying seniorities, including fully collateralized lines of credit and trade-finance facilities ",
+   "businessArea": "Financial Services",
+   "portfolioArea": "Financing"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Onshore wind parks",
+   "description": "Onshore wind parks including Siemens turbines as well as 'inter-array' cabling, grid connection and auxiliary systems, which are necessary for operation of wind parks incl. consulting and assistance for end users / operators",
+   "businessArea": "Alternative",
+   "portfolioArea": "Wind Onshore"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Offshore wind parks",
+   "description": "Offshore wind parks including Siemens turbines, auxiliary systems, which are necessary for operation of wind parks incl. consulting and assistance for end users / operators, as well as 'inter-array' cabling up until, but excluding the offshore collector substation / HVDC converter station",
+   "businessArea": "Alternative",
+   "portfolioArea": "Wind Offshore"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Onshore wind turbines",
+   "description": "Onshore wind power units including generators and integrated control and sequencing systems, which are necessary for operation of the wind power units; installation and transportation provided as well",
+   "businessArea": "Alternative",
+   "portfolioArea": "Wind Onshore"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Offshore wind turbines",
+   "description": "Offshore wind power units including generators and integrated control and sequencing systems, which are necessary for operation of the wind power units; installation and transportation provided as well",
+   "businessArea": "Alternative",
+   "portfolioArea": "Wind Offshore"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "ETES - Electrical thermal energy storage",
+   "description": "Large scale energy storage system, constisting of a high temperature heat pump, a heat storage and a steam cycle. Includes consulting, installation and possibly integration in customer's existing steam power plant",
+   "businessArea": "Alternative",
+   "portfolioArea": "Waste Heat Recovery, Heat Exchanger"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Maintenance & Long Term Programs for Wind turbines",
+   "description": "WTG - OEM warranty work, 500h inspection, diagnostic and maintenance services for WTG, including long term programs offering enhanced warranties",
+   "businessArea": "Alternative",
+   "portfolioArea": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+ },
+ {
+   "businessMandate": "WP",
+   "portfolioElement": "Operation and Maintenance for Wind Farms",
+   "description": "WTG - OEM Full wind farm operations and maintenance",
+   "businessArea": "Alternative",
+   "portfolioArea": "Vertical Software e.g. Virtual Power Plant, Cyber Security"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Baggage Handling Systems",
+   "description": "Integrated solutions, systems integration (including integration of specific security systems and IT systems) and conveyor technology for airports, airlines and other baggage handling applications.  End to end so as from medium to high complex O&M (e.g. control rooms, process supervision, etc), solutions and applications to control, monitor and optimize baggage logistics processes.  Consulting for planning and operation, value added services and modernizations & upgrades of products and systems  CapacityPlus / temporary terminal extensions - fast-track integral airport terminal solutions - for airports with urgent additional capacity demand.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Airport Ground Logistics Systems",
+   "description": "Integrated solutions, systems integration (including integration of specific security systems and IT systems) and ground handling logistics for airports. End to end so as from medium to high complex O&M (e.g. control rooms, process supervision, etc), solutions and applications to control, monitor and optimize ground logistics processes.  Consulting for planning and operation, value added services and modernization & upgrades of products and systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Airport Passenger Logistics Systems",
+   "description": "Integrated solutions, systems integration (including integration of specific security systems and IT systems) and passenger handling logistics for airports,  incl. permanent   terminals and CapacityPlus / temporary terminal extensions. End to end so as from medium to high complex O&M (e.g. control rooms, process supervision, etc), solutions and applications to control, monitor and optimize passenger logistics processes.  Consulting for planning and operation, value added services and modernization & upgrades of products and systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Cargo Handling Systems",
+   "description": "Integrated solutions, systems integration (including integration of specific security systems and IT systems) and conveyor technology for cargo centers, airports, airlines, freight and logistics service providers.  End to end so as from medium to high complex O&M (e.g. control rooms, process supervision, etc),  solutions and applications to control, monitor and optimize logistics processes in the area of freight.  Consulting for planning and operation, value added services and modernization & upgrades of products and systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Baggage Handling Products",
+   "description": "Products for baggage processing; this encompasses the collection, transportation, identification, destination determination, sortation, and distribution equipment.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Harbour logistics systems",
+   "description": "Harbour  -Terminal Equipment Management System (TEMS) Container  -Consulting, planning, installation, modernization and extension of harbour logistics solutions -Gate Solutions & Pre Gate Solutions -Conveyers for optimized container movement -Container Security -Value added services -Consulting for planning and operation, value added services and modernization of products and systems",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Distribution Logistics",
+   "description": "Bulk Processing solutions for grocery stores and city consolidation centres. Logistics Systems incl. specific IT solutions, material handling technology and systems integration. Integrated solutions, systems integration.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Logistic sorting products",
+   "description": "Products for letters, flats, parcels and other items processing; this encompasses the collection, loading, transportation, unloading, identification, destination determination, storage, sortation, and distribution equipment.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Postal and CEP sorting systems",
+   "description": "Integrated solutions, systems integration for letter, flat, parcel and other items sorting Systems integration and/or operation of recognition and coding systems (including RF-ID) with data transfer in networks. Development and systems integration of sorting systems for operators of logistic services in distributing letters, flats, mixed mail, parcels and other items including machine control, statistics and integration with higher level planning and control systems. Systems that bridge physical and electronic mail delivery, e.g. Trust-Ebox End to end so as from medium to high complex O&M (e.g. control rooms, process supervision, etc), solutions and applications to control, monitor and optimize sorting processes. Consulting for planning and operation, value added services and modernization & upgrades of products and systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Postal and CEP solutions",
+   "description": "Less complex solutions for postal and CEP hubs. Postal and CEP network optimization consulting services. Modernization & upgrades of products and systems.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Logistic process services",
+   "description": "Process integrity and business process outsourcing solutions that lever pattern recognition and data mining know-how beyond postal applications, e.g. in the area of container security, writer identification, large volume registration forms capture.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Recognition and Image Management Systems",
+   "description": "Recognition systems to read addresses of all kind, read identifier on items (e.g. Automated Number Plate Recognition, Logos, mail meter) Image management systems for the distribution and real time access of address and recognition information  Distributed video coding systems Item recognition systems along a process chain without identification codes, using 'fingerprint' features.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Logistics software",
+   "description": "Logistics software and services for postal, parcel, airport, distribution logistics and harbours:  Postal IT Solutions Software developement and software system integration for postal networks and sorting centers in particular Postal Planning Systems incl. Address Data Mgmt, Sort Plan Mgmt, Production Planning Systems (PPS), Network & Delivery Planning,  Production Control Systems,  Process Control System (SCADA) Track & Trace Systems, Management Information Systems (MIS), Operational IT Support, Quality Monitoring, Network Load Management, Network Wide Management Information System, Intelligent Tracking & Tracing, Revenue Protection, Integrated Fleet & Delivery Management and Asset Tracking and Asset Management.  Large scale software system integration supported by established Postal Integration Platform on common technological basis within Logistics IT.  Aviation Solutions Total airport and aviation management solutions based on the SIAMOS® software suite comprising Airport Management Systems (AMS), Airport Operation Database (AODB), Flight Information Display Systems (FIDS), Airport Performance Management (APM), Collaborative Decision Making (CDM, UDPS), Airport Operations Control  Center (APOC), Baggage Management Systems (BRS, BMS) as well as Master System Integrator Services (MSI) for Airports / Airlines. IT Logistics Solutions for the Distribution Industry Software system solutions on MES and SCADA level focussing on Warehouse Control Systems (WCS), Warehouse Handling Systems (WHS), Forklift Control Systems (FCS), Pick Solutions (PBV, PTL), Mobile Handheld Applications, Dock and Yard Management, Last Mile Applications and Host Interfacing.  Holistic Logistics IT Solutions Innovative IT systems focusing on the IT needs of complex logistics networks especially in metropolitan areas and urban centres (megacities) including a Transport Logistics Platform (TLP), Process Integrity Systems (PI), Business Intelligence Solutions, Terminal Operating Systems (TOS), Total Harbour Management and Logistics Consultancy Services. Logistics IT in this context also provides IT technology know how as an enabeler for other business units in the form of contributing to the Mobility Platform e.g. for eMobility related systems based on LI's Process Integration Platform (PIP).",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "LAS Turnkey Projects",
+   "description": "Turnkey solution projects for airports / airport terminals / temporary airport terminals and postal / CEP hubs.  Responsible for projects business, if Airport and Logistics turnkey solution scope or more then one IC Division / Business Unit are concerned and there is a need for coordination.  Consulting, overall project management, project planning and scheduling, management and coordination of internal / external interfaces, integration engineering of overall system / solution, 3rd party sourcing, operations- and maintenance planning, management of erection, installation and commissioning and extensions.  Security systems, energy supply and distribution, event systems, information systems, communication networks, baggage, cargo, postal / CEP handling systems, parking and building automation, IT solutions and service offerings - as system integrator of the overall turnkey solution.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Service Baggage and Cargo",
+   "description": "Customer Services for Baggage and Cargo Solutions includes Operation & Maintenance, Spare Parts Management and Supply, Field Service, Repair Services, Software Services, Recycling, Service Consulting, Training and Sustainability Solutions for baggage handling systems and cargo handling systems. Services are rendered for all LAS system installations as well as for 3rd party and competitors' systems.  Further value added services are remote services in combination with an online-helpdesk and a service management system, consulting, training for operation and maintenance, planning and operation of installations on the basis of out-tasking and -sourcing-solutions. In this regard the largest business share consists of performance-based contracts in combination with availability and other operational performance commitments . Another major element of the customer services offerings is system upgrade and modernization, including technical rehabilitation of systems as well as performance increase programs.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "PPAL",
+   "portfolioElement": "Postal and CEP services",
+   "description": "Customer Services for Postal and CEP Solutions includes Operation & Maintenance, Spare Parts Management and Supply, Field Service, Repair Services, Software Services, Recycling, Service Consulting, Training and Sustainability Solutions for post automation systems and parcel logistics systems. Services are rendered for all LAS system installations as well as for 3rd party and competitors' systems.  Further value added services are remote services in combination with an online-helpdesk and a service management system, consulting, training for operation and maintenance, planning and operation of installations on the basis of out-tasking and -sourcing-solutions. In this regard the largest business share consists of performance-based contracts in combination with availability and other operational performance commitments . Another major element of the customer services offerings is system upgrade and modernization, including technical rehabilitation of systems as well as performance increase programs.",
+   "businessArea": "Mobility",
+   "portfolioArea": "Logistics Automation"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Artis family",
+   "description": "Imaging systems for interventional radiology, interventional cardiology and surgery",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Software",
+   "description": "Modality specific software applications",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Particle therapy center",
+   "description": "Treatment centers for cancer treatment with protons and heavy ions",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Radiation Oncology"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Radiation Oncology",
+   "description": "Radiation Oncology equipment and services",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Radiation Oncology"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Mobile Surgery and C-arm Systems",
+   "description": "Mobile Surgery and C-arm Systems",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC AT",
+   "portfolioElement": "Imaging in Radiation Oncology",
+   "description": "Imaging systems (CT, MRI, PET-CT)  and software (syngo.via RTiS, VSim) including services for radiation oncology",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "SOMATOM family",
+   "description": "Computed tomography scanners",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Symbia series",
+   "description": "Integrated single photon emission computed tomography scanner (SPECT and SPECT/CT)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Biograph series",
+   "description": "Integrated positron emission, computed tomography scanner (PET/CT)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "PET technology",
+   "description": "PET detectors and adjacent technology",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Tracers (rather: PET Biomarkers)",
+   "description": "Biomarkers R&D for PET molecular imaging",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Cyclotrons",
+   "description": "Particle accelerator for molecular imaging",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Chemistry Solutions",
+   "description": "Synthesis modules for biomarker chemistry production",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Radiopharmacy Network",
+   "description": "Biomarker manufacturing and production (governed by pharma regulations)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "MAGNETOM family",
+   "description": "Magnetic resonance scanners",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Biograph mMR",
+   "description": "Integrated magnetic resonance, positron emission tomography scanner (MR/PET)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Software Applications",
+   "description": "Modality specific software applications",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "PRS",
+   "description": "Product related service",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Artis family (refurbished)",
+   "description": "Imaging systems for interventional radiology, interventional cardiology and surgery (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "SOMATOM family (refurbished)",
+   "description": "Computed tomography scanners (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "cCAM, eCAM, Symbia families (refurbished)",
+   "description": "Integrated single photon emission computed tomography scanners (SPECT/CT) (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Biograph series (refurbished)",
+   "description": "Integrated positron emission, computed tomography scanners (PET/CT) (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "MAGNETOM family (refurbished)",
+   "description": "Magnetic resonance scanners (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "X-Ray Products (refurbished)",
+   "description": "X-Ray products (Radiography, Flouroscopy, Urology, Mammography, mobile surgery and C-arm systems (refurbished)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "syngo.via",
+   "description": "Clinical imaging software for advanced visualization applications",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "syngo classic",
+   "description": "Software platform for scanner software",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Image intensifiers etc.",
+   "description": "X-ray image intensifiers, scintillator screens for digital radiology detectors",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "X-ray tubes & assemblies",
+   "description": "X-ray tubes and assemblies, Waveguides for medical and industrial use",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Generators etc.",
+   "description": "X-ray high voltage generators, power distribution systems ",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Collimators etc.",
+   "description": "X-Ray Collimators and X-Ray grids",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Mechanics etc.",
+   "description": "X-Ray Stands, C-arms, Gantries, MR-Magnet formers, patienthandlingsystems",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Diagnostics assemblies",
+   "description": "High level assemblies for lab diagnostics",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Electronics etc.",
+   "description": "Control units, RF electronic, Gradient Amplifiers, Detector electronics",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Radiography Systems",
+   "description": "Radiography Systems",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Fluoroscopy systems",
+   "description": "Fluoroscopy systems ",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Urology Systems",
+   "description": "Urology Systems ",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Mammography Systems",
+   "description": "Mammography Systems",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "Healthcare Accessories",
+   "description": "Healthcare Accessories",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC DI",
+   "portfolioElement": "X-Ray Product related service",
+   "description": "Product related service (X-Ray Products)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "ADVIA Chemistry",
+   "description": "Dedicated clinical chemistry analyzers for mid- to high-volume laboratories",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Dimension",
+   "description": "Integrated chemistry-immunoassay analyzers for low- to high-volume laboratories",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "ADVIA Centaur",
+   "description": "Dedicated immunoassay analyzers for low- to very-high-volume labs",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "IMMULITE",
+   "description": "Dedicated immunoassay analyzers with allergy testing",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "ADVIA Automation",
+   "description": "Automation system for mid- to very-high-volume labs",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "VersaCell",
+   "description": "Automation system for mid-volume labs",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "StreamLAB",
+   "description": "Automation system for mid- to high-volume labs",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Diagnostics IT",
+   "description": "Lab Information Systems for data management  and remote monitoring",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "PFA and BCS series",
+   "description": "Siemens PFA and BCS series (Hemostasis)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Sysmex CA and CS series",
+   "description": "Sysmex CA and CS series (Hemostasis)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Hemostasis reagents",
+   "description": "Hemostasis reagents (Hemostasis)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "ADVIA series",
+   "description": "Siemens ADVIA series (Hematology)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Hematology reagents",
+   "description": "Hematology reagents (Hematology)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Syva Viva series",
+   "description": "Siemens Viva series (Syva Drug Testing)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Syva drug testing reagents",
+   "description": "Syva drug testing reagents (Syva Drug Testing)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "BEP series",
+   "description": "Siemens BEP series (Infectious Disease Diagnostics)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Quadriga BeFree",
+   "description": "Siemens Quadriga BeFree series (Infectious Disease Diagnostics)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Infectious Disease reagents",
+   "description": "Infectious Disease reagents (Infectious Disease Diagnostics)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "BN series",
+   "description": "Siemens BN series (Plasma Proteins)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "ProtIS Decision Support Software",
+   "description": "ProtIS Decision Support Software (Plasma Proteins)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC LD",
+   "portfolioElement": "Plasma Protein reagents",
+   "description": "Plasma Protein reagents (Plasma Proteins)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Central Lab Diagnostics"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "RapidLab",
+   "description": "Blood Gas analyzers for laboratory settings",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Stratus CS",
+   "description": "Point of care device for cardiac testing",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Atellica",
+   "description": "Urine Microscopy for the central lab",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Clinitek (centralized)",
+   "description": "Benchtop urinalysis instruments for the central lab",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Clinitek  (decentralized)",
+   "description": "Point of care urinalysis devices",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "DCA",
+   "description": "HbA1c blood glucose testing for diabetes",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "RAPIDComm",
+   "description": "Data Management & Connectivity IT system",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "POCcelerator",
+   "description": "Data Management & Connectivity IT system",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "UniPOC",
+   "description": "Data Management & Connectivity IT system",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Ecosystem",
+   "description": "Point of Care Ecosystem (Full Solution)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Diagnostics IT"
+ },
+ {
+   "businessMandate": "HC POC",
+   "portfolioElement": "Xprecia",
+   "description": "Hand-held coagulation analyzer (in development)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Professional Point of Care"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "Product related service",
+   "description": "Product related services (Diagnostic Imaging, Ultrasound, Advanced Therapies, Lab Diagnostics, POC Diagnostics )",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "Teamplay",
+   "description": "Cloud-based network that brings together healthcare professionals and patients ",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "ITH",
+   "description": "Software solutions that allow the integration, provision and archiving of patient-centered data ",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "syngo.plaza",
+   "description": "Picture Archiving and Communications (PACS) software",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "syngo Workflow",
+   "description": "Radiology Information System (IRS) software",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC SV",
+   "portfolioElement": "syngo Dynamics",
+   "description": "Cardiology IT software",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging IT"
+ },
+ {
+   "businessMandate": "HC US",
+   "portfolioElement": "Ultrasound systems",
+   "description": "Ultrasound systems",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ },
+ {
+   "businessMandate": "HC US",
+   "portfolioElement": "Ultrasound Product related service",
+   "description": "Product related service (Ultrasound)",
+   "businessArea": "Healthcare",
+   "portfolioArea": "Imaging"
+ }
+]
+}

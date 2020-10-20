@@ -1,0 +1,17 @@
+@function getColor($palette, $tone: '0', $default: $colors) {
+  @return map-get(map-get($default, $palette), $tone);
+}
+@function getDevice($value) {
+ @return map-get(map-get($orgchart, mediaQuerys), $value);
+}
+@function remCalc($size) {
+ $remSize: $size / 16;
+ @return #{$remSize}rem;
+}
+
+@function map-deep-get($map, $keys...) {
+  @each $key in $keys {
+    $map: map-get($map, $key);
+  }
+  @return $map;
+}

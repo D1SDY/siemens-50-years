@@ -1,0 +1,284 @@
+{
+    "KeyName": "support_en",
+    "Value": {
+      "subjects": [
+        {
+          "email": "support@soc.siemens.cloud",
+          "group": " ",
+          "groups": [
+            {
+              "label": "Countries",
+              "subjects": [
+                {
+                  "email": "ali.ghazanfar@siemens.com",
+                  "label": "United Arab Emirates"
+                },
+                {
+                  "email": "leo.meyer@siemens.com ",
+                  "label": "Austria"
+                },
+                {
+                  "email": "richard.morel@siemens.com",
+                  "label": "Australia"
+                },
+                {
+                  "email": "victor.goes@siemens.com",
+                  "label": "Brazil"
+                },
+                {
+                  "email": "farah.mekhuri@siemens.com",
+                  "label": "Canada"
+                },
+                {
+                  "email": "nikoll.perkola@siemens.com",
+                  "label": "Switzerland"
+                },
+                {
+                  "email": "shushu.wu@siemens.com ",
+                  "label": "China"
+                },
+                {
+                  "email": "david.pineda@siemens.com",
+                  "label": "Argentina"
+                },
+                {
+                  "email": "mathias.engel@siemens.com",
+                  "label": "Germany"
+                },
+                {
+                  "email": "catherine.galindo@siemens.com",
+                  "label": "Spain"
+                },
+                {
+                  "email": "frederic.dumont@siemens.com",
+                  "label": "France"
+                },
+                {
+                  "email": "duncan.brown@siemens.com",
+                  "label": "United Kingdom"
+                },
+                {
+                  "email": "pavan.ms@siemens.com",
+                  "label": "India"
+                },
+                {
+                  "email": "silvia.bento_almeida@siemens.com",
+                  "label": "Italy"
+                },
+                {
+                  "email": "maki.oyama@siemens-healthineers.com ",
+                  "label": "Japan"
+                },
+                {
+                  "email": "mirae.lee@siemens.com",
+                  "label": "Republic of Korea"
+                },
+                {
+                  "email": "fiorella.valerio@siemens.com",
+                  "label": "Mexico"
+                },
+                {
+                  "email": "kristina.dedaj@siemens.com",
+                  "label": "Morocco"
+                },
+                {
+                  "email": "lizelle.vanonselen@siemens.com",
+                  "label": "Nigeria"
+                },
+                {
+                  "email": "ger.overmars@siemens.com",
+                  "label": "Netherlands"
+                },
+                {
+                  "email": "evgeniya.ivanova@siemens.com",
+                  "label": "Russian Federation"
+                },
+                {
+                  "email": "ali.ghazanfar@siemens.com",
+                  "label": "Saudi Arabia"
+                },
+                              {
+                  "email": "lone.olsgaard@siemens.com",
+                  "label": "Sweden"
+                },
+                {
+                  "email": "swati.sahu@siemens.com",
+                  "label": "Singapore"
+                },
+                {
+                  "email": "sarp.oktem@siemens.com",
+                  "label": "Turkey"
+                },
+                {
+                  "email": "charles.mccarthy@siemens.com",
+                  "label": "United States"
+                },
+                {
+                  "email": "lizelle.vanonselen@siemens.com",
+                  "label": "South Africa"
+                }
+              ]
+            },
+            {
+              "label": "Operating Companies",
+              "subjects": [
+                {
+                  "email": "gp.soc@siemens.com",
+                  "label": "Gas and Power"
+                },
+                {
+                  "email": "di.soc@siemens.com",
+                  "label": "Digital Industries"
+                },
+                {
+                  "email": "si.soc@siemens.com",
+                  "label": "Smart Infrastructure"
+                }
+              ]
+            },
+            {
+              "label": "Strategic Companies",
+              "subjects": [
+                {
+                  "email": "mo.soc@siemens.com",
+                  "label": "Mobility"
+                },
+                {
+                  "email": "tatiana.jimenez@siemensgamesa.com",
+                  "label": "Siemens Gamesa Renewable Energy"
+                },
+                {
+                  "email": "mona.s.patel@siemens-healthineers.com",
+                  "label": "Siemens Healthineers"
+                }
+              ]
+            },
+            {
+              "label": "Service Companies",
+              "subjects": [
+                {
+                  "email": "servco.soc@siemens.com",
+                  "label": "Financial Services"
+                },
+                {
+                  "email": "servco.soc@siemens.com",
+                  "label": "Global Business Services"
+                },
+                {
+                  "email": "servco.soc@siemens.com",
+                  "label": "Real Estate Services"
+                }
+              ]
+            },
+            {
+              "label": "Corporate Development",
+              "subjects": [
+                {
+                  "email": "cd.soc@siemens.com",
+                  "label": "Corporate Technology"
+                },
+                {
+                  "email": "cd.soc@siemens.com",
+                  "label": "Internet of Things"
+                },
+                {
+                  "email": "cd.soc@siemens.com",
+                  "label": "Next47"
+                },
+                {
+                  "email": "cd.soc@siemens.com",
+                  "label": "Siemens Operations"
+                },
+                {
+                  "email": "cd.soc@siemens.com",
+                  "label": "Strategy"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Portfolio"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Large Drives Applications"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Mechanical Drives"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Process Solutions"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Wind Energy Generation"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Mechanical Systems and Components"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Electric Commercial Vehicles"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Subsea"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Mobile Mining"
+                },
+                {
+                  "email": "poc.soc@siemens.com",
+                  "label": "Postal, Parcel & Airport Logistics"
+                }
+              ]
+            },
+            {
+              "label": "Governance",
+              "subjects": [
+                {
+                  "email": "gov.soc@siemens.com",
+                  "label": "Controlling and Finance"
+                },
+                {
+                  "email": "gov.soc@siemens.com",
+                  "label": "Legal and Compliance"
+                },
+                {
+                  "email": "gov.soc@siemens.com",
+                  "label": "Human Resources"
+                },
+                {
+                  "email": "gov.soc@siemens.com",
+                  "label": "Communications"
+                },
+                {
+                  "email": "gov.soc@siemens.com",
+                  "label": "Governance & Markets"
+                }
+              ]
+            },
+            {
+              "label": "All",
+              "subjects": [
+                {
+                  "email": "reik.badelt@siemens.com",
+                  "label": "Governance SOC"
+                }
+              ]
+            }
+          ],
+          "label": "I have a specific content-related question/request about Org Charts",
+          "value": "1"
+        },
+        {
+          "email": "support@soc.siemens.cloud",
+          "group": "SOC Support",
+          "label": "I need assistance with a specific topic",
+          "value": "2"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,34 @@
+{
+    "proficiency": [
+     {
+        "label": "elementary",
+        "name_en": "Elementary proficiency",
+        "name_de": "Grundkenntnisse",
+        "value": "ELEMENTARY"
+      },
+      {
+        "label": "limited",
+        "name_en": "Limited working proficiency",
+        "name_de": "Konversationssicher",
+        "value": "LIMITED_WORKING"
+      },
+      {
+        "label": "professional",
+        "name_en": "Professional working proficiency",
+        "name_de": "Fließend",
+        "value": "PROFESSIONAL_WORKING"
+      },
+      {
+        "label": "fullProfessional",
+        "name_en": "Full professional proficiency",
+        "name_de": "Verhandlungssicher",
+        "value": "FULL_PROFESSIONAL"
+      },
+      {
+        "label": "native",
+        "name_en": "Native or bilingual proficiency",
+        "name_de": "Muttersprache oder zweisprachig",
+        "value": "NATIVE_OR_BILINGUAL"
+      }
+    ]
+}
