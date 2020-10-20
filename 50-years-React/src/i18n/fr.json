@@ -1,0 +1,830 @@
+{
+  "home": {
+    "welcome-title": "Hello! This is the Siemens Organizational Cosmos",
+    "welcome-message": "It visualizes and unifies information about our organization, teams and peers. Use the entire platform to identify what we do, where we do it, and how we have come together to do it. We invite you to become a Cosmologist, begin your exploration by searching or directly navigating through the dedicated view.",
+    "update-info": "Visit our News section and have a look what we have been working on lately.",
+    "update-date": "Last update 11.11.2017",
+    "christmas_1": "The SOC team wishes you",
+    "christmas_2": "a wonderful festive season",
+    "christmas_3": "and all the best for 2019!"
+  },
+  "orgCharts": {
+    "title": "Welcome to the",
+    "title2": "Organization Charts",
+    "subtitle": "This application visualizes the functional Siemens organization and management structures. Use it to find information about departments, teams, the individuals within them, and how to contact them."
+  },
+  "bmd": {
+    "title": "Portfolio View -",
+    "title2": "The full Siemens business picture",
+    "subtitle-1": "The Portfolio-View offers a structured summary about the entrepreneurial responsibility of the Business Units. Vertically, it reflects our Electrification, Automation and Digitalization strategy pillars and horizontally, it shows the power value chain from generation to consumption. And finally: all service offerings are grouped within the relevant product portfolio area.",
+    "subtitle-2-bl": "Please note! We are still working on the integration of the DF- and PD-Portfolios, so for now further info on these is available ",
+    "subtitle-2-l-text": "here",
+    "subtitle-2-l-url": "https://hrs.siemens.com/bmd/restricted/main.xhtml",
+    "subtitle-2-al": "."
+  },
+  "header": {
+    "nav": {
+      "news": "What’s New",
+      "language": "Change Language",
+      "help": "Help",
+      "profile": "My Profile",
+      "settings": "Paramètres",
+      "jobtagging": "Mes intérêts",
+      "search": "Search"
+    }
+  },
+  "footer": {
+    "corporate-information": "Corporate Information",
+    "privacy-policy": "Privacy Policy",
+    "terms-of-use": "Terms of use",
+    "digital-id": "Digital ID"
+  },
+  "global": {
+    "languages": {
+      "label": "Cosmos language:",
+      "select": "Choose language",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français (Job Tagging)"
+    },
+    "date_format": {
+      "de": "dd.MM.yyyy",
+      "en": "MM/dd/yyyy",
+      "fr": "yyyy-MM-dd"
+    },
+    "natLanguages": {
+      "label": "Org Charts language:",
+      "select": "Choose language",
+      "default": "English",
+      "national": "National Language"
+    },
+    "button": {
+      "cancel": "Annuler",
+      "save": "Sauvegarder"
+    }
+  },
+  "search": {
+    "filter": {
+      "all": "All",
+      "people": "People",
+      "org": "Organization",
+      "legal-entity": "Companies"
+    },
+    "placeholder": "Search for...",
+    "info": {
+      "teaser": "Some things you can search for:",
+      "name": "Name (e.g. Werner von Siemens)",
+      "gid": "GID (e.g. Z1234567)",
+      "orgcode": "Org Code (e.g. GM ORG)",
+      "orgname": "Org Name (e.g. Organziation Development)",
+      "phone": "Phone # (e.g. +49123456)",
+      "email": "Email (e.g. werner.siemens@siemens.com)",
+      "location": "Location (e.g. Munich) or (e.g. MCH WVS)",
+      "company": "Company (e.g. Siemens AG)",
+      "are": "ARE (e.g. 7020)",
+      "button_try": "Or try the Advanced Search"
+    },
+    "button_more_results": "Show all results",
+    "button_try": "Try the Advanced Search",
+    "text_no_results": "No results found here"
+  },
+  "documents": {
+    "headline": "Siemens Organization - additional Documents",
+    "siemens-organization-handbook": "Siemens Organization Handbook",
+    "url-siemens-organization-handbook": "https://regulations-admin.siemens.com/sc/2f447d3b-cf32-4162-a4dc-cc932c6e8e78/Attachment/organization_handbook.pdf",
+    "siemens-regional-organization": "Siemens Regional Organization",
+    "url-siemens-regional-organization": "https://cms-sinet1.siemens.com/cms/056/en/processes/publications/Documents/SOC/Siemens%20Regional%20Organization.pdf",
+    "company-structure": "Company Structure",
+    "url-company-structure": "https://intranet.for.siemens.com/cms/056/en/processes/publications/Documents/SOC/company_structure.pdf",
+    "regional-structure": "Regional Structure",
+    "url-regional-structure": "https://intranet.for.siemens.com/cms/056/en/processes/publications/Documents/SOC/regional_structure.pdf",
+    "managing-board-assignment": "Managing Board (assignment of responsibilities)",
+    "url-managing-board-assignment": "https://intranet.for.siemens.com/cms/056/en/processes/publications/Documents/SOC/assignment_responsibilities_managing_board.pdf",
+    "managing-board-internet": "Managing Board on the internet",
+    "url-managing-board-internet": "https://www.siemens.com/global/en/home/company/about/management.html",
+    "contacts-for-governments": "Contacts for governments (German states)",
+    "url-contacts-for-governments": "https://cms-sinet1.siemens.com/cms/056/en/processes/publications/Documents/SOC/Contacts_for_governments.pdf",
+    "managing-board-support": "Managing Board support",
+    "url-managing-board-support": "https://intranet.for.siemens.com/cms/056/en/processes/publications/Documents/SOC/Managing%20Board%20Support.pdf"
+  },
+  "hitList": {
+    "businessArea": "Area",
+    "businessMandate": "Business Mandate",
+    "portfolioElement": "Portfolio Element"
+  },
+  "footnotes": {
+    "orgcharts": {
+      "regions": "Commonwealth of Independent States",
+      "businessFields": {
+        "one": "* Strategic Units will be treated as Divisions, for the time being, as far as legally possible"
+      }
+    }
+  },
+  "profile": {
+    "title-1": "People Profile -",
+    "title-2": "Employee information at a glance",
+    "subtitle-1-bl": "Take a look at yourself and your colleagues within the context of our organization. The People Profile View offers a broad range of comprehensive information about all Siemens employees.",
+    "subtitle-1-l-text": "references+",
+    "subtitle-1-l-url": "https://referencesplus.siemens.com/",
+    "subtitle-1-al": " and more and more will come gradually.",
+    "basic-info": {
+      "cost-center": "Cost Center",
+      "gid": "GID",
+      "org-id": "Org ID",
+      "are": "ARE",
+      "location": "Location",
+      "office": "Office",
+      "mobile": "Mobile",
+      "fax": "Fax",
+      "section": "Building",
+      "room": "Room",
+      "department": "Department",
+      "job-family": "Sub Job Family",
+      "org-code": "Org Code (primary)",
+      "function": "Function",
+      "line-manager": "Line manager",
+      "in-country-manager": "In-Country manager",
+      "secretary": "Secretary",
+      "company": "Company",
+      "tasks": "Tasks",
+      "position": "Position",
+      "business-partner": "Business Partners",
+      "special-responsibilities": "Special Responsibilities",
+      "additional-position": "Additional Positions",
+      "tooltips": {
+        "position": "Organizational position in management structure (OrgCharts)",
+        "department": "Org Name",
+        "job-family": "Data field from local HR",
+        "function": "Data field from SCD",
+        "dial": "Call via SieDial",
+        "ssn": "Visit SSN profile",
+        "mail": "Send a mail",
+        "circuit": "Call via Circuit",
+        "meeting": "Schedule a meeting",
+        "contact": "Download contact"
+      }
+    },
+    "similar-profiles": {
+      "headline": "Possible relationships (technical DRAFT)",
+      "explanation": "There are various algorithms planned to calculate who's appearing here."
+    },
+    "languages": {
+      "headline": "Languages",
+      "explanation": "Add languages and proficiency level so that your co-workers can approach you in the appropriate way.",
+      "dialog": {
+        "proficiency_headline": "Proficiency",
+        "language_headline": "Language",
+        "header_edit": "Edit language",
+        "header_add": "Add language",
+        "text": "Add languages and proficiency level so that your co-workers can approach you in the appropriate way.",
+        "select_placeholder": "Select your level of proficiency"
+      }
+    },
+    "cancel-dialog": {
+      "text": "You have unsaved changes"
+    },
+    "delete-dialog": {
+      "text": {
+        "language": "Are you sure you want to delete this language?",
+        "education": "Are you sure you want to delete this education?",
+        "position": "Are you sure you want to delete this position?",
+        "Certification": "Are you sure you want to delete this certification?",
+        "Course": "Are you sure you want to delete this course?",
+        "Honor": "Are you sure you want to delete this honor?",
+        "Patent": "Are you sure you want to delete this patent?",
+        "Summary": "Are you sure you want to delete this summary?",
+        "Headline": "Are you sure you want to delete this headline?"
+      }
+
+    },
+    "skills": {
+      "explanation": "A skill is a developed aptitude or ability. Having a comprehensive list of skills will help get your profile noticed.",
+      "strengthsfinder_1": "Not sure which skills to enter? Try the ",
+      "strengthsfinder_2": "to find out",
+      "headline": "Skills",
+      "input_placeholder": "Start typing here to see suggestions",
+      "dialog": {
+        "header_edit": "Edit skills",
+        "header_add": "Add skills",
+        "hint_add": "You can add up to 50 skills.",
+        "hint_l1": "First three skills are automatically set as your topskills.",
+        "hint_l2": "Reorder your skills by drag and dropping them."
+      }
+    },
+    "interests": {
+      "explanation": "List your interests and let others know what you are passionate about.",
+      "headline": "Interests",
+      "input_placeholder": "Start typing here to see suggestions",
+      "dialog": {
+        "header_edit": "Edit interests",
+        "header_add": "Add interests",
+        "hint_add": "You can add  up to 10 interests. ",
+        "hint_l1": "First three interests are automatically set as your topinterests.",
+        "hint_l2": "Reorder your interests by drag and dropping them. "
+      }
+
+    },
+    "education": {
+      "headline": "Education",
+      "explanation": "Add your education in order to complete your profile.",
+      "dialog": {
+        "headline_edit": "Edit education",
+        "headline_add": "Add education",
+        "explanation": "Add your education in order to complete your People Profile",
+        "label": {
+          "school": "School",
+          "degree": "Degree",
+          "fieldOfStudy": "Field of Study",
+          "from": "From",
+          "to": "To",
+          "description": "Description"
+        },
+        "placeholder": {
+          "school": "Ex: Munich Business School",
+          "degree": "Ex: Master of Business Administration",
+          "fieldOfStudy": "Ex: Business, Management",
+          "from": "Year",
+          "to": "Year (or expected)",
+          "description": "Description"
+        }
+      }
+    },
+    "position": {
+      "headline": "Work Experience",
+      "explanation": "Add your past or current work information to your profile.",
+      "dialog": {
+        "headline_edit": "Edit position",
+        "headline_add": "Add position",
+        "explanation": "Add your past or current work information.",
+        "label": {
+          "company": "Company",
+          "jobTitle": "Job Title",
+          "location": "Location",
+          "from": "From",
+          "to": "To",
+          "description": "Description"
+        },
+        "placeholder": {
+          "company": "Ex: Siemens",
+          "jobTitle": "Ex: Senior Expert Sales",
+          "location": "Ex: Munich, Germany",
+          "from": "Year",
+          "to": "Year",
+          "fromMonth": "Month",
+          "toMonth": "Month",
+          "description": ""
+        },
+        "workingHere": "I currently work here",
+        "present": "Present",
+        "tooltip": {
+          "jobTitle": "Add your job description, GRIP position or managing role"
+        }
+      }
+    },
+    "accomplishments": {
+      "headline": "Accomplishments",
+      "explanation": "Add your accomplishments and let others know what you have achieved.",
+      "Certification": {
+        "headline": "Certifications",
+        "menu": "Certification",
+        "dialog": {
+          "headline_edit": "Edit certification",
+          "headline_add": "Add certification",
+          "explanation": "Add your certification in order to complete your People Profile",
+          "label": {
+            "name": "Certification name",
+            "authority": "Certification authority",
+            "licenseNumber": "License number",
+            "from": "From",
+            "to": "To",
+            "expires": "This certification does not expire",
+            "url": "Certification URL"
+          },
+          "placeholder": {
+            "name": "Ex: Siemens' People Excellence",
+            "authority": "Ex: Siemens Learning Campus",
+            "from": "Year",
+            "to": "Year",
+            "fromMonth": "Month",
+            "toMonth": "Month"
+          }
+        }
+      },
+      "Course": {
+        "headline": "Courses",
+        "menu": "Course",
+        "dialog": {
+          "headline_edit": "Edit course",
+          "headline_add": "Add course",
+          "explanation": "Add your course in order to complete your People Profile",
+          "label": {
+            "name": "Course name",
+            "number": "Course number",
+            "date": "Course date"
+          },
+          "placeholder": {
+            "name": "Ex: SINMAMICS S120 – Parametrieren Safety Integrated",
+            "number": "Ex: DR-S12-SAF",
+            "date": "Year"
+          }
+        }
+      },
+      "Honor": {
+        "headline": "Honors / Awards",
+        "menu": "Honor / Award",
+        "dialog": {
+          "headline_edit": "Edit honors / awards",
+          "headline_add": "Add honors / awards",
+          "label": {
+            "title": "Awards / Honors title",
+            "issuer": "Issuer",
+            "description": "Description"
+          },
+          "placeholder": {
+            "title": "Ex: Best Sales manager",
+            "issuer": "Ex: Siemens AG",
+            "description": "",
+            "month": "Month",
+            "year": "Year"
+          }
+        }
+      },
+      "Patent": {
+        "headline": "Patents",
+        "menu": "Patent",
+        "dialog": {
+          "headline_edit": "Edit patent",
+          "headline_add": "Add patent",
+          "label": {
+            "title": "Patent title",
+            "office": "Patent office",
+            "number": "Patent or application number",
+            "status": "Status",
+            "date": "Issue date",
+            "date_pending": "Filing date",
+            "url": "Patent URL",
+            "description": "Description",
+            "Patent Issued": "Patent issued",
+            "Patent Pending": "Patent pending"
+          },
+          "placeholder": {
+            "title": "Ex: Siemens' People Excellence",
+            "office": "Country",
+            "number": "",
+            "month": "Month",
+            "year": "Year",
+            "day": "Day"
+          }
+        }
+      }
+    },
+    "banner": {
+      "headline": "Complete your profile - with the help of LinkedIn - in just a few minutes.",
+      "import": "Last import ",
+      "import_button": "Import LinkedIn profile",
+      "edit_button": "Edit LinkedIn import"
+    },
+    "button": {
+      "showMore": "Show more",
+      "hide": "Hide",
+      "discard": "Discard",
+      "save": "Save",
+      "noThanks": "No Thanks",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "add": "add or edit",
+      "visitProfile": "View People Profile"
+    },
+    "summary": {
+      "headline": "Summary",
+      "dialog": {
+        "headline_edit": "Edit summary",
+        "headline_add": "Add summary",
+        "placeholder": "You can type maximum 2000 characters",
+        "explanation": "A great summary gives information on your professional background and abilities and helps get you noticed."
+      },
+      "explanation": "Add your personal summary"
+    },
+    "headline": {
+      "headline": "Headline",
+      "dialog": {
+        "headline_edit": "Edit headline",
+        "headline_add": "Add headline",
+        "placeholder": "You can type maximum 2000 characters",
+        "explanation": "z.B.: Erfahrene Software Entwicklerin mit Interesse an Smart Grid und Projektmanagement"
+      },
+      "explanation": "Add your personal headline"
+    },
+    "textarea": {
+      "characters": "characters",
+      "of": "of"
+    },
+    "linkedIn": {
+      "waiting-dialog": {
+        "status": {
+          "successful": "Import completed!",
+          "notsuccessful": "Status: Waiting for data"
+        },
+        "text": "<div class='text'> Want to edit single LinkedIn entries after importing? <br /> Please do so in LinkedIn and reimport your data. </div> <br/><div class='text'> Want to delete or update single LinkedIn entries? <br /> Click on your profile picture / avatar in the header, go to 'settings' and click on 'Edit LinkedIn import'. </div>",
+        "button": "View my People Profile"
+      }
+    }
+  },
+  "srs": {
+    "title-1": "Siemens Governance -",
+    "title-2": "Link to Rules and Regulations",
+    "subtitle": "Find information about globally valid Regulations of the Siemens units such as Managing Board, Corporate Units or Divisions. Also Announcements for organizational or personnel changes in the Siemens Group can be found here."
+  },
+  "orgchart": {
+    "show_all_jobinterests_tooltip": "Show Job Interests",
+    "show_all_employees_tooltip": "Show all employees",
+    "show_all_employees": "Show all employees",
+    "hide_all_employees": "Hide all employees",
+    "orgchart_language_general_pretext": "Change general language to",
+    "orgchart_language_general": "English (EN)",
+    "orgchart_language_national_pretext": "Change orgchart language to",
+    "orgchart_language_national": "National Language",
+    "orgchart_contact_orgmanager": "Contact Org Manager"
+  },
+  "orgchart-toolbar": {
+    "job_interests": "Etiquettes-emploi",
+    "employee": "Employees",
+    "download": "Download",
+    "print": "Print",
+    "background": "Background",
+    "export_list": "Export List",
+    "orgcharts": "Org Chart",
+    "listview": "List View",
+    "download_tooltip": "Download Org Chart",
+    "zoom_tooltip": "Set zoom",
+    "orgcharts_tooltip": "Show Org Chart",
+    "background_tooltip": "Set background settings",
+    "listview_tooltip": "Show List View",
+    "job_interests_title": "Etiquettes-emploi",
+    "job_interests_dropdown_title": "Etiquettes-emploi",
+    "job_interests_on": "Activé",
+    "job_interests_off": "Désactivé",
+    "job_interests_note": ""
+  },
+  "orgchart-change-backgroundsettings": {
+    "headline": "Change background settings",
+    "subheadline": "Customize your Org Charts by choosing a background theme.",
+    "theme_1_title": "Cosmos image",
+    "theme_2_title": "Dark theme",
+    "theme_3_title": "Light theme",
+    "button_cancel": "Cancel",
+    "button_save": "Save"
+  },
+  "orgchart-listview": {
+    "expand_all_tooltip": "Expand all",
+    "close_all_tooltip": "Close all",
+    "table_header_lastname": "Last name",
+    "table_header_firstname": "First name",
+    "table_header_orgcode": "Org Code (primary)",
+    "table_header_tasks": "Tasks",
+    "table_header_country": "Country",
+    "table_header_location": "Location",
+    "table_header_phone": "Telephone",
+    "table_header_mail": "Mail",
+    "table_header_meeting": "Meeting"
+  },
+  "orgchart-listview-export": {
+    "headline": "Department Export Settings",
+    "subheadline": "Customize your list export by selecting/deselecting the information needed",
+    "select_all": "Select all",
+    "button_export": "Export to .xls"
+  },
+  "orgchart-jobinterests": {
+    "add_interest": "<b>Ajouter</b> mon intérêt pour ce service",
+    "remove_interest": "<b>Retirer</b> l'intérêt pour ce service"
+  },
+  "jobinterests-portal": {
+    "headline": "Sommaire des intérêts",
+    "disclaimer_label": "Avis de non-responsabilité",
+    "settings_label": "Paramètres",
+    "tab_1": "Intérêts pour mon domaine de responsabilités",
+    "tab_2": "Mes intérêts",
+    "filter": {
+      "label": "Filtre",
+      "placeholder": "Sélectionner des unités organisationnelles",
+      "reset_label": "Supprimer tous les filtres"
+    },
+    "export": {
+      "label": "Exporter la liste"
+    },
+    "labels": {
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "gid": "IDM / GID",
+      "orgunit_current": "Service actuel",
+      "orgunit_interest": "Service d'intérêt",
+      "position": "Niveau d'intérêt",
+      "position_employee": "Employé",
+      "position_manager": "Responsable",
+      "comment": "Commentaires de l’employé",
+      "savedon": "Sauvegardé le",
+      "expireson": "Date d'échéance",
+      "expired": "Expiré",
+      "no_longer_exists": "Org Code changed / does not exist any longer",
+      "shared": "<b>Partagé</b> avec le responsable du département",
+      "notshared": "<b>Non partagé</b> avec le responsable du département"
+    },
+    "tooltips": {
+      "remove_entry": "Supprimer l'entrée",
+      "renew_entry": "Renouveler l'entrée"
+    },
+    "snackbar": {
+      "insert": "Vos intérêts ont bien été sauvegardés. Vous pouvez les consulter et les modifier dans la section 'Mes intérêts'.",
+      "renew": "Job tag extended!",
+      "delete": "Job tag deleted!"
+    }
+  },
+  "jobinterests-tagging-dialog": {
+    "p1": "Je souhaite connaître les futurs postes vacants de ce service",
+    "checkbox_public_label": "L'étiquette devrait être visible pour le responsable de cette unité organisationnelle",
+    "checkbox_comment_label": "Ajouter un commentaire",
+    "textarea_comment_placeholder": "Le responsable de cette unité organisationnelle peut voir les commentaires",
+    "text": "<p>Veuillez également consulter les offres d'emploi actuelles dans les outils Emploi Siemens (<a href='https://intranet.4connect.siemens.com/internalcareers' target='_blank'>Avature</a> / <a href='https://siemenscorp.taleo.net/careersection/in/joblist.ftl' target='_blank'>Taleo</a>) pour obtenir des résultats en temps réel.</p><p>Si un poste vacant est affiché, vous recevrez une notification et davantage de renseignements vous permettant de suivre le processus de candidature standard. Si vous êtes intéressé(e), vous devrez soumettre votre candidature afin qu'elle soit prise en compte.</p>",
+    "textarea_counter_text_1": "of",
+    "textarea_counter_text_2": "characters",
+    "selection_placeholder": "Sélectionner le niveau qui vous intéresse:",
+    "selection_employee": "Collaborateur individuel",
+    "selection_head": "Supérieur hiérarchique"
+  },
+  "jobinterests-welcome-dialog": {
+    "headline": "Welcome to Job Tagging. An experiment",
+    "subheadline": "Within the Organization Charts you can now add your interest in a Department.",
+    "text": "Dans les organigrammes, vous pouvez maintenant manifester votre intérêt pour un service ou une équipe en survolant la case de l'unité organisationnelle qui vous intéresse et en cliquant sur le bouton « Montrer mon intérêt ».<br /><br />Ensuite, sélectionnez le niveau de l'organisation qui vous intéresse, si vous souhaitez faire part de votre intérêt au responsable de cette unité. Vous pouvez également choisir d'ajouter un commentaire que cette personne pourra voir.<br/><br/>Lorsque vous aurez terminé, vos insertions seront sauvegardées dans la section « Mes intérêts ». Vous pourrez y consulter et modifier vos domaines d’intérêt et définir des notifications.<br/><br/>Si une offre d'emploi est publiée dans un service que vous avez 'étiqueté', vous recevrez une notification du système qui vous dirigera vers le processus de candidature habituel. Si vous êtes intéressé, vous devrez soumettre votre candidature afin qu'elle soit considérée.<br/><br/><b>La fonctionnalité Etiquettes-emploi n'est pas encore disponible pour les employés de la France et du Canada.</b><br/><br/>",
+    "do_not_show_again": "Ne plus afficher",
+    "submit": "Ok"
+  },
+  "jobinterests-disclaimer-dialog": {
+    "headline": "Avis de non-responsabilité relatif à l'étiquetage-emploi",
+    "text": "Seul l'employé peut ajouter des données d'intérêt dans son propre profil de l'outil organisationnel Cosmos de Siemens (SOC). Il est toujours possible de renouveler ou de supprimer des renseignements sur la page Mes intérêts. Vous êtes personnellement responsable de la gestion des données. <br/><br/> L'utilisation du mode Etiquette-emploi n'exprime pas automatiquement votre intérêt pour un poste. Elle ne garantit pas non plus que vous serez considéré(e) pour les postes affichés ou qu'ils vous seront proposés. Ce mode se contente d'indiquer votre intérêt à en savoir davantage sur une organisation sélectionnée et à réseauter avec ses membres. <br/><br/> <b>Déclaration de consentement</b> <br/><br/> <div class=\"disclaimer-area\">Siemens Aktiengesellschaft, Werner-von-Siemens-Straße 1, 80333 Munich, Allemagne (« Siemens ») utilise la fonction Etiquette-emploi pour permettre aux employés d’exprimer leur intérêt pour n’importe quel poste en indiquant cet intérêt dans le champ de l'unité organisationnelle choisie dans les organigrammes. Cet intérêt est volontaire, et chaque employé peut ajouter, mettre à jour ou supprimer ses données. <br/><br/> L'utilisation de mes données aux fins indiquées aux présentes fait en sorte que mon Etiquette-emploi (intérêt) peut être consultée par le responsable de l'unité organisationnelle où j'appose cette étiquette. Cette personne peut faire partie d'autres entreprises de Siemens (« destinataires ») dans le monde. Le destinataire peut résider dans des pays en dehors de l'Espace économique européen (les « pays tiers »), dans lesquels le système juridique national en question ne prévoit pas de protection adéquate des renseignements personnels du point de vue des lois européennes en matière de protection des données. Vos données ne peuvent être divulguées à des destinataires situés dans des pays tiers seulement si et dans la mesure où Siemens a mis en place les règles d'entreprise contraignantes relatives à la protection des renseignements personnels dans ce pays.</div><br/><br/>",
+    "checkbox_label": "Je consens au traitement et à la publication de mes renseignements personnels par l'intermédiaire de la fonctionnalité Etiquette-emploi, comme décrit aux présentes.",
+    "checkbox_label_error": "Vous devez accepter de continuer.",
+    "text_2": "Ce consentement est en vigueur pendant toute la durée de mon emploi. Je peux révoquer mon consentement à tout moment, avec prise d'effet ultérieure, ici."
+  },
+  "news": {
+    "show": "show all",
+    "hide": "hide all",
+    "btn": "See what´s new"
+  },
+  "support": {
+    "headline": "Feedback & Support",
+    "subline": "<p>We are here to help! Please choose a topic or visit our <a href='https://jira.gms.siemens.cloud/servicedesk/customer/portal/17' target='blank'>support portal<span class='newton-ext icon'></span></a> for FAQs and troubleshooting articles:</p>",
+    "subject-placeholder": "How can we help you?",
+    "textbox-placeholder": "Please explain your inquiry as detailed as possible.",
+    "send": "Send",
+    "cancel": "Cancel",
+    "select-placeholder": "Select Org Manager for:"
+  },
+  "levchart": {
+    "title": "Legal Entity View -",
+    "title2": "The Siemens Companies",
+    "subtitle": "Explore Siemens companies according to their legal structure."
+  },
+  "faq": {
+    "search-placeholder": "Search for most frequently asked questions ..."
+  },
+  "error-page": {
+    "headline": "Sorry, something went wrong.",
+    "paragraph_1": "The reason might be that:",
+    "paragraph_1_bullet_1": "Due to latest updates, the page has been moved or deleted.",
+    "paragraph_1_bullet_2": "The URL in the browser address field is misspelled.",
+    "paragraph_1_bullet_3": "Your company has not approved the SOC DPD (data processing descriptions).",
+    "paragraph_2": "We have some options for you:",
+    "paragraph_2_bullet_1": "Start a new search.",
+    "paragraph_2_bullet_2": "Navigate to one of the Cosmos views."
+  },
+  "redirect-old-soc": {
+    "headline_1_row": "Welcome to",
+    "headline_2_row": "the",
+    "headline_2_row_highlight": "NEW",
+    "headline_2_row_1": "Siemens",
+    "headline_3_row": "Organizational Cosmos",
+    "subheadline": "You've been redirected from soc.siemens.net",
+    "button_1": "Do not show again",
+    "button_2": "Visit the old SOC *",
+    "button_3": "Explore the new SOC Beta",
+    "footnote": "live until 30/09/2018"
+  },
+  "search-results": {
+    "Sort_label": "Sort by",
+    "Sort_placeholder": "Select sort order",
+    "Clear_Filters": "Clear all filters",
+    "noResults_text": "We’re sorry, no results found for",
+    "noResults_options": "We have some options for you:",
+    "noResults_options_bullet_1": "check your search",
+    "noResults_options_bullet_2": "clear your active filters.",
+    "noResults_options_bullet_3": "try again",
+    "noResults_tabs": "Switch to another tab to see results.",
+    "placeholder": "Search for",
+    "filter": {
+      "SOC20.Department.Combined.List": "Department",
+      "SOC20.Location.Combined.List": "Location",
+      "SOC20.Location.Tree": "Location",
+      "SOC20.BusinessPartner.List": "BP Function",
+      "SOC20.BusinessPartner.ResponsibleFor.List": "Responsible for",
+      "SOC20.SpecialResponsibilities.List": "SR Function",
+      "SOC20.SpecialResponsibilities.ResponsibleFor.List": "Responsible for",
+      "SOC20.OrgClass.List": "Org Class",
+      "SOC20.OrgUnit.List": "Org Unit",
+      "SOC20.JobFamily.List": "Sub Job Family",
+      "SOC20.Position.List": "Org Position",
+      "SOC20.Department.Tree": "Department",
+      "SOC20.Skill.List": "Skills",
+      "SOC20.Language.List": "Languages",
+      "SOC20.BusinessArea.List": "Business Area",
+      "SOC20.PortfolioArea.List": "Portfolio Area",
+      "SOC20.CompanyARE.List": "Company ARE",
+      "SOC20.FunctionType.List": "Function Type",
+      "SOC20.SCDMainFunction.List": "SCD Main Function",
+      "SOC20.Interest.List": "Interests",
+      "SOC20.CompanyName.List": "Company Name",
+      "SOC20.Languages.Tree": "Languages",
+      "BP": "Business Partner",
+      "SR": "Special Responsibilities",
+      "BPFunction": "BP Function",
+      "SRFunction": "SR Function",
+      "Responsible": "Responsible for",
+      "SOC20.LocationKG.Tree": "Location",
+      "WE": "Work Experience",
+      "ED": "Education",
+      "SOC20.WorkExperience.Company.List": "Company",
+      "SOC20.WorkExperience.Location.List": "Location",
+      "SOC20.Education.Degree.List": "Degree",
+      "SOC20.Education.FieldOfStudy.List": "Field of Study",
+      "SOC20.Education.School.List": "School",
+      "SOC20.PersonalTasks.List": "Personal Tasks",
+      "SOC20.Accomplishments.Course.List": "Courses",
+      "SOC20.Accomplishments.Certificate.List":"Certifications",
+      "SOC20.Accomplishments.Honor.List": "Honors / Awards",
+      "SOC20.Accomplishments.Patent.List": "Patents",
+      "Accomplishments":"Accomplishments"
+    },
+    "tooltip": {
+      "SOC20.Department.Combined.List": "The Org Code is usually an abbreviation derived from the Org Name. With regards to its composition, the Org Code displays the hierarchical position of an Org Unit within the Siemens organization and the function or responsibility of an Org Unit.",
+      "SOC20.Location.Combined.List": "",
+      "SOC20.Location.Tree": "",
+      "SOC20.BusinessPartner.List": "",
+      "SOC20.BusinessPartner.ResponsibleFor.List": "Business Partner responsible for",
+      "SOC20.SpecialResponsibilities.List": "Special Responsibilities are functions such as officers/coordinators that are not integrated in the Org Unit for which they perform tasks and functions, but are members of another Org Unit.",
+      "SOC20.SpecialResponsibilities.ResponsibleFor.List": "Special Responsibilities responsible for",
+      "SOC20.OrgClass.List": "The Org Class classifies an Org Units’ responsibility. Each Org Unit needs to be assigned to one Org Class that describes the focus of an Org Unit's activities; e.g. Org Unit with focus Sales -> Org Class: Sales.",
+      "SOC20.OrgUnit.List": "An Organizational Unit (Org Unit) is an element of the organization structure.",
+      "SOC20.JobFamily.List": "A Sub Job Family is the breakdown of a Job Family. This is done for the reason to cluster tasks in more detail along the value chain of the Job Family. For Engineering e.g. “General Engineering” or “Systems Engineering”, etc.",
+      "SOC20.Position.List": "Org Positions define the role of a person within an Organizational Unit. There are various different Org Positions as defined by GM ORG e.g. Employee, Head, CEO, CFO, CDL, CDC.",
+      "SOC20.Department.Tree": "The Org Code is usually an abbreviation derived from the Org Name. With regards to its composition, the Org Code displays the hierarchical position of an Org Unit within the Siemens organization and the function or responsibility of an Org Unit.",
+      "SOC20.Skill.List": "",
+      "SOC20.Language.List": "",
+      "SOC20.BusinessArea.List": "",
+      "SOC20.PortfolioArea.List": "",
+      "SOC20.CompanyARE.List": "",
+      "SOC20.FunctionType.List": "",
+      "SOC20.SCDMainFunction.List": "",
+      "SOC20.Interest.List": "",
+      "SOC20.CompanyName.List": "",
+      "SOC20.Languages.Tree": "",
+      "BP": "",
+      "SR": "Special Responsibilities are functions such as officers/coordinators that are not integrated in the Org Unit for which they perform tasks and functions, but are members of another Org Unit.",
+      "BPFuntion": "",
+      "SRFunction": "",
+      "Responsible": "",
+      "SOC20.LocationKG.Tree": "",
+      "SOC20.PersonalTasks.List": "",
+      "SOC20.Accomplishments.Course.List": "",
+      "SOC20.Accomplishments.Certificate.List":"",
+      "SOC20.Accomplishments.Honor.List": "",
+      "SOC20.Accomplishments.Patent.List": "",
+      "Accomplishments":""
+    },
+    "sortDropdown": {
+      "relevance": "Relevance",
+      "a_to_z": "Alphabetical (A-Z)",
+      "z_to_a": "Alphabetical (Z-A)"
+    }
+  },
+  "matchbox": {
+    "button_cancel": "Cancel",
+    "button_save": "Save",
+    "button_apply": "Apply",
+    "button_delete": "Delete",
+    "present": "Present",
+    "project": {
+      "project": "Project",
+      "create_project": "Create a project",
+      "latest_projects": "Latest Project",
+      "see_all_projects": "See all projects",
+      "related_project": "Related Project",
+      "project_pick": "Project Pick",
+      "create_project_headline": "Projekte sind die Organisationen der Zukunft und die Projekt Organisation ist der Ausgangspunkt!.",
+      "formLabels": {
+        "name": "Project name",
+        "description": "Description",
+        "lead": "Project lead",
+        "leadRole": "Project lead role",
+        "department": "Department",
+        "location": "Location",
+        "from": "From",
+        "to": "To",
+        "ongoing": "ongoing",
+        "url": "Project URL",
+        "tags": "Tags",
+        "tagsExample": "(e.g. project type, industry)",
+        "members": "Project members",
+        "file": "Add file",
+        "optional": "(optional)"
+      },
+      "formPlaceholders": {
+        "name": "Start typing here to see suggestions",
+        "lead": "Ex: Dorothee Heckmann",
+        "leadRole": "Ex: Product Owner",
+        "department": "Ex: GM ORG C",
+        "location": "Ex: Munich, Germany",
+        "url": "Ex: Siemens Learning Campus",
+        "tags": "Start typing here to see suggestions",
+        "members": "Start typing to see suggestions",
+        "file": "Drag and drop file / image here"
+      }
+    },
+    "task": {
+      "create_task": "Create a task",
+      "latest_tasks": "Latest tasks",
+      "see_all_tasks": "See all tasks",
+      "physical_presence": "Physical presence not required",
+      "create_task_headline": "Whenever you need support from different roles (PM, PMO, Development, BA, and more) or need to find a crew to help implementing your ideas.",
+      "formLabels": {
+        "name": "Activity name / Project role",
+        "relatedToProject": "related to a project",
+        "project": "Projekt",
+        "department": "Department",
+        "location": "Location",
+        "skills": "Skills",
+        "period": "Period",
+        "capacityPerWeek": "Capacity per week",
+        "from": "From",
+        "description": "Activity / Project role description",
+        "skillsRequired": "Mandatory skills to accomplish the task",
+        "skillsNiceToHave": "Preferred skills",
+        "additionalInfo": "Additional information",
+        "physicalPresence": "Physical presence required",
+        "proBono": "Pro bono task",
+        "optional": "(optional)",
+        "whoShouldSee": "Who should see this task",
+        "everyone": "Everyone at Siemens",
+        "onlyMembers": "Only members of certain departments",
+        "peopleAtLocation": "People working in a certain location",
+        "requiredSkills": "Required Skills"
+      },
+      "formPlaceholders": {
+        "name": "Start typing here to see suggestions",
+        "project": "Start typing here to see suggestions",
+        "department": "Ex: GM ORG C",
+        "location": "Ex: Munich, Germany",
+        "capacityPerWeek": "hours per week",
+        "skills": "Start typing here to see suggestions"
+      }
+    },
+    "categories": {
+      "headline": "WHICH CATEGORIES ARE YOU INTERESTED IN?",
+      "subline": "Explore particular projects by clicking on the according category."
+    },
+    "filter": {
+      "show": "Show"
+    }
+  },
+  "settings": {
+    "headline": "Settings",
+    "tabs": {
+      "overview": "Overview",
+      "notifications": "Notifications",
+      "background": "Background"
+    },
+    "overview": {
+      "linkedin": {
+        "lastSynced": "Last Synced",
+        "importedFields": "Imported Datafields",
+        "button-revoke": "Revoke Access",
+        "button-import-again": "Edit LinkedIn import",
+        "button-import": "Import LinkedIn profile",
+        "status-not-imported": "LinkedIn data has not been imported yet.",
+        "status": "Status"
+      }
+    },
+    "orgchart-change-backgroundsettings": {
+      "headline": "Organization Charts",
+      "subheadline": "Here you can customize the look of your Organization Charts",
+      "theme_1_title": "Cosmos image",
+      "theme_2_title": "Dark theme",
+      "theme_3_title": "Light theme",
+      "button_cancel": "Cancel",
+      "button_save": "Save"
+    }
+  },
+  "error-message": {
+    "fill": "Please fill out this field",
+    "select": "Please select a value",
+    "maxlength": "You’ve exceeded the maximum character limit. (if we need this error message due to technical reasons)"
+  }
+}

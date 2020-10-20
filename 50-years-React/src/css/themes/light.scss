@@ -1,0 +1,278 @@
+.theme-light {
+  background: getColor(background, standard);
+
+  .cosmos-background-image {
+    display: none;
+  }
+
+  .orgchart-footnote {
+    a {
+      color: getColor(text, text3);
+      border-bottom: 1px solid getColor(text, text3);
+      font-weight: 500;
+      text-decoration: none;
+
+      &:hover {
+        border-bottom: 1px solid getColor(interactive, hover-link);
+        color: getColor(interactive, hover-link);
+      }
+    }
+  }
+
+  .cosmos-header .orgmanager-module {
+    background-color: getColor(text, inact) !important;
+  }
+
+  .toolbar {
+    background: getColor(text, inact);
+
+    .toolbar-row > div {
+      .zoom-dropdown {
+        background-color: getColor(blue, 2);
+      }
+
+      > div {
+        &:not(.open) {
+          &.active,
+          &:hover {
+            color: getColor(interactive, hover-link);
+            border-color: getColor(interactive, hover-link) !important;
+
+            a,
+            span {
+              color: getColor(blue, 2);
+            }
+          }
+        }
+
+        &.active,
+        &:hover {
+          color: getColor(blue, 2);
+          border-color: getColor(blue, 2) !important;
+
+          a {
+            color: getColor(blue, 2);
+          }
+        }
+
+        a,
+        a button {
+          color: getColor(interactive, standard-link);
+        }
+
+        > div.active {
+          border-color: getColor(interactive, hover-link);
+
+          a {
+            color: getColor(interactive, hover-link);
+          }
+        }
+      }
+    }
+
+    .zoom {
+      &:not(.open):hover,
+      .active {
+        .orgchart-toolbar-btn-group {
+          span,
+          button:hover {
+            color: getColor(blue, 2);
+          }
+        }
+      }
+
+      &.open {
+        background-color: getColor(blue, 2);
+
+        a,
+        span,
+        a button {
+          color: getColor(text, white);
+        }
+
+        a:hover button:hover {
+          color: getColor(interactive, standard-link) !important;
+        }
+
+        .mat-accent .mat-slider-track-fill,
+        .mat-accent .mat-slider-thumb {
+          background-color: getColor(interactive, standard-link);
+        }
+      }
+    }
+  }
+
+  .orgmanager {
+    ul.orgchart {
+      .orgitem {
+        border: 1px #b8cadc solid;
+      }
+    }
+    .orgitem-additionals {
+      &.active {
+        background-color: getColor(text, white);
+
+        .orgitem-additionals-box {
+          border: 1px solid #b8cadc;
+          border-top: none;
+        }
+      }
+
+      .employees-box {
+        &:hover {
+          color: getColor(interactive, hover-link);
+
+          > i,
+          .employees-count,
+          .employees-count-divider {
+            color: getColor(interactive, hover-link);
+          }
+        }
+
+        > i,
+        .employees-count,
+        .employees-count-divider {
+          color: getColor(interactive, standard-link);
+        }
+      }
+
+      .employees-dropdown-list {
+        background-color: getColor(text, white);
+        a {
+          color: getColor(text, text1) !important;
+          border: 1px solid #b8cadc !important;
+          border-top: none !important;
+
+          &.highlight,
+          &:hover {
+            background-color: getColor(interactive, standard-link);
+            color: getColor(text, white) !important;
+          }
+        }
+      }
+    }
+  }
+
+  .bp-title,
+  .employees-box a,
+  .employees-box span.total-employees-count,
+  .rl-list,
+  .rl-title,
+  .sr-title,
+  span.category-name,
+  ul.breadcrumbs > li,
+  ul.breadcrumbs > li > span,
+  ul.breadcrumbs > li a {
+    color: getColor(text, text2) !important;
+  }
+
+  ul.breadcrumbs > li:hover a,
+  ul.breadcrumbs > li:hover:not(:last-child) span,
+  ul.breadcrumbs > li:hover:not(:last-child)::after {
+    color: getColor(interactive, hover-link) !important;
+  }
+
+  .rl-list li span.number {
+    border-bottom: 1px solid getColor(text, text2) !important;
+  }
+
+  .side-bar .mat-tab-labels .mat-tab-label {
+    &:not(.mat-tab-label-active) {
+      color: getColor(primary-styleguide, stone-light) !important;
+
+      &:nth-child(1) {
+        svg.icon-profile {
+          .st1 {
+            fill: getColor(primary-styleguide, stone-light) !important;
+            stroke: transparent;
+          }
+
+          .st2 {
+            stroke: getColor(primary-styleguide, stone-light) !important;
+            fill: getColor(primary-styleguide, stone-light) !important;
+          }
+        }
+      }
+
+      svg {
+        fill: getColor(primary-styleguide, stone-light) !important;
+      }
+    }
+
+    &:not(.mat-tab-label-active) .sidebar-tabs {
+      border-color: getColor(primary-styleguide, stone-light) !important;
+    }
+  }
+
+  .org-additionals {
+    .employees-box a {
+      .employees-count,
+      i {
+        color: getColor(interactive, standard-link);
+      }
+
+      &:hover {
+        .employees-count,
+        i {
+          color: getColor(blue, 2);
+        }
+      }
+    }
+
+    &.active {
+      background-color: getColor(text, white);
+
+      .employees-box a {
+        .employees-count,
+        i {
+          color: getColor(blue, 2);
+        }
+
+        &:hover {
+          .employees-count,
+          i {
+            color: getColor(interactive, standard-link);
+          }
+        }
+      }
+    }
+  }
+
+  ul.employees-dropdown {
+    background-color: getColor(text, white);
+
+    li {
+      color: getColor(text, text1);
+
+      &:first-child {
+        border-top: 1px solid getColor(text, inact);
+      }
+
+      &:not(:last-child) {
+        border-bottom: 1px solid getColor(text, inact);
+      }
+
+      &:hover {
+        background-color: getColor(blue, 2);
+        color: getColor(text, white);
+      }
+    }
+  }
+
+  ul.orgchart .org-item {
+    border: 1px solid getColor(text, inact);
+
+    &.active,
+    &:hover {
+      background-color: getColor(blue, 2);
+    }
+  }
+
+  .cosmos-footer {
+    #last-updated,
+    .a3.inverted,
+    .p3.inverted {
+      color: getColor(text, text2) !important;
+    }
+  }
+}

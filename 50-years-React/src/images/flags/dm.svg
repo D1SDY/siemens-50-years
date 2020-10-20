@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#E02C42"/>
+            <stop offset="100%" stop-color="#D22036"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#108753" d="M-4 0h28v8H-4zM-4 12h28v8H-4z" mask="url(#b)"/>
+        <path fill="#FFF" d="M8 8H-4v4H8v8h4v-8h12V8H12V0H8v8z" mask="url(#b)"/>
+        <path fill="#262626" d="M9.333 10.667V20h1.334v-9.333H24V9.333H10.667V0H9.333v9.333H-4v1.334H9.333z" mask="url(#b)"/>
+        <path fill="#FCD449" d="M8 9.333V20h1.333V9.333H24V8H9.333V0H8v8H-4v1.333H8z" mask="url(#b)"/>
+        <circle cx="10" cy="10" r="4.667" fill="url(#c)" mask="url(#b)"/>
+        <circle cx="10" cy="10" r="3.333" stroke="#0E673F" stroke-dasharray="0.6666666666666666,2.666666666666667" stroke-linecap="round" stroke-width="1.333" mask="url(#b)"/>
+        <path fill="#0E673F" d="M10 11.333c.736 0 .667-.597.667-1.333s.07-1.333-.667-1.333c-.736 0-.667.597-.667 1.333s-.07 1.333.667 1.333z" mask="url(#b)"/>
+    </g>
+</svg>

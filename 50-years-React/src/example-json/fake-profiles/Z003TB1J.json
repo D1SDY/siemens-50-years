@@ -1,0 +1,170 @@
+{
+    "data": {
+        "GID": {
+            "S": "Z003TB1J"
+        },
+        "CITY": {
+            "S": "Muenchen"
+        },
+        "InCountryManagerCountry": {
+            "S": "DE"
+        },
+        "InCountryManagerName": {
+            "S": "Carlos  Riedelbauch"
+        },
+        "LM": {
+            "L": [
+                {
+                    "M": {
+                        "ENAME": {
+                            "S": "Carlos  Riedelbauch"
+                        },
+                        "LMGID": {
+                            "S": "Z00104TB"
+                        },
+                        "GID": {
+                            "S": "Z003HYNW"
+                        },
+                        "EMail": {
+                            "S": "CARLOS.RIEDELBAUCH@SIEMENS.COM"
+                        },
+                        "COUNTRY": {
+                            "S": "DE"
+                        },
+                        "LMORGCODE": {
+                            "S": "GS BPS BSS GPS GMS 4 3"
+                        }
+                    }
+                }
+            ]
+        },
+        "FUNCTYPE": {
+            "S": "3"
+        },
+        "SOCPOSITIONLONG": {
+            "S": "Employee"
+        },
+        "ENAME": {
+            "S": "Sandra  Schwaiger"
+        },
+        "PID": {
+            "S": "-1375218304-Z003HYNW"
+        },
+        "SOCPOSITION": {
+            "S": "EM"
+        },
+        "n": {
+            "S": "GBS B&S SOL GMS DMT WCS"
+        },
+        "LOCATION": {
+            "S": "MCH M"
+        },
+        "aws:rep:deleting": {
+            "BOOL": false
+        },
+        "COUNTRY": {
+            "S": "DE"
+        },
+        "ARE": {
+            "S": "7092"
+        },
+        "POSTYPE": {
+            "S": "PR"
+        },
+        "PERNR": {
+            "S": "01140286"
+        },
+        "Name": {
+            "S": "Sandra"
+        },
+        "OM": {
+            "L": [
+                {
+                    "M": {
+                        "ORGCODE": {
+                            "S": "GS BPS BSS GPS GMS 4 3"
+                        },
+                        "POSITION_LONG": {
+                            "S": "Employee"
+                        },
+                        "POSITION": {
+                            "S": "EM"
+                        },
+                        "GID": {
+                            "S": "Z003HYNW"
+                        }
+                    }
+                }
+            ]
+        },
+        "SR": {
+            "L": []
+        },
+        "SURNAME": {
+            "S": "Schwaiger"
+        },
+        "UTC": {
+            "S": "GMT +1"
+        },
+        "SUBJOBFAM": {
+            "S": "MK"
+        },
+        "IsHead": {
+            "N": "0"
+        },
+        "BPFunction": {
+            "L": []
+        },
+        "FUNCTYPE_TXT": {
+            "S": "Individual Contributor"
+        },
+        "SOCORGCODE": {
+            "S": "GS BPS BSS GPS GMS 4 3"
+        },
+        "InCountryManagerGID": {
+            "S": "Z00104TB"
+        },
+        "PositionInOwnOrgCode": {
+            "S": "EM"
+        },
+        "FKGID": {
+            "S": "Z00104TB"
+        },
+        "InCountryManagerOrgcode": {
+            "S": "GS BPS BSS GPS GMS 4 3"
+        },
+        "JOBFAMILY_TXT": {
+            "S": "Marketing"
+        },
+        "COMPANY": {
+            "S": "7020"
+        },
+        "ORGCODE": {
+            "S": "GS BPS BSS GPS GMS 4 3"
+        },
+        "POSTYPE_TXT": {
+            "S": "Professional & Expert"
+        },
+        "JOBFAMILY": {
+            "S": "MK"
+        },
+        "Department": {
+            "S": "Team 3"
+        },
+        "aws:rep:updateregion": {
+            "S": "eu-central-1"
+        },
+        "aws:rep:updatetime": {
+            "N": "1542169916.191001"
+        },
+        "GENDER": {
+            "S": "male"
+        },
+        "EMAIL": {
+            "S": "PETER.NIEDERMEIER@SIEMENS.COM"
+        },
+        "SUBJOBFAM_TXT": {
+            "S": "General Marketing"
+        }
+    }
+}

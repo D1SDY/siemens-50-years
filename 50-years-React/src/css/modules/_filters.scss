@@ -1,0 +1,226 @@
+.filter-checkbox {
+  .soc-checkbox {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 14px;
+  &.chbx-light {
+      color: getColor(text, white);
+  }
+  &.chbx-dark {
+      color: getColor(text, text1);
+  }
+  &:not(:first-child) {
+      margin-left: 20px;
+  }
+  .mat-checkbox-label {
+      height: 22px;
+  }
+  .mat-checkbox-layout {
+      overflow: hidden;
+      word-break: break-all;
+      &:hover {
+          .mat-checkbox-inner-container {
+              border-color: getColor(blue, 2) !important;
+          }
+          .mat-checkbox-label {
+              color: getColor(blue, 2) !important;
+          }
+      }
+      .mat-checkbox-inner-container {
+          height: 12px;
+          width: 12px;
+          margin-top: 4px;
+          margin-right: 5px;
+          margin-bottom: 0;
+          border-width: 1px;
+          border-style: solid;
+          border: 1px solid getColor(primary-styleguide, stone-light-35);
+          top: 1px;
+          .mat-checkbox-frame {
+              border-width: 0px;
+              border-radius: 0;
+              border-color: getColor(text, white);
+          }
+          .mat-checkbox-background {
+              background-color: getColor(text, white) !important;
+              .mat-checkbox-checkmark-path {
+                  stroke: getColor(blue, 2) !important;
+              }
+          }
+      }
+      .mat-checkbox-label {
+          cursor: pointer;
+          display: block;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+      }
+  }
+  &.mat-checkbox-checked {
+      color: getColor(interactive, hover-link);
+      font-weight: 500 !important;
+      border-color: getColor(interactive, hover-link);
+      .mat-checkbox-label {
+          font-weight: 500;
+          color: getColor(interactive, hover-link);
+      }
+      .mat-checkbox-inner-container {
+          border: 1px solid getColor(interactive, hover-link);
+      }
+  }
+}
+}
+.filter-checkbox {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 14px;
+  &.chbx-light {
+      color: getColor(text, white);
+  }
+  &.chbx-dark {
+      color: getColor(text, text1);
+  }
+  &:not(:first-child) {
+      margin-left: 20px;
+  }
+  .mat-checkbox-label {
+      height: 22px;
+  }
+  .mat-checkbox-layout {
+      overflow: hidden;
+      word-break: break-all;
+      &:hover {
+          .mat-checkbox-inner-container {
+              border-color: getColor(blue, 2) !important;
+          }
+          .mat-checkbox-label {
+              color: getColor(blue, 2) !important;
+          }
+      }
+      .mat-checkbox-inner-container {
+          height: 12px;
+          width: 12px;
+          margin-top: 4px;
+          margin-right: 5px;
+          margin-bottom: 0;
+          border-width: 1px;
+          border-style: solid;
+          border: 1px solid getColor(primary-styleguide, stone-light-35);
+          top: 1px;
+          .mat-checkbox-frame {
+              border-width: 0px;
+              border-radius: 0;
+              border-color: getColor(text, white);
+          }
+          .mat-checkbox-background {
+              background-color: getColor(text, white) !important;
+              .mat-checkbox-checkmark-path {
+                  stroke: getColor(blue, 2) !important;
+              }
+          }
+      }
+      .mat-checkbox-label {
+          cursor: pointer;
+          display: block;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+      }
+  }
+  &.mat-checkbox-checked {
+      color: getColor(interactive, hover-link);
+      font-weight: 500 !important;
+      border-color: getColor(interactive, hover-link);
+      .mat-checkbox-label {
+          font-weight: 500;
+          color: getColor(interactive, hover-link);
+      }
+      .mat-checkbox-inner-container {
+          border: 1px solid getColor(interactive, hover-link);
+      }
+  }
+
+}
+.filters {
+  .show-bar {
+      .ps__rail-y {
+          display: block;
+          opacity: 1;
+          background-color: getColor(interactive, active) !important;
+          width: 5px !important;
+          opacity: 1 !important;
+          &:hover {
+              background-color: inherit;
+              width: 5px !important;
+          }
+          .ps__thumb-y {
+              width: 5px !important;
+              background: getColor(text, text3);
+              border-radius: 0;
+              right: 0;
+          }
+      }
+  }
+  perfect-scrollbar>.ps.ps--active-y {
+      &:hover {
+          .ps__rail-y {
+              opacity: 1;
+              .ps__thumb-y {
+                  width: 5px;
+                  right: 0;
+              }
+          }
+      }
+      >.ps__rail-y {
+          width: 5px !important;
+          .ps__thumb-y {
+              width: 5px;
+              right: 0;
+              border-radius: 0;
+          }
+      }
+  }
+}
+/*
+.filters-tooltip {
+  font-family: 'SiemensSans';
+  position: relative;
+  padding: 3px 8px;
+  color: getColor(text, white);
+  text-align: left;
+  background-color: getColor(primary-styleguide, stone-dark);
+  border-radius: 0 !important;
+  font-size: 14px;
+  border: 1px solid getColor(primary-styleguide, stone-light-35);
+  line-height: 16px;
+  padding: 10px;
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+  &::before {
+      content: "";
+      position: absolute;
+      bottom: -20px;
+      left: -5px;
+      width: 9px;
+      height: 9px;
+      background-color: getColor(primary-styleguide, stone-dark);
+      transform: rotate(45deg);
+      top: calc(50% - 5px);
+  }
+}*/
+
+.filterSection {
+  .mat-select {
+      .mat-select-value {
+          color: getColor(text, text2);
+      }
+      .mat-select-placeholder {
+          color: getColor(text, text2);
+          font-family: "SiemensSans";
+          font-weight: 400;
+      }
+      .mat-select-value-text {
+          color: getColor(text, text2);
+      }
+  }
+}

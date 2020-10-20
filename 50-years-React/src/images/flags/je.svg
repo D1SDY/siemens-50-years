@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <path id="c" d="M.667 3.833V2.674c0-.74.59-1.34 1.332-1.34h1.336c.735 0 1.332.587 1.332 1.34v1.16c0 1.785-2 2.5-2 2.5s-2-.715-2-2.5z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <rect width="19.5" height="19.5" x=".25" y=".25" stroke="#F5F5F5" stroke-width=".5" rx="9.75"/>
+        <path fill="#E3243B" d="M9.326-14.193h2.667V35.14H9.326z" mask="url(#b)" transform="rotate(-55 10.659 10.473)"/>
+        <path fill="#E3243B" d="M9.326-14.193h2.667V35.14H9.326z" mask="url(#b)" transform="scale(-1 1) rotate(-55 0 30.949)"/>
+        <g mask="url(#b)">
+            <g transform="translate(8 1.333)">
+                <path fill="#FAEF32" d="M1.593 1.333l.087-.05-.987-.57 1.276.142L1.789 0l.878.712L3.544 0l-.18.855L4.64.712l-.987.57.088.051H1.593z"/>
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#E3243B" xlink:href="#c"/>
+                <rect width="1" height="1" x="2.333" y="5.333" fill="#FAEF32" mask="url(#d)" rx=".5"/>
+                <rect width="2.667" height="1" x="1.333" y="4" fill="#FAEF32" mask="url(#d)" rx=".5"/>
+                <rect width="2.667" height="1" x="1.333" y="2.667" fill="#FAEF32" mask="url(#d)" rx=".5"/>
+            </g>
+        </g>
+    </g>
+</svg>

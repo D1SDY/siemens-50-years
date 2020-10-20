@@ -1,0 +1,107 @@
+.mat-chip:focus {
+  box-shadow: none !important;
+  outline: 0;
+}
+.soc-chip-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: -4px;
+  .soc-chip {
+    background: 0 0;
+    font-size: 14px;
+    margin: 0 8px 8px 0;
+    padding: 0 8px;
+    cursor: text;
+    position: relative;
+    border-radius: 24px;
+    align-items: center;
+    padding-top: 2px;
+    &.edit {
+      padding-right: 30px;
+    .close {
+      position: absolute;
+      bottom: 3px;
+      right: 0;
+      padding-right: 10px;
+      font-size: 14px;
+      opacity: 1;
+      text-shadow: none;
+    }
+    }
+    span {
+      padding-top: 3px;
+      position: relative;
+    }
+    .cosmos-icon_star {
+      margin: auto 5px auto 0px;
+    }
+    &.filled {
+      font-weight: 500;
+    }
+    &.yellow {
+      border: 1px solid getColor(yellow, 7);
+      color: getColor(yellow, 7);
+      .close {
+        color: getColor(yellow, 7);
+      }
+      &.filled {
+        color: getColor(text, white);
+        background: getColor(yellow, 7);
+        .close {
+          color: getColor(text, white);
+        }
+      }
+    }
+    &.linkedIn {
+      background-color: getColor(interactive, active);
+      border: 1px solid getColor(primary-styleguide, stone-light-35);
+      color: getColor(text, text1);
+      i.cosmos-icon_star {
+        color: getColor(text, text2);
+      }
+      i:not(.cosmos-icon_star) {
+        position: relative;
+        padding: 0px 2px 0px 5px;
+        top: 1px;
+        width: 20px;
+        img {
+          position: relative;
+          vertical-align: text-top;
+          width: 15px;
+        }
+      }
+    }
+    &.interestBlue {
+      border: 1px solid getColor(interactive, hover-link);
+      color: getColor(interactive, hover-link);
+      .close {
+        color: getColor(interactive, hover-link);
+      }
+      &.filled {
+        background: getColor(interactive, hover-link);
+        color: getColor(text, white) !important;
+        .close {
+          color: getColor(text, white);
+        }
+      }
+
+    }
+    &.filterBlue {
+      border: 1px solid  getColor(secondary-styleguide, blue-light);
+      color:  getColor(secondary-styleguide, blue-light);
+      .close {
+        color:  getColor(secondary-styleguide, blue-light);
+      }
+      &.filled {
+        color: getColor(text, white);
+        background:  getColor(secondary-styleguide, blue-light);
+        .close {
+          color: getColor(text, white);
+        }
+      }
+
+    }
+  }
+}

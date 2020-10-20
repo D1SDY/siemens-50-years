@@ -1,0 +1,44 @@
+.text {
+  position: relative;
+  .soc-textarea {
+    border: none !important;
+    overflow-y: auto;
+    width: 100%;
+  }
+  .soc-scrollbar-padding-container {
+    border: 1px solid getColor(text, inact);
+    background-color: white;
+  }
+  textarea {
+    padding: 11px 15px;
+    &.notValid {
+      border: 1px solid getColor(interactive, error-red);
+
+      small {
+        color: getColor(interactive, error-red);
+      }
+    }
+    &.big-textarea {
+      height: 250px;
+    }
+    &.medium-textarea {
+      height: 163px;
+    }
+    &.small-textarea {
+      height: 62px;
+    }
+    &.description {
+      resize: none;
+    }
+  }
+
+  .textLenght {
+    margin-top: 3px;
+    margin-left: 5px;
+    small {
+      font-size: 14px;
+      color: getColor(text, text3) !important;
+      font-style: italic;
+    }
+  }
+}

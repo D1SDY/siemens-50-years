@@ -1,0 +1,19 @@
+.theme-download {
+
+  .hide-on-print {
+    display: none !important;
+  }
+
+  ul.employees-dropdown {
+    max-height: inherit;
+
+    perfect-scrollbar {
+      max-height: inherit !important;
+    }
+
+    .ps__rail-y,
+    .userimage {
+      display: none;
+    }
+  }
+}

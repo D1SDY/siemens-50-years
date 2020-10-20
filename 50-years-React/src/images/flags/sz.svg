@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <ellipse id="c" cx="6" cy="3.333" rx="6" ry="3.333"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#486BCA" d="M-4 0h28v4H-4zM-4 16h28v4H-4z" mask="url(#b)"/>
+        <path fill="#FFDF20" d="M-4 4h28v12H-4z" mask="url(#b)"/>
+        <path fill="#CF1615" d="M-4 5.333h28v9.333H-4z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <g transform="translate(4 6.667)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#FFF" xlink:href="#c"/>
+                <path fill="#262626" d="M0 0h6.667v6.667H1.333z" mask="url(#d)" transform="matrix(-1 0 0 1 6.667 0)"/>
+                <circle cx="7.333" cy="3.333" r="1" fill="#1A1A1A" mask="url(#d)"/>
+                <circle cx="4.667" cy="3.333" r="1" fill="#F6F6F6" mask="url(#d)"/>
+            </g>
+        </g>
+    </g>
+</svg>

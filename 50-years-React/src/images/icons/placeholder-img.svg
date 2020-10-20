@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>People profile square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="People-profile-square">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M24.0017998,18.6680495 L24,18.6680495 C19.0738926,18.6680495 15.7424258,14.9344396 15.7208279,9.33402474 C15.7208279,3.7336099 19.0738926,0 24,0 C28.9045095,0 32.2575742,3.7336099 32.2575742,9.33402474 C32.2575742,14.9344396 28.929707,18.6680495 24.0017998,18.6680495 Z M42,30.4466998 L41.9964004,30.4431439 C41.9964004,30.4431439 41.9964004,30.4644789 41.9964004,30.4431439 C41.9964004,32.0201496 41.9964004,40.3549893 41.9964004,48 L6,48 C6,40.3549893 6,32.0201496 6,30.4431439 C6.089991,26.4890733 8.38476152,23.7759834 11.8044196,23.5324098 L17.9922008,23.1110453 L24,29.0457071 L30.0077992,23.1341581 L36.1955804,23.5573005 C39.6152385,23.7795392 41.9316068,26.4908512 42,30.4466998 Z" id="Shape-Copy" fill="#50BED7" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,634 @@
+{
+  "years": [{
+      "year": "2019",
+      "days": [{
+        "date": {
+          "day": "24",
+          "monthLabel": "July",
+          "month": "07",
+          "year": "2019"
+        },
+        "collapsed": "false",
+        "news": [{
+          "category": "feature",
+          "title": "Job Title",
+          "description": "Enter your job title!",
+          "content": "<p>From now on you can edit your job title in your People Profile. Try it out now!</p>",
+          "thumbnail": {
+            "src": "/assets/images/news/19_07_Newsfeed_Thumb_Job-Title.png",
+            "position": "bottom",
+            "fullsize": true
+          },
+          "images": [],
+          "collapsed": "false"
+        }]
+      },{
+        "date": {
+          "day": "15",
+          "monthLabel": "May",
+          "month": "05",
+          "year": "2019"
+        },
+        "collapsed": "false",
+        "news": [{
+          "category": "golive",
+          "title": "Collaboration - an experiment",
+          "description": "Siemens Teams in the spotlight",
+          "content": "<p>Collaboration offers a structured summary about the responsibility of teams with regards to Siemens services/ products and projects. The Collaboration starts as an experiment with limited pilot data from IT. </p>",
+          "thumbnail": {
+            "src": "/assets/images/news/icon_view_collaboration.svg",
+            "position": "bottom"
+          },
+          "images": ["/assets/images/news/00_Browser_Window_News_Collaboration.png"],
+          "collapsed": "false"
+        }]
+      },{
+        "date": {
+          "day": "01",
+          "monthLabel": "April",
+          "month": "04",
+          "year": "2019"
+        },
+        "collapsed": "false",
+        "news": [{
+          "category": "feature",
+          "title": "Organization Charts Update",
+          "description": "The new Vision 2020+ organization goes live",
+          "content": "<p>As of April 1, 2019, the new Vision 2020+ organizational structure takes effect. The Planning Org Charts will be deactivated, and all organizational changes will be visible in the Org Charts view.</p>",
+          "thumbnail": {
+            "src": "/assets/images/news/Org_Charts_Newsfeed_Visual.png",
+            "position": "bottom",
+            "fullsize": true
+          },
+          "images": [],
+          "collapsed": "false"
+        }]
+      }]
+    },
+    {
+      "year": "2018",
+      "days": [{
+          "date": {
+            "day": "17",
+            "monthLabel": "December",
+            "month": "12",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Planning Status Organization Charts",
+            "description": "Experience first-hand the new Vision 2020+ organizational structure.",
+            "content": "<p>Would you like to know where your Organizational Unit is structured in future? Click on the Vision 2020+ tile to see an additional view of the Org Charts, which shows the planned organization effective from 04/01/2019.</p>",
+            "thumbnail": {
+              "src": "/assets/images/news/Planning_Org_Charts_Newsfeed_Visual.png",
+              "position": "bottom",
+              "fullsize": true
+            },
+            "images": ["/assets/images/news/News_Planning_Org_Charts.png"],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "20",
+            "monthLabel": "November",
+            "month": "11",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Job Tagging",
+            "description": "Interested in working for another Org Unit?",
+            "content": "<p>Express your interest in working for another Org Unit by 'job tagging' that Unit in the Organization Charts. Additionally, you can also choose to inform the respective head of unit of your interest to work in their team with a simple click! It is easier than ever to create opportunities for yourself, go to the Org Charts and select the Job Tagging mode to get started!</p>",
+            "thumbnail": {
+              "src": "/assets/images/news/News_Job_Tagging_Icon.svg",
+              "position": "top"
+            },
+            "images": ["/assets/images/news/News_Job_Tagging_1.png", "/assets/images/news/News_Job_Tagging_2.png", "/assets/images/news/News_Job_Tagging_3.png"],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "23",
+            "monthLabel": "October",
+            "month": "10",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "People Profile View",
+            "description": "Great People need a great Profile! It’s People Profile Time!",
+            "content": "<p>We are pleased to share that we’ve extended your People Profile. You can manually enter additional data or choose to import your LinkedIn data to populate your profile! Yes, that’s correct - now all Siemens employees are able to import data from LinkedIn into SOC. Curious?</p>",
+            "thumbnail": {
+              "src": "/assets/images/linkedin-512.png",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true",
+            "link": "/settings",
+            "linkLabel": "Visit your personal settings"
+          }]
+        },
+        {
+          "date": {
+            "day": "09",
+            "monthLabel": "October",
+            "month": "10",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Cosmos Beta version closure",
+            "description": "Bye bye Beta - Hello Live Cosmos!",
+            "content": "<p>The Cosmos testing phase is now successfully closed and we are pleased to offer the platform in it's live version. In future you will notice 'Beta' flags throughout the Cosmos highlighting new features and giving you a sneak preview at what we are currently developing and testing e.g. right now we are working on the expanded People Profile for you! This might mean that the Beta flagged features are subject to change or are not always available until they go live. As always we'd love to hear your feedback!</p>",
+            "thumbnail": {
+              "src": "",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "12",
+            "monthLabel": "September",
+            "month": "09",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Cosmos Advanced Search",
+            "description": "Still haven't found what you're searching for? Not any more!",
+            "content": "<p>We are excited about the updated Cosmos search! Added scope and plenty of filters, enable a more intuitive, easy and broad search.</p><br><p>Wanting to find out what that phone or ARE number is? Looking for a business partner? Or for a colleague's with particular skills? Simply enter the search term directly into the search field and delight in refining the results using the various filters available! Enjoy this first 'advanced search' iteration also via the toggle bar.</p><br><p>Whilst we keep developing it's full functionality, we invite you to populate your profile - so you too can be found!</p>",
+            "thumbnail": {
+              "src": "/assets/images/news/Icon_ADV-Search_View.png",
+              "position": "top"
+            },
+            "images": [
+              "/assets/images/news/Advanced-Search-01.png",
+              "/assets/images/news/Advanced-Search-02.png",
+              "/assets/images/news/Advanced-Search-03.png"
+            ],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "11",
+            "monthLabel": "June",
+            "month": "06",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "feature",
+            "title": "Employee Lists in Org Chart View",
+            "description": "See the same people in the Org Charts organized in a list instead!",
+            "content": "<p>Prefer lists? Switch your view using the list icon (far right icon in the 'Org Chart View' toolbar). To switch back to seeing people in Org Charts, use the OrgChart icon next to it.</p><br><p>This list feature allows for a more compact overview of more detailed information e.g. names, Org Codes, contact details, photos and more. All in a convenient list that you can customize and export to excel. Enjoy!</p>",
+            "thumbnail": {
+              "src": "",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "06",
+            "monthLabel": "June",
+            "month": "06",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+              "category": "golive",
+              "title": "Cosmos FAQs",
+              "description": "Stuck? Get unstuck, using the FAQ section.",
+              "content": "<p>You asked, we've answered!</p><br><p>Check out the Cosmos FAQs, found in the help menu (the question mark icon in the header) as your first step.</p><br><p>From now on the FAQ section provides content, process and instruction related information, for all the Cosmos areas and is constantly growing.</p>",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "Feedback & Support online",
+              "description": "We love to connect with our users.",
+              "content": "<p>If you have suggestions, comments, technical difficulties; data, process or content related questions - use the Feedback & Support form, found in the new Help section in the header (the question mark icon in the header).</p><br><p>We look forward hearing from you!</p>",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            }
+          ]
+        },
+        {
+          "date": {
+            "day": "07",
+            "monthLabel": "May",
+            "month": "05",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Legal Entity View",
+            "description": "The Siemens Legal Structure just got interesting!",
+            "content": "<p>Explore the Siemens companies as defined legally. See your colleagues organized by legal companies and enjoy the benefits of updated design and features.</p>",
+            "thumbnail": {
+              "src": "/assets/images/news/Icon_Legal-Entity-View.png",
+              "position": "top"
+            },
+            "images": [
+              "/assets/images/news/18_05_Legal-Entity-View.png"
+            ],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "27",
+            "monthLabel": "April",
+            "month": "04",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "iOS/Android App available now",
+            "description": "SOC in your pocket",
+            "content": "<p>You can now download the mobile version of SOC to tablet or smartphone. The new SOC app is available on the Siemens Airwatch app store.</p><br><p>Your smartphone isn't set up to use Siemens apps? You'll find all information you need to get started <a href='https://workspace.basic.siemens.com/content/00000108/SAA_Service_Page/_layouts/15/start.aspx#/SitePages/Home.aspx' target='_blank'>here</a>.</p>",
+            "thumbnail": {
+              "src": "",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "03",
+            "monthLabel": "April",
+            "month": "04",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "SOC moves to the cloud!",
+            "description": "Faster, more reliable and innovative: SOC cloud.",
+            "content": "<p>The Siemens Organizational Cosmos has moved to the cloud. Why?</p><ul><li>better performance through state of the art Amazon cloud services</li><li>high security standards to protect all data</li><li>connect to SOC from any Siemens location</li><li>optimized for all browsers</li><li>high reliability through „serverless-architecture“</li></ul>",
+            "thumbnail": {
+              "src": "/assets/images/news/cloud.png",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "14",
+            "monthLabel": "March",
+            "month": "03",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "The choice is yours",
+            "description": "Change background option in Org Charts view",
+            "content": "<p>You can now choose between three background themes in the Org Charts view.</p><p>How To:</p><ul><li>click on the Org Chart settings icon in the toolbar</li><li>choose your favourite theme click 'save settings'</li></ul>",
+            "thumbnail": {
+              "src": "/assets/images/news/choice-is-yours.png",
+              "position": "top"
+            },
+            "images": [
+              "/assets/images/news/choice-is-yours-01.png",
+              "/assets/images/news/choice-is-yours-02.png"
+            ],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "31",
+            "monthLabel": "Jan",
+            "month": "01",
+            "year": "2018"
+          },
+          "collapsed": "true",
+          "news": [{
+              "category": "golive",
+              "title": "The Cosmos just got even better",
+              "description": "Cosmos Seamless Design",
+              "content": "<p>We have a lot of exciting cosmical upgrades to share! The team has been busy working on improving the user experience by focusing on a more seamless and intuitive design based on your feedback! The improvements to your experience are: </p><ul><li>We have placed the Cosmos in the cloud! Which means quicker access to pages and a more efficient overall experience for you. </li><li>Clearer and simpler design elements! Particularly in the Org Charts View you might notice a simpler look to the overall presentation. This can be seen for example in the Header items, the display of Unit Boxes or the increased color contrast to enhance your generally viewing experience.</li><li> The Navigation Toggle has now been expanded to work across all Cosmos views. Are you looking at a particular Unit or Person? Now you can access a different view of information by clicking along the Navigation Toggle. Give it a try!</li>",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "Org-Sidebar",
+              "description": "Learn all about any Org Unit in the new Org Sidebar",
+              "content": "Get to know any Unit through the information that has been grouped together in the new Org-Info sidebar. It can be accessed through clicking the 'i' button on any Org Unit, the 'Open Jobs' button (if there are any current open jobs available) or any person in the employee list below the box. Once the sidebar has been opened, you will find information about employees, open jobs and Org Units - by clicking the respective icon next to the sidebar. We look forward to getting to know all Siemens teams better!",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "update",
+              "title": "Quick Profile",
+              "description": "Upgrade with more information and functionality!",
+              "content": "<p>We have expanded the functionality of the Quick Profile in line with your wishes! We are pleased to share that we recently added functions like:</p><ul><li> The ability to open the Circuit application and call or message a colleague directly using the Circuit icon. </li><li>A link on the top right, to open the full People Profile which will have more data in future!</li><li> Expanded information fields like Function, Position, Line Manager, In-country Manager, Tasks, Business Partners or any Special Responsibilities colleagues might have for other departments. </li><li>Visible phone numbers that can be clicked on to make a call via the SieDial app and can be 'copied' and 'pasted'.</li><li> Use the arrow icons on either side of a profile to browse through the rest of the team in case you are looking for someone with a slightly different profile.</li>",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "Let’s start to get to know each other",
+              "description": "People Profile View",
+              "content": "We have added initial People Profiles for every active employee in Siemens! Explore these through the new People Profile View on the starting page. To start off with, we have populated these initial Profiles with your organizational data and SCD contact information. Right now, the development team is working on several great ideas of how you can easily fill the profile, with various skills and interests from internal and external sources and give your approval in the process. We are looking forward to sharing these exciting developments with you as soon as they are ready!",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Have your Cosmos just the way you like it",
+              "description": "Authentification",
+              "content": "<p>Isn’t it great when someone prepares for your visit by setting up things just the way you like it? The newly added single-sign-on functionality will allow us to recognize your preferences and personalize your own Cosmos as we develop more of these functionalities in the future. These would include setting a background picture or choosing which language you want as default. When you see your own photo in the Header, you'll know for sure if you're logged in. Can't see your photo? Then why not quickly upload yours via your profile!</p><p> We'll also let you know if there are any 'What's New' stories that you haven't read yet, by turning the What's New 'present' icon in the header yellow for you!<p>",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "Quick Search",
+              "description": "The search is on within Org Charts and People Profiles!",
+              "content": "We are happy to share that the first search functionality has now been added to the Cosmos while we continue developing an advanced search function across all views. This means right now, you can start using the search bar to search for people or organizations by name, GID, Org Code, Org Name, telephone number, email or location. Happy seeking!",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "days": [{
+          "date": {
+            "day": "18",
+            "monthLabel": "Dec",
+            "month": "12",
+            "year": "2017"
+          },
+          "collapsed": "true",
+          "news": [{
+            "category": "golive",
+            "title": "Portfolio View",
+            "description": "Putting you in the full Siemens business picture",
+            "content": "Do you know what the different Business Units at Siemens develop, produce and sell? Get your questions answered in the beta version of our Portfolio-View. Enjoy browsing!",
+            "thumbnail": {
+              "src": "",
+              "position": "top"
+            },
+            "images": [],
+            "collapsed": "true"
+          }]
+        },
+        {
+          "date": {
+            "day": "14",
+            "monthLabel": "Dec",
+            "month": "12",
+            "year": "2017"
+          },
+          "collapsed": "true",
+          "news": [{
+              "category": "golive",
+              "title": "Siemens Governance",
+              "description": "Where to quickly find info on rules & regulations",
+              "content": "Do you want to find out more about the rules and regulations behind how our company runs? Now you can with more up-to-date information, a new user interface having shorter search times and improved search results, as well as a subscription function.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Navigation Toggle",
+              "description": "Get your hands on the remote control",
+              "content": "Want to switch how you look at the company? The recently added navigation toggle allows you to change your perspective! Located on the bottom right-hand side of your screen, this toggle acts like a remote control so you can “flick” between the different views available: Organizational Charts, Portfolio or Governance. These views let you look into our organization from different angles, enabling you to access additional related information about the Cosmos area you are interested in.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            }
+          ]
+        },
+        {
+          "date": {
+            "day": "12",
+            "monthLabel": "October",
+            "month": "10",
+            "year": "2017"
+          },
+          "collapsed": "true",
+          "news": [{
+              "category": "feature",
+              "title": "Org Charts - Open Jobs",
+              "description": "Spot job vacancies at a glance",
+              "content": "Are you looking for open positions across Siemens? Now you can quickly see which Org Units are hiring thanks to the green ‘Open Jobs’ notification feature. Clicking on it will reveal the title and location of the opportunity. And if you want to know more or even apply, another click takes you directly to the job description in 4Success. Good luck!",
+              "thumbnail": {
+                "src": "/assets/images/news/open.job.jpg",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - Schedule Meetings",
+              "description": "Speedy meeting set-up",
+              "content": "Found the right person and now you want to meet with them? Simply click on the calendar icon in the bottom right of the Quick Profile in the Org Chart to send an Outlook meeting request.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - Photo feature",
+              "description": "Put a face to the name!",
+              "content": "The photo feature has been activated – now you can go ahead and voluntarily upload your profile photo!<br/><br/>Haven’t done it yet? A click on the avatar of your Profile takes you to your personal photo upload. Follow the instructions, refresh the page and you too can see your image floating in the Cosmos!",
+              "thumbnail": {
+                "src": "",
+                "position": "bottom"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "update",
+              "title": "Org Charts – Reporting Lines, Special Responsibilities, Business Partner",
+              "description": "In case you missed it",
+              "content": "We are pleased to share some smaller functional updates with you. You can now find second reporting line footnotes, special responsibilities and business partners in the SOC 2 Beta Org Charts.",
+              "thumbnail": {
+                "src": "",
+                "position": "bottom"
+              },
+              "images": [],
+              "collapsed": "true"
+            }
+          ]
+        },
+        {
+          "date": {
+            "day": "08",
+            "monthLabel": "Jun",
+            "month": "6",
+            "year": "2017"
+          },
+          "collapsed": "true",
+          "news": [{
+              "category": "update",
+              "title": "Org Charts - Search Auto-complete",
+              "description": "Still haven’t found what you’re looking for? Let autocomplete help!",
+              "content": "Our new autocomplete feature makes your Org Chart search faster and more flexible. By offering more suggestions as you type, the feature allows you to enter a wider range of inputs to find what or who you’re looking for – and to more quickly select the correct result!",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "SOC 2 - Landing Page",
+              "description": "Journey through the cosmos",
+              "content": "Open the SOC and step into a new universe – with the revamped, cosmos-inspired landing page! The Galactic design inspiration was implemented by our Design SOC 2 Competition winner, Alberto Zendejas from GS IT in Mexico, who joined the SOC 2 scrum team to develop the newly designed, more user-friendly landing page. In the future, the SOC will be expanded to include alternative structures within Siemens such as the legal structure, network structures or a geographic perspective of our company. So choose from one of these, as the base to start your SOC cosmic journey in future.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - Org Unit Info",
+              "description": "More OrgUnit info? The “i”s have it!",
+              "content": "Those little “i”s in the top right of the Org Unit boxes are small but useful: click on them to reveal the unit’s location (where the head of the unit is based), its Org Class (the classification of its main activity) and a link to its intranet page – all displayed in a pop-up box.",
+              "thumbnail": {
+                "src": "/assets/images/news/orgInfo.jpg",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - People Count",
+              "description": "Small, medium or large?",
+              "content": "The new Org Charts now show you at a glance how many people are assigned to an Org Unit or in the entire reporting chain – just look for the figures below each Org Unit box. They have two different functions: those on the left show the number of people assigned to the unit, while those on the right reveal the number of positions that ultimately report to the head of the unit.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - Direct call via SieDial",
+              "description": "Call any colleague directly from the SOC",
+              "content": "Found the right person in the Org Chart and want to call them directly? We have included a feature that allows you to do just that. Use the phone icon in the bottom left of a colleague’s Quick Profile to call them on your work cell phone – simply download the SieDial app in advance to make the most of this feature. Need support setting this up? You can access the FAQs for the SieDial app here: https://siedial.siemens.com/help/faq",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "feature",
+              "title": "Org Charts - Display Local Time",
+              "description": "Say goodbye to time-zone math!",
+              "content": "Is it office hours in Singapore or the middle of the night in Chile? Just check your colleague’s Quick Profile, which now displays their location and the local time there. Now you know if it’s a good moment to reach them without having to calculate the time difference first!",
+              "thumbnail": {
+                "src": "/assets/images/news/localTime.jpg",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "Org Charts - Employee short profile",
+              "description": "Keep that paper business card in your pocket",
+              "content": "And ask your colleagues to access an online version instead! We have now introduced a short personal profile, or Quick Profile, for everyone at Siemens, which captures key info about our colleagues and how to contact them. It also includes a photo or gender-specific avatar – handy if you’ve never met face to face. To access the Quick Profile: click on the person icon below an Org Unit box to open the list of employees in that unit, click on any employee in this list to open their Quick Profile",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            },
+            {
+              "category": "golive",
+              "title": "SOC 2 beta - Is live!",
+              "description": "Welcome to the new SOC!",
+              "content": "New design, new features and new ways to connect: the Siemens Organization Charts have had a complete redesign and we at GM ORG are happy to open the doors to this new experience today. The aim of the new SOC is to offer a platform for all Siemens employees to connect across all parts of our organization. So start exploring our new landing page and Org Charts! And take a look at the Org Unit and people info. Don’t forget to keep coming back over the coming months and checking the new features that will make reaching your network much simpler.",
+              "thumbnail": {
+                "src": "",
+                "position": "top"
+              },
+              "images": [],
+              "collapsed": "true"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

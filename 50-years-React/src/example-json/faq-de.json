@@ -1,0 +1,440 @@
+{
+  "categories": [
+    {
+      "category": "",
+      "questions": [
+        {
+          "question": "Wer ist verantwortlich für den Siemens Organizational Cosmos?",
+          "type": "html",
+          "answer": "<p>Die Governance für den Siemens Organizational Cosmos liegt bei  <a href='https://soc.siemens.cloud/orgcharts/orgchart?orgcode=GM%20TO' target='_blank'>GM TO</a>.</p>"
+        }
+      ]
+    },
+    {
+      "category": "Organization Charts",
+      "questions": [
+        {
+          "question": "Wer kann meine Fragen bezüglich OrgCharts beantworten",
+          "type": "html",
+          "answer": "<p>Der zuständige OrgManager kann alle Fragen zur organisatorischen Struktur und die Funktionalität des SOCs beantworten, und sind auch für die OrgChanges zuständig. Die Liste aller OrgManager finden Sie unter diesem <a href=\"https://soc.siemens.cloud/assets/files/org-manager-list.pdf\" target=\"_blank\">Link</a>.</p>"
+        },
+        {
+          "question": "Warum finde ich keine Kollegen in den Org Charts / im People Profile, die befristet bei Siemens sind, z.B. Externe, Praktikanten, Werkstudenten",
+          "type": "string",
+          "answer": "Aus arbeitsrechtlichen Gründen dürfen bestimmte Personengruppen nicht in den Organization Charts gezeigt werden, die die Führungsstrukturen darstellen, sowie ebenfalls nicht in der Legal Entity View. Bis auf externe Personen können die zusätzlichen Personengruppen im People Profile z. B. über die Advanced Search gefunden werden."
+        },
+        {
+          "question": "Warum kann ich keine Betriebsratsmitglieder in den Org Charts finden?",
+          "type": "string",
+          "answer": "Der Betriebsrat ist ein von der Siemens Führungsstruktur unabhängiges Gremium, das keiner fachlichen Führung im Siemens Führungssystem zugeordnet ist und somit kein direkter Bestandteil unser Management-Struktur ist, der im Organisations-Chart  dargestellt wird. Die hauptamtlichen Betriebsräte haben im SOC ein People Profile und können somit alle SOC-Funktionalitäten vollumfänglich nutzen."
+        },
+        {
+          "question": "Warum werden max. acht Personen unterhalb einer Org Box angezeigt? Wo ist der Rest des Teams?",
+          "type": "string",
+          "answer": "Aufgrund der großen Menge von Organisationseinheiten bei Siemens , haben wir uns entschieden grundsätzlich 8 Personen als Standard anzuzeigen. In der Regel immer die Leitung und noch 7 Mitarbeiter (sortiert alphabetisch, nach Namen). Sofern die Anzahl der Mitarbeiter größer ist, können Sie am rechten Rand der Mitarbeiterliste bequem runter scrollen."
+        },
+        {
+          "question": "Wie kann ich den Hintergrund der Org Chart-Ansicht ändern?",
+          "type": "html",
+          "answer": "<p>Sie können aktuell zwischen 3 unterschiedlichen Hintergrund-Themen wählen. Klicken Sie im Header auf ihr Profilfoto bzw. ihren Avatar. Im Dropdown klicken Sie das 'Zahnrad'- Einstellungs-Icon und wählen, nachdem Sie auf Hintergrund geklickt haben, Ihre favorisierte Hintergrundeinstellung zur Anzeige der Organisationsstruktur.</p><p>Diese Funktion ist derzeit nur für die Org Chart Ansicht und für die Legal Entity Ansicht verfügbar.</p>"
+        },
+        {
+          "question": "Ich möchte eine Kopie eines Org Charts erstellen, um diese zu speichern oder zu versenden, wie funktioniert das?",
+          "type": "html",
+          "answer": "<p>Sie können den aktuellen Inhalt eines Org Charts, durch Klick auf den Download-Button in der Toolbar herunterladen. (Hinweis: Es wird immer der gesamte Bildschirminhalt heruntergeladen, nicht nur der Teil, den Sie aktuell im Dialog sehen)</p><img src='/assets/images/faq/download_orgchart.png'><p>Mit der Download-Funktion wird ein PNG und mit der Druck-Funktion wird eine PDF-Datei erstellt, die Sie weiter verwenden können.</p>"
+        },
+        {
+          "question": "Was bedeuten die Zahlen unter den Organisationseinheiten?",
+          "type": "html",
+          "answer": "<p>Die Zahl vor dem '/' zeigt Ihnen die Anzahl der Personen, die dieser Organisationseinheit direkt zugeordnet sind.</p><p>Die Zahl nach dem '/' gibt Ihnen die Information, wie viele Personen insgesamt in der gesamten Organisationsstruktur, die noch unterhalb der entsprechenden sind, Organisationseinheit hinterlegt ist, zugeordnet sind. Dabei werden beispielsweise Personen, die mehrere Organisationseinheiten leiten, nur einmal gezählt.</p><p>Die Zahlen werden, basierend auf der Siemens Management System täglich neu ermittelt. Für detaillierte Informationen klicken Sie bitte hier.</p>"
+        }
+      ]
+    },
+    {
+      "category": "Job Tagging",
+      "questions": [
+        {
+          "question": "Was ist Job Tagging?",
+          "type": "html",
+          "answer": "<p>Job Tagging bietet Ihnen die Möglichkeit, Ihr Interesse an einer bestimmten Organisationseinheit zu bekunden und eine Benachrichtigung über zukünftige Stellenangebote zu erhalten.</p><p>Als Mitarbeiter können Sie Ihr Interesse dokumentieren und erhalten so im Falle einer neuen Stellenanzeige eine Benachrichtigung. Sie können sich entscheiden, die Führungskraft der betreffenden Organisationseinheit darüber zu informieren, dass Sie an einer Stelle in ihrer Abteilung interessiert sind.</p><p>Als Führungskraft können Sie interessierte Mitarbeiter, die ihre Tags mit Ihnen ausgetauscht haben, jederzeit ansprechen, um sich ganz allgemein mit ihnen über deren Motivation und Qualifikationen auszutauschen. Selbstverständlich können Mitarbeiter Sie auch direkt ansprechen. Job Tagging soll den persönlichen Austausch unterstützen, nicht ersetzen.</p>"
+        },
+        {
+          "question": "Wie funktioniert Job Tagging?",
+          "type": "html",
+          "answer": "<p>Job Tagging wird als Beta-Funktion im <a href=\"https://soc.siemens.cloud/\">Siemens Organizational Cosmos (SOC)</a> gehostet.</p><ul><li>In der Org Charts Ansicht können Sie bei den Abteilungen, die Sie interessieren, einen Tag hinterlassen.</li><li>Sie erhalten eine Benachrichtigung bei jeder neuen Stelle, die unter einer so gekennzeichneten Einheit gepostet wird.</li><li>Sie können darüber hinaus auch die Führungskraft der betreffenden Einheit darüber informieren, dass Sie an einer Stelle in ihrer Abteilung sowie künftigen beruflichen Möglichkeiten interessiert sind.</li><li>Sobald eine neue Stelle im SOC veröffentlicht wird, erhalten Sie eine Benachrichtigung.</li><li>Sollten Sie sich auf diese Stelle bewerben wollen, können Sie dies im Rahmen unseres regulären Bewerbungsprozesses über unser internes Job- Market-Tool (Avature/Taleo für die USA und Kanada) tun.</li><li>Sich bei einer Organisationseinheit zu taggen, heißt nicht, dass Sie sich offiziell beworben haben.</li><li>Einen Überblick über alle Ihre Tags erhalten Sie,wenn Sie auf den Pfeil neben Ihrem Profibild klicken und „Meine Job Tags“ auswählen</li></ul>"
+        },
+        {
+          "question": "Warum befindet sich Job Tagging noch in der Testphase?",
+          "type": "html",
+          "answer": "<p>Job Tagging stellt einen völlig neuen Ansatz dar, der Ihnen die Möglichkeit geben soll, Ihre berufliche Entwicklung in die eigenen Hände zu nehmen.</p><p>Wir möchten mehr darüber erfahren, was Mitarbeiter und Führungskräfte an dieser neuen Funktionalität schätzen und wo möglicherweise noch Verbesserungsbedarf besteht.</p><p>Wir möchten Sie deshalb dazu ermutigen, uns jederzeit Ihre Eindrücke und Ihr Feedback zukommen zu lassen. </p>"
+        },
+        {
+          "question": "Wer kann Tags definieren oder löschen?",
+          "type": "html",
+          "answer": "<p>Hier geht es darum, dass Sie Ihre Karriere in die eigenen Hände nehmen. Die einzige Person, die Interesse bekunden kann, sind Sie.</p><p>Sollte ein Kollege oder eine Führungskraft der Ansicht sein, dass eine bestimmte Einheit perfekt für Ihren nächsten Karriereschritt wäre, kann er/sie Ihnen diese Information persönlich mitteilen.</p><p>Sie entscheiden, ob Sie ein Tag hinzufügen oder entfernen möchten.</p><p>Sollten Sie als Führungskraft Ihre Zweifel haben, ob ein Mitarbeiter in Ihre Abteilung passt, können Sie denjenigen natürlich ansprechen, um mehr über ihn herauszufinden und Hinweise zu geeigneten nächsten Schritten geben.</p>"  
+        },
+        {
+          "question": " Sind meine Tags für meinen derzeitigen Vorgesetzten sichtbar?",
+          "type": "html",
+          "answer": "<p>Nein. Ihre Tags sind nicht für Ihre derzeitige Führungskraft sichtbar.</p><p>Je nachdem, wie Sie sich entscheiden, sind Ihre Tags nur für die Führungskraft der Organisationseinheit sichtbar, an der Sie Ihr Interesse bekundet haben.</p><p>Sie können die Sichtbarkeit für jeden Tag individuell festlegen, indem Sie das Kontrollkästchen „Tag soll für die Führungskraft der betreffenden Organisationseinheit sichtbar sein“ aktivieren oder deaktivieren.</p>"  
+        },
+        {
+          "question": "Wer kann sehen, welche Stellen ich mit einem Tag gekennzeichnet habe?",
+          "type": "html",
+          "answer": "<p>Das bleibt ganz Ihnen überlassen. Sollten Sie das wünschen, können Sie Ihr Interesse für die Führungskraft der betreffenden Organisationseinheit sichtbar machen. Dazu müssen Sie lediglich das Kontrollkästchen „Tag sollte für die Führungskraft der betreffenden Organisationseinheit sichtbar sein“ anklicken.</p><p>Andernfalls bleibt Ihr Job Tagging privat und ist nur für Sie sichtbar. Sie erhalten bei der Veröffentlichung neuer Stellen lediglich eine Benachrichtigung.</p><p><em>Beispiel: Sollten Sie sich bei der Organisationseinheit HR PL PE getaggt haben, kann nur Dr. Michaela Schütt sehen, wer daran interessiert ist, in ihrer Abteilung entweder in leitender Funktion oder als Teammitglied mitzuarbeiten. Michaela Schütts Führungskraft Robert Neuhauser kann Ihren Tag nicht sehen.</em></p>"
+        },
+        {
+          "question": "Weshalb können Siemens-Recruiter meine Tags nicht sehen?",
+          "type": "html",
+          "answer": "<p>Weder Recruiter noch die Kolleginnen und Kollegen aus der Personalabteilung können Ihre Tags sehen.</p><p>Job Tagging soll Ihnen die Möglichkeit geben, sich sichtbar zu machen, Ihre persönlichen beruflichen Chancen zu erhöhen und ein Netzwerk aufzubauen.</p><p>Wir möchten, dass so viele Kolleginnen und Kollegen wie möglich dieses Tool nutzen. Wir haben deshalb entschieden, es so transparent und so benutzerfreundlich wie möglich zu machen. Sie behalten die vollständige Kontrolle über Ihre Daten – und wenn Sie Ihre Tags privat halten wollen, können Sie das tun.</p><p>Als Recruiter können Sie die Fühhrungskräfte zu Beginn des Recruitingprozesses fragen, ob es Tags für ihre jeweiligen Abteilungen gibt.</p>"
+        },
+        {
+          "question": "Was passiert auf Seiten der Führungskraft, wenn ich ein Job Tag hinzufüge?",
+          "type": "html",
+          "answer": "<p>Das kommt darauf an, wie Sie sich entschieden haben: Sollten Sie der Führungskraft der betreffenden Organisationseinheit Ihr Interesse nicht mitteilen wollen, passiert gar nichts. Sollten Sie sich entschieden haben, Ihr Interesse mitzuteilen, wird die jeweilige Führungskraft dies und – falls von Ihnen ausgefüllt – auch Ihren Kommentar sehen.</p><p>Ihre derzeitige Führungskraft kann Ihre Tags nicht sehen und wird selbstverständlich auch nicht informiert, wenn Sie ein neues Job Tagging setzen.</p>"
+        },
+        {
+          "question": "Was passiert, nachdem ich für eine Organisationseinheit ein Job Tagging hinterlegt habe?",
+          "type": "html",
+          "answer": "<ul><li>Wird eine Stellenausschreibung für diese Organisationseinheit veröffentlicht, erhalten Sie eine Benachrichtigung mit einem Link zu dieser Stellenausschreibung. Sollte die Stelle Ihren beruflichen Vorstellungen entsprechen, können Sie über das Job Market-Tool Avature (Taleo für die USA und Kanada) den regulären Bewerbungsprozess anstoßen.</li><li>Bitte beachten Sie, dass sich das Job Tagging derzeit im SOC noch in der Beta-Phase befindet. Aufgrund der Systemschnittstellen können die Benachrichtigungen für neue Stellen deshalb mit Verzögerungen bei Ihnen eintreffen.</li><li>Wenn Sie sich entschieden haben, Ihr Interesse mit der Führungskraft der jeweiligen Organisationseinheit zu teilen, kann diese Führungskraft sehen, wer Interesse an seiner Abteilung hat, das löst aber nicht automatisch weitere Folgeprozesse aus.</li><li>Sie können Ihre Präferenzen für jedes Tag individuell festlegen.</li><li>Und Sie können Führungskräfte natürlich auch direkt und unabhängig von der Job Tagging-Funktion ansprechen.</li><li>Das Job Tagging befindet sich noch in der Testphase. Es kann deshalb sein, dass gerade am Anfang nicht alle darin gesetzten Erwartungen auch erfüllt werden.</li></ul>"
+        },
+        {
+          "question": "Was passiert, wenn ein Mitarbeiter sich für meine Stelle interessiert?",
+          "type": "html",
+          "answer": "<p>In der Mehrzahl der Fälle bedeutet das, dass sich jemand für Ihre Nachfolge interessiert. Als Führungskraft sind Sie an der Nachfolgeplanung für Ihre Einheit und Ihre eigene Position beteiligt. Die letztendliche Verantwortung für die Nachfolgeplanung für Ihre Position obliegt jedoch Ihrem Vorgesetzten. Mitarbeiter, die sich für Ihre Stelle interessieren, vergrößern die „Personal-Pipeline“ Ihrer Einheit und unterstützen so die Nachfolgeplanung für Ihre Stelle, sollten Sie sich für den nächsten Karriereschritt entscheiden. Sie sollten Ihre Führungskraft über interessante Kandidaten informieren, um zu erörtern, ob diese Person in die Nachfolgeplanung für Ihre eigene Stelle aufgenommen werden sollte.</p>"
+        },
+        {
+          "question": "Was passiert mit meinen Job Tags, wenn ich meine Stelle gewechselt habe?",
+          "type": "html",
+          "answer": "<p>Dafür gibt es keinen vorgegebenen Prozess. Sie können Ihre Tags entweder beibehalten oder löschen.</p>"
+        },
+        {
+          "question": "Was passiert mit meinen Job Tags, wenn ich das Unternehmen verlasse?",
+          "type": "html",
+          "answer": "<p>Wenn Sie das Unternehmen verlassen, werden alle Ihre Tags gelöscht.</p>"
+        },
+        {
+          "question": "Was passiert mit meinen Job Tags, wenn sich die Struktur einer von mir gekennzeichneten Einheit verändert?",
+          "type": "html",
+          "answer": "<p>In diesem Fall erhalten Sie eine Benachrichtigung, dass der Code für eine bestimmte Organisationseinheit nicht mehr existiert. Wenn Sie sich für eine neue Organisationseinheit interessieren, müssen Sie ein neues Job Tagging hinzufügen.</p>"
+        },
+        {
+          "question": "Was passiert, nachdem ich für eine Organisationseinheit ein Job Tagging hinterlegt habe?",
+          "type": "html",
+          "answer": "<p>Wird eine Stellenausschreibung für diese Organisationseinheit veröffentlicht, erhalten Sie eine Benachrichtigung mit einem Link zu dieser Stellenausschreibung.</p><p>Sollte die Stelle Ihren beruflichen Vorstellungen entsprechen, können Sie über das Job Market-Tool Avature (Taleo für die USA und Kanada) den regulären Bewerbungsprozess anstoßen.</p><p>Wenn Sie sich entschieden haben, Ihr Interesse mit der Führungskraft der jeweiligen Organisationseinheit zu teilen, kann diese Führungskraft sehen, wer Interesse an seiner Abteilung hat, das löst aber nicht automatisch weitere Folgeprozesse aus.</p><p>Sie können Ihre Präferenzen für jedes Tag individuell festlegen. Und Sie können Führungskräfte natürlich auch direkt und unabhängig von der Job Tagging-Funktion ansprechen.</p>"
+        },
+        {
+          "question": "Wo setze ich mein Job Tag, wenn ich mich für eine Führungsposition interessiere?",
+          "type": "html",
+          "answer": "<p>Kennzeichnen Sie die Einheit, in der Sie eine Führungsrolle übernehmen möchten, mit einem Tag. Wählen Sie „Führungskraft“ aus und speichern.</p><p>Wenn Sie sich mit dem Gedanken, diese Information mit dem Manager in dieser Einheit zu teilen unwohl fühlen, können Sie auch ohne Sichtbarkeit für diesen Manager taggen, In diesem Fall erhalten Sie nur die Alerts.</p>"
+        },
+        {
+          "question": "Weshalb erfolgt die Benachrichtigung über neue Stellen nicht in Echtzeit?",
+          "type": "html",
+          "answer": "<p>Derzeit können sich die Benachrichtigungen um einen Tag verzögern, da die Schnittstelle zwischen den Job Market (Avature/ Taleo) und SOC einmal täglich Daten an SOC liefert und die Einarbeitung in der Nacht erfolgt.</p>"
+        },
+        {
+          "question": "Warum kann ich ein existierendes Tag nicht verändern?",
+          "type": "string",
+          "answer": "Sie können ein Job Tag verlängern oder löschen, jedoch nicht verändern. Das System ist nicht für eine inhaltliche Anpassung bestehender Tags ausgelegt."
+        },
+        {
+          "question": "Warum kann ich nur ein Tag pro Organisationseinheit hinzufügen? Warum kann ich nicht zwischen öffentlichen und privaten Tags für Team- und Führungspositionen wählen?",
+          "type": "html",
+          "answer": "<p>Die Benachrichtigungen sind nicht an eine bestimmte Stellenausschreibung gebunden, sondern an die gesamte ausgewählte Organisationseinheit. Ein Tag wird Sie deshalb über sämtliche Stellenausschreibungen der betreffenden Organisationseinheit auf dem Laufenden halten.<p></p>Leider gibt es keine Funktion, mittels derer man zwischen öffentlichen und privaten Tags für Team- und Führungspositionen unterscheiden kann.</p>"
+        },
+        {
+          "question": "Warum erhalte ich eine Benachrichtigung für eine Individual-Contributor-Stelle, obwohl ich ein Job Tag für eine Führungsposition gesetzt habe?",
+          "type": "string",
+          "answer": "Das Job Tagging zeigt der Führungskraft einer Einheit an, für welche Führungsebene Sie sich interessieren. Die Benachrichtigungen sind jedoch nicht positionsgebunden, sondern gelten für die gesamte Organisationseinheit."
+        },
+        {
+          "question": "Warum muss ich mich extra für eine Stelle bewerben, obwohl ich bereits mein Interesse bekundet habe?",
+          "type": "html",
+          "answer": "<p>Mit Ihrem Job Tag zeigen Sie ein allgemeines, unverbindliches Interesse an der gesamten Organisationseinheit und nicht an einer konkreten Stelle. <p></p>Zudem kann es sein, dass eine Stelle zum Zeitpunkt ihrer Veröffentlichung nicht in Ihre persönliche Planung passt.</p><p>Job Tagging hilft Ihnen dabei, Ihr Netzwerk zu erweitern und sich sichtbarer zu machen. Die eigentliche Bewerbung erfolgt jedoch über die internen Job Market-Tools (Avature oder Taleo für die USA und Kanada).</p>"
+        },
+        {
+          "question": "Besteht eine Verbindung zwischen Job Tagging und meinem People Profile?",
+          "type": "html",
+          "answer": "<p>Sollten Sie sich als Mitarbeiter dafür entscheiden, der Führungskraft der betreffenden Organisationseinheit Ihr Interesse/Tag mitzuteilen, kann die Führungskraft direkt von der Übersicht der interessierten Mitarbeiter auf Ihr People Profile zugreifen.</p><p>Ein gut gepflegtes People Profile kann der Führungskraft ein besseres Gefühl dafür vermitteln, wer Sie sind und was Sie zu ihrer Abteilung beitragen könnten.</p>"
+        },
+        {
+          "question": " Werden meine Tags irgendwann ablaufen?",
+          "type": "html",
+          "answer": "<p>Ein gesetztes Job Tagging läuft nach zwei Jahren ab. Sollten Sie es verlängern wollen, klicken Sie bitte auf „Verlängern“. Sie können dies jederzeit tun, indem Sie auf das JobTagging-Symbol im Menü unter Ihrem Profilbild klicken. Selbstverständlich können Sie gesetzte Tags auch jederzeit löschen.</p>"
+        },
+        {
+          "question": "Ein Mitarbeiter bekundet über Job Tagging Interesse an meiner Organisationseinheit. Was sollte ich jetzt tun?",
+          "type": "html",
+          "answer": "<p>Herzlichen Glückwunsch! Andere Leute denken, dass Ihre Organisationseinheit ein großartiger Arbeitsplatz ist.</p><p>Job Tagging ist eine Möglichkeit, Interesse an einer bestimmten Organisationseinheit zu bekunden. Mitarbeiter, die Ihre Einheit mit einem Tag gekennzeichnet haben, erhalten eine Benachrichtigung, sobald ein Stellenangebot für diese Einheit veröffentlicht wird.</p><p>Sie als Führungskraft können diese Tags nutzen, um Ihr Netzwerk zu erweitern. Möglicherweise möchten Sie noch mehr über diese Person herausfinden und sich das dazugehörige People Profile ansehen.</p><p>Falls gewünscht, können Sie diese Person auch persönlich ansprechen. Sagen Sie ihr, dass Sie ihr Interesse zur Kenntnis genommen haben und bieten Sie weitere Informationen zu Ihrer Einheit an. Sie können entweder direkt auf die Kontaktdaten des Mitarbeiters zugreifen oder von der Übersichtsseite („Zusammenfassung der Interessen“) des Job Tagging-Tools eine E-Mail versenden.</p>"
+        },
+        {
+          "question": "Eines meiner Teammitglieder hat mir gesagt, dass er/ sie sich für eine andere Einheit interessiert. Bedeutet das, dass der betreffende Mitarbeiter die Abteilung verlassen wird?",
+          "type": "html",
+          "answer": "<p>Job Tagging ist ein Zeichen dafür, dass Mitarbeiter ihre Karriere in ihre eigenen Hände nehmen. Der Zeithorizont beträgt dabei bis zu zwei Jahre. Ein Tag zu setzen bedeutet deshalb nicht, dass Ihr Teammitglied die Abteilung umgehen verlassen wird, sondern dass er/sie für die Zukunft möglicherweise einen Wechsel anstrebt.</p><p>Nutzen Sie das nächste Gespräch im Rahmen des kontinuierlichen Dialogs, um mit Ihrem Teammitglied über seine Zukunftspläne zu sprechen.</p>"
+        },
+        {
+          "question": "Wie kann ich als Führungskraft die Information, dass sich jemand für meine Organisationseinheit interessiert, verwenden?",
+          "type": "html",
+          "answer": "<p>Beziehungen sind immer Vertrauenssache: Sollte ein Mitarbeiter öffentlich sein Interesse für Ihr Team bekundet haben, vertraut er gleichzeitig auch darauf, dass Sie diese Information angemessen und vertraulich behandeln. Holen Sie unbedingt die Zustimmung des Mitarbeiters ein, bevor Sie beispielsweise seinen Vorgesetzten kontaktieren.</p><p>Sollten Sie diese Information z.B. für Ihre Nachfolgeplanung nutzen wollen, ist es am besten, vorher mit dem betreffenden Mitarbeiter zu sprechen und herauszufinden, wann und für welche konkreten Aufgaben er zur Verfügung stehen würde.</p>"
+        },
+        {
+          "question": "Was soll ich tun, wenn niemand meine Organisationseinheit mit einem Tag versehen hat?",
+          "type": "html",
+          "answer": "<p>Machen Sie sich keine Sorgen. Denken Sie daran: Außer Ihnen bekommt niemand die mit Ihnen geteilten Tags zu sehen.</p>"
+        },
+        {
+          "question": "Sollte ich als Führungskraft mit allen Mitarbeitern, die Interesse an meiner Abteilung zeigen, ein Gespräch führen?",
+          "type": "html",
+          "answer": "<ul><li></li>Es obliegt Ihnen als Führungskraft, ob wann und wie Sie auf die Mitarbeiter zugehen, die sich für Ihre Abteilung interessieren.<li>Job Tagging bietet Führungskräften eine weitere gute Möglichkeit, um ihr Netzwerk zu erweitern.</li><li>Um eine genauere Vorstellung von den an Ihrer Abteilung interessierten Personen zu bekommen, ist es am einfachsten, direkt mit ihnen zu sprechen.</li><li>Ein direkter Austausch hilft Ihnen dabei, zu vielversprechenden und für die Abteilung interessanten Kandidaten eine Beziehung aufzubauen. </li><li>Sollten Sie den Eindruck bekommen, dass ein interessierter Mitarbeiter noch nicht ganz für Ihre Abteilung bereit ist, ist es auch hilfreich, mögliche berufliche Defizite des betreffenden Mitarbeiters direkt anzusprechen.</li></ul>"
+        }
+      ]
+    },
+    {
+      "category": "People Profile",
+      "questions": [
+        {
+          "question": "Wer ist verantwortlich für den People Profile View?",
+          "type": "html",
+          "answer": "<p>Die übergreifende Governance hierfür liegt bei <a href='https://soc.siemens.cloud/orgcharts/orgchart?orgcode=GM%20TO' target='_blank'>GM TO</a>. Für bestimmte Datenfelder liegt die Verantwortung bei anderen Abteilungen, z.B. beim SCD Verantwortlichen oder HR.</p>"
+        },
+        {
+          "question": "Wer kann mein People Profile sehen?",
+          "type": "html",
+          "answer": "<ul><li>Jeder bei Siemens, der Zugriff auf das SOC hat, kann Ihr Profil und alle darin enthaltenen Informationen sehen.</li><li>Im Gegensatz zu früher gibt es keine Spezialansicht für HR oder Führungskräfte.</li><li>Anhand Ihrer im Profil hinterlegten Informationen können Sie über die Advanced Search gefunden werden. </li><li>Manager, die einen Job Tag erhalten haben, können aus dem Tagging direkt das People Profile des Mitarbeiters öffnen.</li></ul>"
+        },
+        {
+          "question": "Welche Informationen werden über mein People Profile geteilt?",
+          "type": "html",
+          "answer": "<p>Nur Sie können persönliche Informationen zu Ihrem People Profile hinzufügen, diese anpassen oder löschen.</p><p>Lediglich Informationen, die Sie selbst hinterlegt haben - entweder durch einen Upload Ihres LinkedIn-Profils oder durch die direkte Eingabe von Daten in Ihrem Profil - sind innerhalb von Siemens sichtbar. Sie haben die vollständige Kontrolle über Ihr Profil. Und Sie allein entscheiden, was Sie mit Ihren Kolleginnen und Kollegen teilen möchten.</p>"
+        },
+        {
+          "question": "Wie kann ich mein Profilbild hochladen oder ändern?",
+          "type": "html",
+          "answer": "<ol><li>Klicken Sie auf den Foto Platzhalter Avatar in ihrem People Profile und Sie gelangen zum Foto Upload Dialogfenster. Lesen Sie sich die Einwilligungserklärung genau durch - Sie können auch die Sprache ändern indem Sie auf den Globus rechts oben klicken.</li><li>Klicken Sie den Button 'Bild auswählen' um ein neues Profilfoto hochzuladen (Wenn Sie bereits ein Foto hochgeladen haben finden Sie hier auch die Möglichkeit das bereits hochgeladene Photo zu löschen und ein neues hochzuladen).</li><li>Im nächsten Schritt können Sie den Bildausschnitt noch einstellen bevor Sie mit 'Speichern' den Prozess erfolgreich abschließen.</li><li>Wählen Sie nun für welche Applikationen Sie dieses Bild verwenden wollen und vergessen Sie nicht die Siemens Organizational Cosmos (SOC) Box zu selektieren.</li><li>Schließen sie das Foto-Upload Dialogfenster und „refreshen“ Sie ihren Browser um ihr neues Foto im Cosmos zu sehen.</li></ol><p><img src='/assets/images/faq/fotoupload.png'></p>"
+        },
+        {
+          "question": "Wie kann ich das Feld Funktion in meinem Profil ergänzen bzw. ändern?",
+          "type": "html",
+          "answer": "<p>Das Feld Funktion im Cosmos kommt aus Ihrem persönlichen Eintrag in der Siemens Corporate Directory (SCD). Um dieses Feld in Ihrem Cosmos Profil zu ändern, sollten Sie wie folgt vorgehen:</p><br><ol><li>Gehen Sie zum <a href='https://scd.siemens.com' target='_blank'>SCD</a><li>Öffnen Sie Ihr eigenes SCD Profil</li><li>Klicken Sie auf den Service Link 'Daten ändern' - diese Aktion öffnet ein neues Fenster (PKI Authentifizierung ist erforderlich).</li><li>Wenn Ihre Unternehmenseinheit das Identity and Access Management zur SCD Datenpflege nutzt: Klicken Sie auf ihren Eintrag.</li><li>Navigieren Sie auf die 2. Seite (unten links)</li><li>Bearbeiten Sie ihr SCD Feld 'Funktion'</li><li>Speichern Sie zum Schluss Ihre Änderungen, bevor Sie das System verlassen.</li><li>Nach einigen Tagen wird die Änderung in SOC sichtbar.</li></ol><br><p><u>Hinweis:</u> Bitte beachten Sie, dass die Pflege der SCD-Daten je Unternehmenseinheit unterschiedlich sein kann. Im Zweifel wenden Sie sich an Ihren zuständigen SCD Ansprechpartner.</p>"
+        },
+        {
+          "question": "Welche Datenfelder meines People Profiles kann ich direkt im SOC updaten",
+          "type": "profile-fields",
+          "answer": [
+            {
+              "data_field": "Name",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Nickname",
+              "source_system": "SCD",
+              "contact": "Kontaktieren Sie Ihren lokalen SCD Support"
+            },
+            {
+              "data_field": "Email",
+              "source_system": "LTE Datenbank",
+              "contact": "Kontaktieren Sie Ihren lokalen HR support"
+            },
+            {
+              "data_field": "Telephone",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Fax",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Function",
+              "source_system": "SCD",
+              "contact": "Kontaktieren Sie Ihren SCD Support"
+            },
+            {
+              "data_field": "Org Position",
+              "source_system": "CHCM OM",
+              "contact": "Kontaktieren Sie Ihren zuständigen Org Manager"
+            },
+            {
+              "data_field": "Department",
+              "source_system": "CHCM OM",
+              "contact": "Kontaktieren Sie Ihren zuständigen Org Manager"
+            },
+            {
+              "data_field": "Org Code (primary)",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Line Manager",
+              "source_system": "CHCM OM",
+              "contact": "Kontaktieren Sie Ihren zuständigen OrgManager"
+            },
+            {
+              "data_field": "In-Country manager",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "GID",
+              "source_system": "GID Datenbank",
+              "contact": "Kann nicht aktualisiert werden"
+            },
+            {
+              "data_field": "Secretary",
+              "source_system": "SCD",
+              "contact": "Kontaktieren Sie Ihren SCD Support"
+            },
+            {
+              "data_field": "Company",
+              "source_system": "Local HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Location",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Building",
+              "source_system": "SCD",
+              "contact": "Kontaktieren Sie Ihren SCD Support"
+            },
+            {
+              "data_field": "Room",
+              "source_system": "SCD",
+              "contact": "Kontaktieren Sie Ihren SCD Support"
+            },
+            {
+              "data_field": "Cost Center",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Org ID",
+              "source_system": "Lokales HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "ARE",
+              "source_system": "Local HR System",
+              "contact": "Kontaktieren Sie Ihren lokalen HR Support"
+            },
+            {
+              "data_field": "Skills, Sprachen, Interessen, Berufserfahrung, Ausbildung, Qualifikationen und Auszeichnungen (Zerfitikate, Kurse, Auszeichnungen & Preise, Patente), Überschrift, Zusammenfassung",
+              "source_system": "Lokales HR System",
+              "contact": "Alle Daten die Sie manuell im SOC eingetragen haben können an Ort und Stelle aktualisiert werden. Klicken Sie dazu einfach auf den Stift neben dem Datenfeld das Sie bearbeiten möchten. Daten die Sie aus LinkedIn importiert haben können nur in LinkedIn aktualisiert werden und müssen danach neu importiert werden damit die Änderungen auch im SOC sichtbar sind."
+            }
+          ]
+        },
+        {
+          "question": "Kann ich mein People Profile nutzen um mich auf einen Job via Avature/ Taleo zu bewerben?",
+          "type": "html",
+          "answer": "<p>Es gibt keine direkte Verknüpfung zwischen dem People Profile und dem internen Job Market.</p><p>Ist Ihr People Profil gut gepflegt, aussagekräftig und enthält die Informationen, die Sie in einem klassischen Lebenslauf darstellen würden, dann können Sie es für Ihre Bewerbung verwenden. Gehen Sie dazu auf ihr People Profile. Klicken Sie auf  den \"Profile exportieren\"-Button in rechten oberen Ecke Ihres People Profiles und speichern Sie das pdf für die weitere Verwendung.</p>"  
+          },
+        {
+          "question": "Wie funktioniert die via Circuit anrufen Funktion?",
+          "type": "string",
+          "answer": "<p>Immer wenn Sie im Cosmos ein Circuit Icon neben einer Person entdecken können Sie diese Person mittels Klick auf das Circuit Icon direkt über die Circuit App anrufen. Bitte beachten Sie, dass sie dafür eine Circuit App auf ihrem Computer bzw. Smartphone benötigen.</p>"
+        },
+        {
+          "question": "Wie kann ich Kollegen direkt aus dem Cosmos heraus via SieDial anrufen?",
+          "type": "html",
+          "answer": "<p>Mittels SieDial können Sie direkt auf eine Telefonnummer im Cosmos klicken und die jeweilige Person über ihr Firmenhandy anrufen.</p><br><p>Voraussetzung dafür ist die Installation der <a href='https://saa.siemens.com.' target='_blank'>SieDial App</a> aus dem Siemens AppStore.</p><br><p>Nach der Installation müssen Sie lediglich die App einmal mittels Klick auf das App Icon starten. Wenn Sie Hilfe beim Download oder bei der Benützung der App benötigen lohnt sich ein Blick in die <a href=\"https://siedial.siemens.com/help/faq\">FAQs</a>. Additiv können Sie auch ihren IT Service kontaktieren.</p>"
+        },
+        {
+          "question": "Wozu dient das Feld \"Persönliche Headline\" unter meinem Profilbild?",
+          "type": "html",
+          "answer": "<p>Sie können dieses Feld dazu nutzen, um eine ganz persönliche Überschrift zu kreieren, die Ihre Motivation und Ihre Persönlichkeit widerspiegelt (ein wenig, wie der Klappentext eines Buches). Beschreiben Sie, was Sie in beruflicher Hinsicht auszeichnet. Sie können auch einige Worte zu Ihren beruflichen Zielen oder Wünschen hinterlegen. </p>"
+        },
+        {
+          "question": "Wozu dient das \"Interessen\"-Feld und wie unterscheidet es sich von den \"Skills\"?",
+          "type": "html",
+          "answer": "<p>Im \"Interessen\"-Feld können Sie Themen eintragen, die Sie im beruflichen Kontext besonders interessieren und über die Sie gerne mehr erfahren und lernen würden. Es bezieht sich eher auf Ihre Zukunft.</p><p>Im Feld \"Skills\" können Sie hinterlegen, mit welchen Themen Sie sich besonders gut auskennen und aktuell bereits arbeiten. \"Skills\" bezieht sich auf Ihr bestehendes Wissen und Know-how.</p>"
+        },
+        {
+          "question": "Warum werden insbesondere bei Mitarbeitern aus den USA in deren Profilen die lokale Zeit um eine Stunde verschoben, angezeigt?",
+          "type": "string",
+          "answer": "Vielen Dank für das zahlreiche Feedback zu diesem Thema. Unser Entwicklungsteam prüft derzeit den Sachverhalt."
+        },
+        {
+          "question": "Weshalb sollte ich Zeit in mein People Profile investieren?",
+          "type": "html",
+          "answer": "<ul><li>Das People Profile ist eine Art interner Lebenslauf und Ihre Visitenkarte im Unternehmen.</li><li>Teilen Sie Ihren Kolleginnen und Kollegen Ihre Erfolge, Fähigkeiten und Interessen mit.</li><li>Machen Sie sich sichtbar - nutzen Sie die Gelegenheit, um Ihr Netzwerk zu erweitern und Ihre Karriere in die eigenen Hände zu nehmen.</li></ul>"
+        }
+      ]
+    },
+    {
+      "category": "Legal Entity View",
+      "questions": [
+        {
+          "question": "Wer ist verantwortlich für den Legal Entity View?",
+          "type": "html",
+          "answer": "<p>Die Governance für die Legal Entity View liegt bei <a href='https://soc.siemens.cloud/orgcharts/orgchart?orgcode=GM%20TO' target='_blank'>GM TO LAB</a>.</p>"
+        },
+        {
+          "question": "Wo kann ich den 'Siemens Company View' bzw. die Übersicht der Siemens Gesellschaften finden?",
+          "type": "html",
+          "answer": "<p>Genauso wie die Org Charts sind auch die Siemens Gesellschaften im neuen Cosmos hinterlegt. Schauen Sie sich die gesellschaftsrechtliche Zuordnung Ihrer Kollegen <a href='https://soc.siemens.cloud/lev' target='_blank'>hier</a> an. Wir hoffen das neue Design und die erweiterten Funktionalitäten des Legal Entity Views gefallen Ihnen.</p>"
+        }
+      ]
+    },
+    {
+      "category": "Siemens Governance",
+      "questions": [
+        {
+          "question": "Wer ist verantwortlich für den Siemens Governance View?",
+          "type": "html",
+          "answer": "<p>Die Governance für die Siemens Governance View liegt bei <a href='https://soc.siemens.cloud/orgcharts/orgchart?orgcode=GM%20TO%20GOV' target='_blank'>GM TO GOV</a>.</p>"
+        }
+      ]
+    },
+    {
+      "category": "Portfolio View",
+      "questions": [
+        {
+          "question": "Wer ist verantwortlich für den Portfolio View?",
+          "type": "html",
+          "answer": "<p>Die Governance für die Portfolio View liegt bei <a href='https://soc.siemens.cloud/orgcharts/orgchart?orgcode=GM%20TO%20OD' target='_blank'>GM TO OD</a>.</p>"
+        }
+      ]
+    },
+    {
+      "category": "Collaboration",
+      "questions": [
+        {
+          "question": "Was ist die Collaboration und wie ist sie aufgebaut?",
+          "type": "html",
+          "answer": "<p>Mit dem Collaboration-Modell haben agile Teams begonnen, mit einem Skalierungsmodell zu experimentieren, das Squads, Chapters und Tribes verwendet, um das Ausmaß an Bürokratie zu minimieren, gleichzeitig Autonomie und Selbstorganisation zu fördern.</p><p>Dieses Collaboration-Modell soll als Blaupause für Siemens-Transformationsprozesse dienen und Co-Creation, organisatorische Flexibilität und Fluidität ermöglichen und fördern; den Fokus legen auf Kompetenzaufbau, Management mit bereichsübergreifender Verantwortung, agiles Arbeiten und die Autonomie der Teams.</p>"
+        },
+        {
+          "question": "Was ist eine Alliance?",
+          "type": "html",
+          "answer": "<p>Eine Alliance ist eine Gruppierung von Tribes mit Gesamtverantwortung für Hauptkennzahlen/ Erfolg.</p>"
+        },
+        {
+          "question": "Was ist ein Tribe?",
+          "type": "html",
+          "answer": "<p>Ein Tribe ist eine Ansammlung von Squads mit einem Tribe Lead, der dafür verantwortlich ist, dass seine Teams den bestmöglichen Output liefern.</p>"
+        },
+        {
+          "question": "Was sind Squads?",
+          "type": "html",
+          "answer": "<p>Squads arbeiten an ähnlichen Themen. Sie sind für ein Themengebiet verantwortlich, wie z.B. Wartung, Betrieb, Produktion usw. Squad-Mitglieder haben eine End-to-End-Verantwortung und arbeiten an längerfristigen Projekten.</p><p>Ein Squad Lead hat ebenfalls eine End-to-End-Verantwortung für ein Projekt oder eine Reihe von Projekten und ist der Ansprechpartner für Projektkunden. Der Squad Lead ist gleichzeitig auch Teammitglied, hat aber keine Linienverantwortung sondern übernimmt die funktionale Managementverantwortung.</p>"
+        },
+        {
+          "question": "Was ist ein Chapter?",
+          "type": "html",
+          "answer": "<p>Jedes Squad hat Professionisten, spezialisiert in bestimmten Bereichen. Alle Professionisten, die in unterschiedlichen Squads die gleichen Verantwortlichkeiten haben, werden in einer Gruppe zusammengefasst, die als Chapter bezeichnet wird.</p><p>Chapter Lead ist der Line-Manager für die Mitglieder eines Chapters, bei denen die Mitglieder dieselbe Rolle/ Funktion haben. Der Chapter Lead ist verantwortlich für ein Fachgebiet und dessen Weiterentwicklung; hat kein Mitspracherecht bei Inhalten von Dienstleistungen/ Projekten sondern definiert Wissensbereiche, Methoden und Werkzeuge.</p><p>Ein Assigned Chapter ist ursprünglich einem anderen Tribe zugehörig, wird aber einem bestimmten Tribe und seinen Squads zur Unterstützung zugewiesen.</p>"
+        },
+        {
+          "question": "Kann unsere Abteilung auch Teil der Collaboration werden?",
+          "type": "html",
+          "answer": "<p>Wenn Sie Teil der Collaboration werden wollen wenden Sie sich bitte an den <a href='https://soc.siemens.cloud/profile/Z0027B2W' target='_blank'>SOC Product Owner</a>.</p>"
+        }
+      ]
+    }
+  ]
+}

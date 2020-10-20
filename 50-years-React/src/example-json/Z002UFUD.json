@@ -1,0 +1,168 @@
+{
+    "LoginOk": true,
+    "ResultId": "AF914E4E3E3B4612B829729AF60E0496",
+    "TotalCount": 1,
+    "PageCount": 1,
+    "PageCurrent": 1,
+    "DocsPerPage": 20,
+    "DocsThisPage": 1,
+    "ProductTitle": "Find SOC 2.0 Search",
+    "Docs": [
+        {
+            "Id": "/SES.Applications/SCD.Crawler.FromKB.Persons/|http://10.192.43.45:8529/_db/SOC20/_api/document/SCDPersons/Z002UFUD",
+            "Title": "Dorothee Heckmann (GM ORG C)",
+            "Rank": 0,
+            "Url": "docresult?id=\u00252FSES.Applications\u00252FSCD.Crawler.FromKB.Persons\u00252F\u00257Chttp\u00253A\u00252F\u00252F10.192.43.45\u00253A8529\u00252F_db\u00252FSOC20\u00252F_api\u00252Fdocument\u00252FSCDPersons\u00252FZ002UFUD&docrank=0&resultid=AF914E4E3E3B4612B829729AF60E0496&cf.cf.sourcestr108=Z002UFUD&uilanguage=en&profile=TS.SOC20.API",
+            "PreviewUrl": "download/html/\u0025252FSES.Applications\u0025252FSCD.Crawler.FromKB.Persons\u0025252F\u0025257Chttp\u0025253A\u0025252F\u0025252F10.192.43.45\u0025253A8529\u0025252F_db\u0025252FSOC20\u0025252F_api\u0025252Fdocument\u0025252FSCDPersons\u0025252FZ002UFUD/file.htm?cf.cf.sourcestr108=Z002UFUD&uilanguage=en&profile=TS.SOC20.API",
+            "IconUrl": "images/html.gif",
+            "ThumbnailImageUrl": "images/px.gif",
+            "Collection": "/SES.Applications/SCD.Crawler.FromKB.Persons/",
+            "TreePath": "/SOC/Persons/",
+            "IndexationTime": "2017-09-25 12:39:05",
+            "Relevance": 0,
+            "Size": 778,
+            "Languages": "zz",
+            "DocumentWeight": "default",
+            "WordCount": 0,
+            "ExactHash": "G2vuvN4XWinAddNJOWPo2g==",
+            "NearHash": "Z2jms1k5YnTSgrymXGvaqA==",
+            "PartNameLocations": "title3;title3;8,29;1458,70;title2;title2;38,29;1540,69;contentIdentifier;contentIdentifier;68,13;;boostedText;boostedText;82,56;1732,119;normalText;normalText;139,2;1864,63;qualifier;qualifier;142,420;1940,491;highlight_enabler;highlight_enabler;563,24;2443,84;title;title;588,29;2543,68",
+            "Gender": "F",
+            "Surname": "Heckmann",
+            "GivenName": "Dorothee",
+            "PersonalTitle": "Prof. Dr.",
+            "Vorsw": "von",
+            "OrgUnit": "GM",
+            "OrgCode": "GM ORG C",
+            "Location": "MCH WVS",
+            "GID": "Z002UFUD",
+            "OrgName": "Organizational Development  Corporates",
+            "OrgID": "AU002741",
+            "Function": "Organizational Development Expert & SOC 2.0 Product Owner",
+            "City": "Muenchen",
+            "SourceStr112": "M\u00fcnchen",
+            "Phone": "+49 (89) 636-34442",
+            "Mobile": "+49 (162) 4192155",
+            "Fax": "+49 (162) 4192155",
+            "Email": "dorothee.heckmann@siemens.com",
+            "CostCenter": "ZM170",
+            "SourceStr117": "Heckmann",
+            "Company": "SIEMENS",
+            "ARE": "7092",
+            "SRS.CircularID": "SCD 2017-09-25",
+            "SourceStr123": "internal",
+            "Country": "DE",
+            "Building": "00",
+            "Room": "G4.40",
+            "UTC": "GMT+1",
+            "PrimaryPosition": "HEAD",
+            "JobFamily": "Strategy",
+            "SubJobFamily": "Strategy Management",
+            "AdditionalPositions": "/GC/LC SFS/",
+            "AdditionalLinks": "/SSN/https://siemens.socialcast.com/users/511139/",
+            "BusinessPartners": "/Legal/PD LD/;/Legal/SFS/;/Legal/SFS TRE/;/Legal/SFS EF/",
+            "Tasks": "/Legal/SFS/;/Legal/SFS TRE/",
+            "SpecialResponsibilities": "/Legal/SFS/",
+            "Secretary": "/Z0005ZFT/Hildegard Sibrai/",
+            "SuggestPreview": "Dorothee Heckmann (GM ORG C)",
+            "SuggestContentType": "Person",
+            "SuggestMatch": "Dorothee Heckmann (GM ORG C);Heckmann Dorothee (GM ORG C);Z002UFUD",
+            "current_location": "Munchen, Germany",
+            "local_time": "14:10",
+            "profile_picture": "https://s3.eu-west-2.amazonaws.com/siemens-org-chart/jo.jpg",
+            "phone_number": "not existing",
+            "circuit_link": "not existing",
+            "job_title": "not existing",
+            "department": "not existing",
+            "job_family": "not existing",
+            "LineManager2": "/Z00105TB/US/Simon Whitlock/",
+            "LineManager": "/Z00105TB/US/Simon Whitlock/;/Z00104TB/DE/Rosalie Schwartz/;/Z00105TB/US/Simon Test/;/Z00104TB/DE/Rosalie Test/",
+            "InCountryManager": "/Z0009KEW/DE/Sven Roesler/",
+            "section": "not existing",
+            "cost_centre": "not existing",
+            "work_experience": "May 2015 - Present: Strategic Governance consultant GM ORG, looking at new organizationl & decision making models for the digital market\nOctober 2011 - May 2015: Senior Consultant / Project Manager Siemens - Learning Campus, Strategy & Organisational Development.\nProviding and leading transformational support initiatives, requested by sectors and divisions to support their aims to deliver improved operations.\nAugust 2002 - August 2011 Management Consultant Ernst & Young, London, People & Organisational Change\nIndustries: Energy, Consumer Products, Healthcare & Public Sector Organisational Design, Change Management",
+            "similar_profiles": [
+                {
+                    "name": "Peter Niedermeier",
+                    "gid": "Z003HYNW",
+                    "department": "GS BPS BSS GPS GMS 4",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Dorothee Heckmann",
+                    "gid": "Z002UFUD",
+                    "department": "GM ORG C",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Matthias Pertl",
+                    "gid": "Z000F2RR",
+                    "department": "GS IT ECM WEB SOC",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Carlos Riedelbauch",
+                    "gid": "Z00104TB",
+                    "department": "GS BPS BSS GPS GMS 4",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Rico Petzold",
+                    "gid": "Z003DD7J",
+                    "department": "GS BPS BSS GPS GMS 5",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Reik Badelt",
+                    "gid": "Z0027B2W",
+                    "department": "GM ORG C",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Slavko Begic",
+                    "gid": "Z003S5DH",
+                    "department": "GS BPS BSS GPS GMS 5",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Christoph Malassa",
+                    "gid": "Z002M85F",
+                    "department": "GS BPS BSS GPS GMS 5",
+                    "country": "Germany"
+                }
+            ],
+            "skills": [
+                {
+                    "label": "HTML",
+                    "newSkill": false
+                },
+                {
+                    "label": "JavaScript",
+                    "newSkill": false
+                },
+                {
+                    "label": "Angular",
+                    "newSkill": false
+                },
+                {
+                    "label": "CSS",
+                    "newSkill": false
+                },
+                {
+                    "label": "Management",
+                    "newSkill": false
+                }
+            ],
+            "expertises": [
+                {
+                    "label": "Traveling",
+                    "newExpertise": false
+                },
+                {
+                    "label": "Quality Time",
+                    "newExpertise": false
+                }
+            ]
+        }
+    ]
+}

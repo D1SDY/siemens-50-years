@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#1DBE4F"/>
+            <stop offset="100%" stop-color="#159B3F"/>
+        </linearGradient>
+        <linearGradient id="f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#0660D4"/>
+            <stop offset="100%" stop-color="#0051BB"/>
+        </linearGradient>
+        <path id="e" d="M0 0h28L0 20z"/>
+        <filter id="d" width="110.7%" height="115%" x="-5.4%" y="-7.5%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="url(#b)" d="M0 0h28v20H0z" mask="url(#c)"/>
+        <g mask="url(#c)">
+            <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+            <use fill="url(#f)" xlink:href="#e"/>
+        </g>
+        <path fill="#2C7442" d="M0 0l28 20H0z" mask="url(#c)" transform="matrix(-1 0 0 1 28 0)"/>
+        <path fill="#FFD646" d="M-5.333 8.667h38.667v2.667H-5.333z" mask="url(#c)"/>
+        <path fill="#FFF" d="M3 3.833l-.98.515.187-1.09-.792-.773 1.095-.16.49-.992.49.993 1.095.159-.792.773.187 1.09L3 3.833zm6.667 0l-.98.515.187-1.09-.792-.773 1.095-.16.49-.992.49.993 1.095.159-.793.773.187 1.09-.98-.515zm0 4l-.98.515.187-1.09-.792-.773 1.095-.16.49-.992.49.993 1.095.159-.793.773.187 1.09-.98-.515zM3 7.833l-.98.515.187-1.09-.792-.773 1.095-.16.49-.992.49.993 1.095.159-.792.773.187 1.09L3 7.833zm3.333-2l-.98.515.188-1.09-.793-.773 1.096-.16.49-.992.49.993 1.094.159-.792.773.187 1.09-.98-.515z" mask="url(#c)"/>
+    </g>
+</svg>

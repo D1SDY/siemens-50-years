@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <rect id="a" width="20" height="20" rx="10"/>
+        <path id="d" d="M20.667 20V0h-14z"/>
+        <filter id="c" width="121.4%" height="115%" x="-10.7%" y="-7.5%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#0B36B2" d="M-2 0h28v20H-2z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="#FFD045" xlink:href="#d"/>
+        </g>
+        <path fill="#FFF" d="M15.333 18.667l-.942.276.276-.943-.276-.943.942.276.943-.276L16 18l.276.943zM12.667 14.667l-.943.276L12 14l-.276-.943.943.276.942-.276-.276.943.276.943zM10 10.667l-.943.276.276-.943-.276-.943.943.276.943-.276-.276.943.276.943zM7.333 6.667l-.942.276L6.667 6l-.276-.943.942.276.943-.276L8 6l.276.943zM4.667 2.667l-.943.276L4 2l-.276-.943.943.276.942-.276L5.333 2l.276.943z" mask="url(#b)"/>
+    </g>
+</svg>
