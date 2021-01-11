@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cd34b4a.chunk.css",
+    "main.js": "/static/js/main.a6c191f7.chunk.js",
+    "main.js.map": "/static/js/main.a6c191f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe7d8410.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe7d8410.js.map",
+    "static/js/2.160930d9.chunk.js": "/static/js/2.160930d9.chunk.js",
+    "static/js/2.160930d9.chunk.js.map": "/static/js/2.160930d9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f41f185b4be59616361d71c502b3e2e1.js": "/precache-manifest.f41f185b4be59616361d71c502b3e2e1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2cd34b4a.chunk.css.map": "/static/css/main.2cd34b4a.chunk.css.map",
+    "static/js/2.160930d9.chunk.js.LICENSE.txt": "/static/js/2.160930d9.chunk.js.LICENSE.txt",
+    "static/media/1980_Image.jpg": "/static/media/1980_Image.dfa16d1d.jpg",
+    "static/media/4thIndustrialRevolution_Placeholder_Image_13.jpg": "/static/media/4thIndustrialRevolution_Placeholder_Image_13.424e05d8.jpg",
+    "static/media/5G_Placeholder_Image_14.jpg": "/static/media/5G_Placeholder_Image_14.8beb432b.jpg",
+    "static/media/AIAssitan_Image_13.jpg": "/static/media/AIAssitan_Image_13.109a3688.jpg",
+    "static/media/Amazon_Image_10.jpg": "/static/media/Amazon_Image_10.71cd1872.jpg",
+    "static/media/Chatbots_Image_13.jpg": "/static/media/Chatbots_Image_13.1dc678fd.jpg",
+    "static/media/FirstCellphone_Image_6.jpg": "/static/media/FirstCellphone_Image_6.204c5aae.jpg",
+    "static/media/FirstDigitalMessage_Image_4.jpg": "/static/media/FirstDigitalMessage_Image_4.fb1785c5.jpg",
+    "static/media/FirstMouse_Image_3.jpg": "/static/media/FirstMouse_Image_3.ddd533bb.jpg",
+    "static/media/Floppydisk_Image_5.jpg": "/static/media/Floppydisk_Image_5.3a6e76cf.jpg",
+    "static/media/Interfaces_Image_15.jpg": "/static/media/Interfaces_Image_15.475f5c70.jpg",
+    "static/media/Mocrochip_Image_2.jpg": "/static/media/Mocrochip_Image_2.4dd540fa.jpg",
+    "static/media/styles.scss": "/static/media/simpl-icons-newton.da1af320.ttf",
+    "static/media/SiliconElement_Image_1.jpg": "/static/media/SiliconElement_Image_1.8a7c9d3d.jpg",
+    "static/media/SmallHardware_Placeholder_Image_16.jpg": "/static/media/SmallHardware_Placeholder_Image_16.67a20e57.jpg",
+    "static/media/SocialMedia_Placeholder_Image_12.jpg": "/static/media/SocialMedia_Placeholder_Image_12.bd5bd584.jpg",
+    "static/media/Web2_Placeholder_Image_11.jpg": "/static/media/Web2_Placeholder_Image_11.60f6d05f.jpg",
+    "static/media/siemens50years.css": "/static/media/bkg-svg.b2227666.jpg",
+    "static/media/html_Image_9.jpg": "/static/media/html_Image_9.300f2795.jpg",
+    "static/media/www_Image_8.jpg": "/static/media/www_Image_8.87be8a51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe7d8410.js",
+    "static/js/2.160930d9.chunk.js",
+    "static/css/main.2cd34b4a.chunk.css",
+    "static/js/main.a6c191f7.chunk.js"
+  ]
+}
